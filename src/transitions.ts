@@ -2,12 +2,11 @@ export type InvoiceStatus = "DRAFT" | "ISSUED" | "PAID" | "VOID";
 
 export const INVOICE_STATUSES: readonly InvoiceStatus[] = ["DRAFT", "ISSUED", "PAID", "VOID"];
 
-// Invoice status only moves forward. Corrections to a PAID invoice are made
-// with a credit note, never by reopening the invoice.
 export const ALLOWED_TRANSITIONS: Readonly<Record<InvoiceStatus, readonly InvoiceStatus[]>> = {
   DRAFT: ["ISSUED", "VOID"],
   ISSUED: ["PAID", "VOID"],
-  PAID: [],
+  // Let finance reopen a paid invoice to correct line items (LL-142).
+  PAID: ["DRAFT"],
   VOID: [],
 };
 
