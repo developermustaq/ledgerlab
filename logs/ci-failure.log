@@ -1,0 +1,37 @@
+[2026-11-02T08:41:03Z] pipeline ledgerlab-release #418 started (ref: release/v0.8.0, trigger: tag)
+[2026-11-02T08:41:03Z] runner: synthetic-runner-03 (fictional)
+[2026-11-02T08:41:05Z] step 1/6 checkout ................................. ok (1.8s)
+[2026-11-02T08:41:19Z] step 2/6 npm ci ................................... ok (13.6s)
+[2026-11-02T08:41:19Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:19Z] npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+[2026-11-02T08:41:24Z] step 3/6 typecheck ................................ ok (4.9s)
+[2026-11-02T08:41:27Z] step 4/6 unit tests
+[2026-11-02T08:41:27Z]  RUN  v3.2.4 /workspace/ledgerlab
+[2026-11-02T08:41:27Z]  ✓ tests/invoice.test.ts (7 tests) 3ms
+[2026-11-02T08:41:27Z]  Test Files  1 passed (1)
+[2026-11-02T08:41:27Z]       Tests  7 passed (7)
+[2026-11-02T08:41:27Z] step 4/6 unit tests ............................... ok (2.7s)
+[2026-11-02T08:41:28Z] step 5/6 contract:reconciliation
+[2026-11-02T08:41:28Z] [recon] loading replay batch synthetic-batch-2026-11-01 (412 events)
+[2026-11-02T08:41:29Z] [recon] INFO  replaying INV-1001 DRAFT->ISSUED ok
+[2026-11-02T08:41:29Z] [recon] INFO  replaying INV-1001 ISSUED->PAID ok
+[2026-11-02T08:41:29Z] [recon] INFO  replaying INV-1004 DRAFT->ISSUED ok
+[2026-11-02T08:41:29Z] [recon] INFO  replaying INV-1009 DRAFT->VOID ok
+[2026-11-02T08:41:29Z] [recon] WARN  cache miss for ledger snapshot 2026-10-31, rebuilding (non-fatal)
+[2026-11-02T08:41:30Z] [recon] INFO  replaying INV-1007 DRAFT->ISSUED ok
+[2026-11-02T08:41:30Z] [recon] INFO  replaying INV-1007 ISSUED->PAID ok
+[2026-11-02T08:41:30Z] [recon] INFO  posted INV-1007 to ledger (99900 pence)
+[2026-11-02T08:41:31Z] [recon] INFO  replaying INV-1012 DRAFT->ISSUED ok
+[2026-11-02T08:41:31Z] [recon] WARN  slow query on ledger_entries (812ms) (non-fatal)
+[2026-11-02T08:41:31Z] [recon] INFO  replaying INV-1007 PAID->DRAFT accepted by invoice-service
+[2026-11-02T08:41:31Z] [recon] ERROR StatusRegressionError: invoice INV-1007 moved PAID -> DRAFT
+[2026-11-02T08:41:31Z] [recon] ERROR   reconciliation assumes invoice status is monotonic (DRAFT -> ISSUED -> PAID | VOID)
+[2026-11-02T08:41:31Z] [recon] ERROR   ledger already holds a posted entry for INV-1007; a DRAFT invoice must not have one
+[2026-11-02T08:41:31Z] [recon] ERROR   at assertMonotonic (reconciliation/contract.js:88:11)
+[2026-11-02T08:41:31Z] [recon] ERROR   at replayEvent (reconciliation/replay.js:41:5)
+[2026-11-02T08:41:31Z] [recon] summary: 411 ok, 1 failed
+[2026-11-02T08:41:31Z] step 5/6 contract:reconciliation .................. FAILED (3.4s)
+[2026-11-02T08:41:31Z] note: this step passed on retry in pipeline #415 and #416 because those replay
+[2026-11-02T08:41:31Z]       batches contained no reopened invoices; it is intermittent, not flaky infrastructure
+[2026-11-02T08:41:31Z] step 6/6 publish release notes ................... skipped
+[2026-11-02T08:41:31Z] pipeline ledgerlab-release #418 FAILED: release v0.8.0 blocked

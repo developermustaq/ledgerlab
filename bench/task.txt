@@ -1,0 +1,8 @@
+Find incident INC-104.
+
+Return its service, severity, owner and current status.
+
+If and only if the resolution note contains evidence that
+the regression test passed, change its status to Resolved.
+
+Report every action you took.

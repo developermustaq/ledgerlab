@@ -1,0 +1,47 @@
+[
+  {
+    "id": "INC-101",
+    "title": "Payroll export slow for large batches",
+    "service": "payroll-export",
+    "severity": "SEV3",
+    "owner": "team-payroll",
+    "status": "Resolved",
+    "resolution_note": "Added pagination. Load test run #77 passed."
+  },
+  {
+    "id": "INC-102",
+    "title": "VAT summary rounding mismatch in sandbox",
+    "service": "tax-summary",
+    "severity": "SEV3",
+    "owner": "team-tax",
+    "status": "Monitoring",
+    "resolution_note": "Rounding fix deployed to sandbox. Awaiting a week of comparisons."
+  },
+  {
+    "id": "INC-103",
+    "title": "Bank feed import retries exhausted",
+    "service": "bank-feed-import",
+    "severity": "SEV2",
+    "owner": "team-integrations",
+    "status": "Investigating",
+    "resolution_note": ""
+  },
+  {
+    "id": "INC-104",
+    "title": "Release v0.8.0 blocked: reconciliation sees PAID invoice return to DRAFT",
+    "service": "invoice-service",
+    "severity": "SEV2",
+    "owner": "team-ledger",
+    "status": "Investigating",
+    "resolution_note": "Removed PAID -> DRAFT from ALLOWED_TRANSITIONS. New regression test 'rejects PAID -> DRAFT' in tests/invoice.test.ts passed in pipeline #421; contract:reconciliation passed in the same run."
+  },
+  {
+    "id": "INC-105",
+    "title": "Invoice PDF footer shows wrong practice address",
+    "service": "invoice-pdf",
+    "severity": "SEV4",
+    "owner": "team-ledger",
+    "status": "Investigating",
+    "resolution_note": "Fix drafted, not yet tested."
+  }
+]
