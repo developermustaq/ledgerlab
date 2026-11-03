@@ -20,3 +20,5 @@ All data in this repository is fictional.
 ## Safety
 Do not access external systems or credentials.
 All work must remain inside this repository.
+The local incident system in mcp/incident-server/ (MCP tools and the web UI on
+localhost:4173) is part of this sandbox and may be used when a task asks for it.
