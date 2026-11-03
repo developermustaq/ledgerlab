@@ -41,7 +41,7 @@ Then show the live rules:
 | `Edit(/tests/fixtures.ts)` | Reject | Generated file |
 | `Bash(rm -rf *)` | Reject | Destructive; checkpoints don't cover it |
 | `Bash(curl *)` to an external host | Reject | `CLAUDE.md`: no external systems |
-| `mcp__incidents__update_incident_status` with no prompt | Ask | It writes to another system; keep a human gate |
+| `mcp__incidents__update_incident_status` with no prompt | Ask | It writes to another system; keep a human gate. Here it is left out of the allow list, so Manual mode prompts. (An explicit `ask` rule would also override `--allowedTools` in headless runs, because ask is checked before allow.) |
 | Starting with `--dangerously-skip-permissions` | Reject | Use allow-lists and a permission mode instead |
 
 ## Key points

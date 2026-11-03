@@ -143,7 +143,8 @@ npm run incidents:web     # web UI at http://localhost:4173/incidents/INC-104
 The MCP server is registered in `.mcp.json` as `incidents`, with tools
 `get_incident(id)` and `update_incident_status(id, status, resolution_note)`.
 Claude Code asks you to approve project MCP servers the first time. Reading is
-pre-approved in `.claude/settings.json`; **writing still asks you**, on purpose.
+pre-approved in `.claude/settings.json`. Writing is deliberately left out, so in
+**Manual** mode (`Shift+Tab`) it asks you first.
 
 Prompt (both routes): see `bench/task.txt`. Measure, don't assume:
 `bench/README.md`.

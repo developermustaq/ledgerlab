@@ -15,12 +15,13 @@ fi
 
 npm run -s incidents:reset
 
-# Only the two incident tools are pre-approved; nothing else can run unattended.
+# Only the incident tools and the test command are pre-approved; anything else
+# that would prompt is denied, so the run cannot drift.
 claude -p "$(cat bench/task.txt)" \
   --output-format json \
   --permission-mode dontAsk \
-  --allowedTools "mcp__incidents__get_incident,mcp__incidents__update_incident_status" \
-  > "bench/results/${run_id}-mcp.json"
+  --allowedTools "mcp__incidents__get_incident,mcp__incidents__update_incident_status,Bash(npm test),Bash(npm test *)" \
+  < /dev/null > "bench/results/${run_id}-mcp.json"
 
 cp .incident-state.json "bench/results/${run_id}-mcp-state.json"
 node bench/summarise.mjs "bench/results/${run_id}-mcp.json" "bench/results/${run_id}-mcp-state.json"

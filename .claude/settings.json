@@ -9,9 +9,6 @@
       "Bash(git show *)",
       "mcp__incidents__get_incident"
     ],
-    "ask": [
-      "mcp__incidents__update_incident_status"
-    ],
     "deny": [
       "Read(/.env)",
       "Read(/.env.*)",

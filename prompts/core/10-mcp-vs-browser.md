@@ -29,6 +29,11 @@ In Claude Code, check that the server is connected (approve the project server t
 /mcp
 ```
 
+Then press `Shift+Tab` until the mode shows **Manual**. Recent Claude Code
+versions start interactive sessions in **Auto** mode, where a classifier
+approves or blocks actions instead of asking you. In Manual mode the incident
+write will stop and ask, which is the approval gate you want the room to see.
+
 ## Predict (ask the room)
 
 > "Which route will need fewer model turns? Fewer tokens? Which is more likely
@@ -51,9 +56,9 @@ Report every action you took.
 Use only the incidents MCP tools.
 ```
 
-Expected: `get_incident` runs without asking (pre-approved). `update_incident_status`
-**asks you** (an `ask` rule in `.claude/settings.json`). Approve it on stage: that
-prompt is the human approval gate.
+Expected: `get_incident` runs without asking (it is in the allow list in
+`.claude/settings.json`). `update_incident_status` is not in the allow list, so in
+Manual mode it **asks you**. Approve it on stage: that prompt is the human approval gate.
 
 ## Route B: browser (reset first)
 
