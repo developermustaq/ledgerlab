@@ -1,0 +1,11 @@
+{
+  "name": "2026-10-31 (no reopened invoices)",
+  "requests": [
+    { "invoiceId": "INV-1001", "to": "ISSUED", "at": "2026-10-31T09:00:00.000Z" },
+    { "invoiceId": "INV-1001", "to": "PAID", "at": "2026-10-31T11:20:00.000Z" },
+    { "invoiceId": "INV-1004", "to": "ISSUED", "at": "2026-10-31T09:05:00.000Z" },
+    { "invoiceId": "INV-1009", "to": "VOID", "at": "2026-10-31T10:00:00.000Z" },
+    { "invoiceId": "INV-1012", "to": "ISSUED", "at": "2026-10-31T12:30:00.000Z" },
+    { "invoiceId": "INV-1012", "to": "PAID", "at": "2026-10-31T15:45:00.000Z" }
+  ]
+}
