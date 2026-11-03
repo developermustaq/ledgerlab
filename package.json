@@ -14,7 +14,11 @@
     "incidents:mcp": "node mcp/incident-server/server.mjs",
     "incidents:reset": "node mcp/incident-server/reset.mjs",
     "ci:contract": "vitest run --config vitest.contract.config.ts",
-    "logs:generate": "node scripts/make-full-log.mjs"
+    "logs:generate": "node scripts/make-full-log.mjs",
+    "where": "node scripts/where-am-i.mjs",
+    "measure:haystack": "bench/measure.sh haystack",
+    "measure:recovery": "bench/measure.sh recovery",
+    "measure:agents": "bench/measure.sh agents"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
