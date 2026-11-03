@@ -1,0 +1,19 @@
+{
+  "name": "ledgerlab",
+  "version": "0.7.0",
+  "private": true,
+  "description": "Fictional invoice-state sandbox for an AI engineering workshop.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0"
+  }
+}
