@@ -51,12 +51,12 @@ so the project's permission rules in `.claude/settings.json` apply.
 
 The story's states are saved as branches, so you can jump to any point:
 
-| Branch | State | `npm test` | `npm run ci:contract` |
-|---|---|---|---|
-| `main` = `workshop/checkpoint-00-start` | Bug present, no test covers it | 7/7 pass | **1 fails** |
-| `workshop/checkpoint-01-investigated` | + a reference triage report in `reports/` | 7/7 pass | 1 fails |
-| `workshop/checkpoint-02-tested` | + the regression test (red) | **1 fails** | 1 fails |
-| `workshop/checkpoint-03-fixed` | + the smallest fix (green) | 8/8 pass | 2/2 pass |
+| Branch | `npm run where` says | State | `npm test` | `npm run ci:contract` |
+|---|---|---|---|---|
+| `main` = `workshop/checkpoint-00-start` | STEP 1 · The blocked release | Bug present, no test covers it | 7/7 pass | **1 fails** |
+| `workshop/checkpoint-01-investigated` | STEP 2 · Investigated | + a reference triage report in `reports/` | 7/7 pass | 1 fails |
+| `workshop/checkpoint-02-tested` | STEP 3 · Red | + the regression test | **1 fails** | 1 fails |
+| `workshop/checkpoint-03-fixed` | STEP 4 · Green | + the smallest fix | 8/8 pass | 2/2 pass |
 
 Switch with `git switch workshop/checkpoint-03-fixed`, then run `npm run where` again.
 
