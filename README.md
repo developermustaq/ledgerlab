@@ -1,165 +1,82 @@
 # LedgerLab
 
-A small, **fictional** invoice application for the workshop *AI Engineering
+A small, **fictional** invoice application used in the workshop *AI Engineering
 Masterclass: From Prompting to Production*. It is not based on any real
 company's code, and all data in it is synthetic.
 
-**The story:** release v0.8.0 is blocked. A rule lets a `PAID` invoice go back
-to `DRAFT`. The unit tests all pass, because none of them covers that
-transition. A downstream reconciliation job fails from time to time because it
-assumes invoice status only ever moves forward. Your job is to diagnose the
-problem, add the right test, make the smallest fix, and verify it, using Claude
-Code in a controlled way.
+> **Missed the session, or want to relive it?** Start at
+> **[walkthrough/00-start-here.md](walkthrough/00-start-here.md)**. Thirteen short
+> chapters follow the session in order. Each explains one concept, lets you
+> reproduce it step by step, and shows the real recorded result to compare with yours.
 
-## Before the workshop (preflight, about 10 minutes)
+## The story in one paragraph
 
-You need Git, Node.js 20 or newer, npm, and Claude Code signed in with your
-approved account. No production credentials are needed or allowed.
+Release v0.8.0 is blocked. A rule lets a `PAID` invoice go back to `DRAFT`. All
+7 unit tests pass, because none of them covers that transition, but a downstream
+reconciliation check fails, only for batches that contain a reopened invoice.
+The walkthrough uses Claude Code to investigate before editing, prove the cause,
+make the smallest fix, and verify it, adding one capability and one control per
+chapter: context, skills, agents, parallelism, MCP and permissions.
+
+## Quick start
+
+You need Git, Node.js 20+, npm, and Claude Code signed in with your own account.
 
 ```bash
 git clone https://github.com/developermustaq/ledgerlab.git
 cd ledgerlab
 npm ci
-npm test            # expected: 7 passed
-claude --version    # Claude Code launches
+npm run where    # tells you which step of the story this checkout is at
 ```
 
-Then run `claude` in the folder once and type `/doctor` if anything looks wrong.
-Create a branch for your own work: `git switch -c my-work`.
+On a fresh clone `npm run where` reports **STEP 1 · The blocked release**:
+7/7 unit tests pass, and the contract check fails 1 of 2.
+
+## Commands
+
+| Command | What it does |
+|---|---|
+| `npm run where` | Your compass: runs both checks and names the current step |
+| `npm test` | Unit tests (7 on `main`, 8 once the regression test exists) |
+| `npm run ci:contract` | The downstream reconciliation check that fails on `main` |
+| `npm run measure:haystack` | Re-runs the "read the whole log vs search it" measurement (chapter 03) |
+| `npm run measure:recovery` | Fresh-session recovery from files (chapter 04) |
+| `npm run measure:agents` | One agent vs three parallel subagents (chapter 08) |
+| `npm run incidents:web` / `incidents:reset` | The fictional incident system's web UI, and a reset (chapter 10) |
+| `npm run typecheck` | TypeScript check |
+
+The `measure:*` scripts run Claude Code headless and read-only (plan mode), and
+use real tokens on your account. Pin a model for fair comparisons:
+`MODEL=claude-opus-5-5 npm run measure:haystack`.
+
+## The story's checkpoints (git branches)
+
+| Branch | State | `npm test` | `npm run ci:contract` |
+|---|---|---|---|
+| `main` = `workshop/checkpoint-00-start` | Bug present, no test covers it | 7/7 pass | 1 of 2 fails |
+| `workshop/checkpoint-01-investigated` | + reference triage report `reports/triage.md` | 7/7 pass | 1 of 2 fails |
+| `workshop/checkpoint-02-tested` | + regression test (red) | 1 fails | 1 of 2 fails |
+| `workshop/checkpoint-03-fixed` | + smallest fix (green) | 8/8 pass | 2/2 pass |
 
 ## What's in the repo
 
-| Path | What it is |
-|---|---|
-| `CLAUDE.md` | Durable project rules Claude reads every session |
-| `progress.md` | Durable task state: constraints that must survive |
-| `src/`, `tests/` | The invoice code and its tests (`tests/fixtures.ts` is generated: do not edit) |
-| `logs/ci-failure.log` | The failing CI run for v0.8.0 |
-| `.claude/skills/release-triage/` | A reusable triage procedure (Skill) |
-| `.claude/agents/` | Three read-only investigators: `developer-reviewer`, `qa-investigator`, `ops-reviewer` |
-| `.claude/settings.json` | Permission rules: what Claude may run without asking |
-| `mcp/incident-server/` | A fake incident system with an MCP server and a web UI |
-| `expected/checklist.md` | How to judge a triage run by behaviour, not wording |
-| `bench/` | How to measure MCP vs browser (no results until measured) |
-| `prompts/` | Every prompt used in the session, in running order |
-| `fallbacks/` | Prepared artefacts for when a live demo stalls |
-| `slides/diagrams/` | Slide-ready diagrams for each concept |
-| `slides/recorded-runs/` | Real captured runs, with commands to reproduce them |
-| `contract/` | `npm run ci:contract`: the downstream reconciliation check that fails on `main` |
-
-## Prompt library
-
-Every prompt in the session, in running order, with who runs it, the expected
-result and the fallback, is in **[`prompts/`](prompts/README.md)**:
-
-- `prompts/core/`: the 120-minute session, segment by segment
-- `prompts/extensions/`: optional 15–30 minute modules
-- `prompts/presenter/`: recovery rules, waiting questions, rehearsal checklist
-
-## Exercises
-
-The hands-on parts at a glance. Each gives you a **task**, a **prompt**, a
-**success checkpoint** and a **recovery route**.
-
-### 1. First investigation (5 min)
-
-- **Task:** find out why the release is blocked, without changing anything.
-- **Prompt:** `Why is release v0.8.0 blocked? Investigate only. Do not edit files.`
-- **Success:** Claude points at `logs/ci-failure.log` and `src/transitions.ts`.
-- **Stuck?** `git switch workshop/checkpoint-00-start`
-
-### 2. Skill-driven triage (5 min)
-
-- **Task:** investigate why a PAID invoice can become DRAFT.
-- **Prompt:**
-  ```text
-  /release-triage
-  Investigate why a PAID invoice can become DRAFT.
-  Do not edit files.
-  Identify the violated rule, relevant test and smallest safe fix.
-  ```
-- **Success:** you can name (1) the faulty transition, (2) the missing
-  regression test, (3) the proposed minimal change. Check against
-  `expected/checklist.md`.
-- **Stuck?** `git switch workshop/checkpoint-01-investigated` and read `reports/triage.md`.
-
-### 3. Delegation to one agent
-
-- **Prompt:**
-  ```text
-  Investigate the PAID -> DRAFT defect.
-
-  Delegate test-coverage analysis to qa-investigator.
-  You remain responsible for implementation analysis.
-
-  Do not modify files.
-  When both investigations are complete, produce:
-  1. common findings
-  2. disagreements
-  3. evidence still required
-  ```
-
-### 4. Three investigators in parallel
-
-- **Prompt:**
-  ```text
-  We need a release decision for the invoice-status defect.
-
-  Run these independent investigations in parallel where appropriate:
-
-  - developer-reviewer:
-    inspect the state-transition implementation and identify the likely defect.
-
-  - qa-investigator:
-    inspect current tests and identify the smallest missing regression test.
-
-  - ops-reviewer:
-    inspect logs/ci-failure.log and identify the operational symptom and blast radius.
-
-  Do not edit any files.
-
-  After all three return, synthesise a release recommendation.
-  Explicitly mark each conclusion as:
-  FACT / INFERENCE / UNKNOWN.
-  ```
-- **Ask yourself:** which conclusions are evidence, and which are assertion?
-
-### 5. Fix and verify
-
-- **Task:** add the regression test first, watch it fail, then make the smallest fix.
-- **Success:** `npm test` goes red with the new test, then green after the fix,
-  with no other test changed.
-- **Stuck?** `workshop/checkpoint-02-tested` (failing test added) or
-  `workshop/checkpoint-03-fixed` (fixed).
-
-### 6. MCP vs browser (presenter-led, optional for you)
-
-Same task, two interfaces, one fake incident system. Run it on the fixed
-checkpoint, because the incident note claims the fix has landed:
-
-```bash
-git switch workshop/checkpoint-03-fixed
-npm run incidents:reset
-npm run incidents:web     # web UI at http://localhost:4173/incidents/INC-104
-```
-
-The MCP server is registered in `.mcp.json` as `incidents`, with tools
-`get_incident(id)` and `update_incident_status(id, status, resolution_note)`.
-Claude Code asks you to approve project MCP servers the first time. Reading is
-pre-approved in `.claude/settings.json`. Writing is deliberately left out, so in
-**Manual** mode (`Shift+Tab`) it asks you first.
-
-Prompt (both routes): see `bench/task.txt`. Measure, don't assume:
-`bench/README.md`.
-
-## Checkpoints
-
-| Branch | State |
-|---|---|
-| `main` / `workshop/checkpoint-00-start` | Bug present, 7 tests pass |
-| `workshop/checkpoint-01-investigated` | Adds a reference triage report in `reports/` |
-| `workshop/checkpoint-02-tested` | Adds the regression test; it fails |
-| `workshop/checkpoint-03-fixed` | Minimal fix; all tests pass |
+| Path | What it is | Chapter |
+|---|---|---|
+| [`walkthrough/`](walkthrough/00-start-here.md) | **The self-guided session**, plus a [glossary](walkthrough/glossary.md) | all |
+| `src/`, `tests/` | The invoice code and its unit tests (`tests/fixtures.ts` is generated: do not edit) | 01, 06 |
+| `contract/` | The downstream reconciliation check and its two replay batches | 01, 06 |
+| `logs/` | The short CI log and a 2,000-line noisy one (`ci-full.log`) | 01, 03 |
+| `CLAUDE.md`, `progress.md` | Durable project rules and task state | 04, 05 |
+| `.claude/skills/release-triage/` | The triage procedure, packaged as a skill | 05, 06 |
+| `.claude/agents/` | Three read-only investigators | 07, 08 |
+| `.claude/settings.json` | Permission rules: deny, ask, allow | 11 |
+| `mcp/incident-server/`, `.mcp.json`, `incidents/` | A fictional incident system: MCP server and web UI on the same data | 10 |
+| `expected/checklist.md` | How to judge a triage run by behaviour, not wording | 06 |
+| `fallbacks/` | The lossy-summary illustration and the recovery prompt | 04 |
+| `bench/` | Measurement scripts and guidance | 03, 08, 10 |
+| `slides/diagrams/`, `slides/recorded-runs/` | The session's diagrams, and images of real captured runs with how to reproduce them | all |
+| [`prompts/`](prompts/README.md) | The presenters' kit: every prompt in running order, timings, fallbacks | presenters |
+| `scripts/` | `where-am-i.mjs` and the log generator | 00, 03 |
 
 ## Safety rules for this sandbox
 
