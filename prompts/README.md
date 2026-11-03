@@ -33,6 +33,9 @@ spinner. See [`presenter/recovery-rules.md`](presenter/recovery-rules.md).
 
 Slide-ready diagrams for these segments are in [`../slides/diagrams/`](../slides/diagrams/README.md).
 
+Real captured runs (tests, contract job, Claude Code token and timing measurements) are in
+[`../slides/recorded-runs/`](../slides/recorded-runs/README.md), with the commands to reproduce each one.
+
 ## Optional extensions (15–30 min each)
 
 | Extension | File |
