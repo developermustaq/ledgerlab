@@ -1,6 +1,6 @@
 # 07 · Agent delegation
 
-**Time:** 01:02–01:13 · **Lead:** James → Mustaq · **Branch:** `main`
+**Time:** 01:02–01:13 · **Lead:** Mustaq · **Branch:** `main`
 
 ## Goal
 

@@ -43,6 +43,7 @@ Create a branch for your own work: `git switch -c my-work`.
 | `bench/` | How to measure MCP vs browser (no results until measured) |
 | `prompts/` | Every prompt used in the session, in running order |
 | `fallbacks/` | Prepared artefacts for when a live demo stalls |
+| `slides/diagrams/` | Slide-ready diagrams for each concept |
 
 ## Prompt library
 

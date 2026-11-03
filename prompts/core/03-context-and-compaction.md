@@ -1,6 +1,6 @@
 # 03 · Context, state and compaction ("the disappearing constraint")
 
-**Time:** 00:16–00:27 · **Lead:** Mustaq · **Branch:** `main`
+**Time:** 00:16–00:27 · **Lead:** Mustaq (James covers tokens, budget and compaction) · **Branch:** `main`
 
 ## Goal
 
