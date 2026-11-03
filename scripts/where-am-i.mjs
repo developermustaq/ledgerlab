@@ -3,7 +3,7 @@
 // Usage: npm run where
 
 import { execFileSync, spawnSync } from "node:child_process";
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 
 function vitest(args) {
   const run = spawnSync("npx", ["vitest", "run", "--reporter=json", ...args], { encoding: "utf8" });
@@ -26,7 +26,13 @@ line("npm test", `${unit.passed}/${unit.total} passed${unit.failed ? `, ${unit.f
 line("npm run ci:contract", `${contract.passed}/${contract.total} passed${contract.failed ? `, ${contract.failed} FAILED` : ""}`);
 
 let step;
-if (bugPresent && !hasRegressionTest) {
+if (bugPresent && !hasRegressionTest && existsSync("reports/triage.md")) {
+  step = [
+    "STEP 2 · Investigated (walkthrough/06, Phase A and B).",
+    "Same code as STEP 1, plus a reference triage report: read reports/triage.md and",
+    "compare it with what your own /release-triage run found. No edits yet.",
+  ];
+} else if (bugPresent && !hasRegressionTest) {
   step = [
     "STEP 1 · The blocked release (walkthrough/01).",
     "Unit tests are green because none of them covers PAID -> DRAFT, yet the",
