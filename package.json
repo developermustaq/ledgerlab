@@ -12,7 +12,9 @@
     "typecheck": "tsc --noEmit",
     "incidents:web": "node mcp/incident-server/web.mjs",
     "incidents:mcp": "node mcp/incident-server/server.mjs",
-    "incidents:reset": "node mcp/incident-server/reset.mjs"
+    "incidents:reset": "node mcp/incident-server/reset.mjs",
+    "ci:contract": "vitest run --config vitest.contract.config.ts",
+    "logs:generate": "node scripts/make-full-log.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

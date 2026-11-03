@@ -1,0 +1,1994 @@
+[2026-11-02T08:41:03Z] pipeline ledgerlab-release #418 started (ref: release/v0.8.0, trigger: tag)
+[2026-11-02T08:41:03Z] runner: synthetic-runner-03 (fictional)
+[2026-11-02T08:41:03Z] npm http fetch GET 200 https://registry.example.test/pkg-823 62ms (cache hit)
+[2026-11-02T08:41:03Z] npm verb reify adding 39 packages
+[2026-11-02T08:41:03Z] npm verb reify adding 33 packages
+[2026-11-02T08:41:04Z] npm verb reify adding 38 packages
+[2026-11-02T08:41:04Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:04Z] npm timing build:link:node_modules/pkg-631 Completed in 7ms
+[2026-11-02T08:41:04Z] npm verb reify adding 36 packages
+[2026-11-02T08:41:04Z] npm verb reify adding 6 packages
+[2026-11-02T08:41:04Z] npm http fetch GET 200 https://registry.example.test/pkg-659 52ms (cache hit)
+[2026-11-02T08:41:04Z] npm http fetch GET 200 https://registry.example.test/pkg-71 81ms (cache hit)
+[2026-11-02T08:41:04Z] npm timing build:link:node_modules/pkg-320 Completed in 4ms
+[2026-11-02T08:41:05Z] npm timing build:link:node_modules/pkg-374 Completed in 0ms
+[2026-11-02T08:41:05Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:05Z] npm verb reify adding 0 packages
+[2026-11-02T08:41:05Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:06Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:06Z] npm verb reify adding 18 packages
+[2026-11-02T08:41:06Z] npm timing build:link:node_modules/pkg-484 Completed in 4ms
+[2026-11-02T08:41:06Z] npm verb reify adding 24 packages
+[2026-11-02T08:41:06Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:06Z] npm http fetch GET 200 https://registry.example.test/pkg-631 25ms (cache hit)
+[2026-11-02T08:41:06Z] npm http fetch GET 200 https://registry.example.test/pkg-690 57ms (cache hit)
+[2026-11-02T08:41:06Z] npm verb reify adding 18 packages
+[2026-11-02T08:41:06Z] npm timing build:link:node_modules/pkg-736 Completed in 0ms
+[2026-11-02T08:41:07Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:07Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:07Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:07Z] npm verb reify adding 33 packages
+[2026-11-02T08:41:08Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:08Z] npm http fetch GET 200 https://registry.example.test/pkg-21 73ms (cache hit)
+[2026-11-02T08:41:08Z] npm http fetch GET 200 https://registry.example.test/pkg-167 63ms (cache hit)
+[2026-11-02T08:41:08Z] npm verb reify adding 33 packages
+[2026-11-02T08:41:08Z] npm http fetch GET 200 https://registry.example.test/pkg-343 56ms (cache hit)
+[2026-11-02T08:41:08Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:08Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:09Z] npm timing build:link:node_modules/pkg-629 Completed in 0ms
+[2026-11-02T08:41:09Z] npm http fetch GET 200 https://registry.example.test/pkg-668 27ms (cache hit)
+[2026-11-02T08:41:09Z] npm http fetch GET 200 https://registry.example.test/pkg-479 27ms (cache hit)
+[2026-11-02T08:41:09Z] npm http fetch GET 200 https://registry.example.test/pkg-517 38ms (cache hit)
+[2026-11-02T08:41:09Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:10Z] npm verb reify adding 36 packages
+[2026-11-02T08:41:10Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:10Z] npm verb reify adding 25 packages
+[2026-11-02T08:41:10Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:11Z] npm http fetch GET 200 https://registry.example.test/pkg-557 67ms (cache hit)
+[2026-11-02T08:41:11Z] npm verb reify adding 5 packages
+[2026-11-02T08:41:11Z] npm verb reify adding 37 packages
+[2026-11-02T08:41:11Z] npm timing build:link:node_modules/pkg-233 Completed in 6ms
+[2026-11-02T08:41:11Z] npm http fetch GET 200 https://registry.example.test/pkg-178 26ms (cache hit)
+[2026-11-02T08:41:12Z] npm verb reify adding 15 packages
+[2026-11-02T08:41:12Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:12Z] npm http fetch GET 200 https://registry.example.test/pkg-734 10ms (cache hit)
+[2026-11-02T08:41:12Z] npm verb reify adding 24 packages
+[2026-11-02T08:41:12Z] npm http fetch GET 200 https://registry.example.test/pkg-835 72ms (cache hit)
+[2026-11-02T08:41:13Z] npm timing build:link:node_modules/pkg-775 Completed in 5ms
+[2026-11-02T08:41:13Z] npm verb reify adding 6 packages
+[2026-11-02T08:41:13Z] npm timing build:link:node_modules/pkg-773 Completed in 7ms
+[2026-11-02T08:41:14Z] npm timing build:link:node_modules/pkg-704 Completed in 2ms
+[2026-11-02T08:41:14Z] npm verb reify adding 0 packages
+[2026-11-02T08:41:14Z] npm timing build:link:node_modules/pkg-373 Completed in 5ms
+[2026-11-02T08:41:14Z] npm http fetch GET 200 https://registry.example.test/pkg-76 82ms (cache hit)
+[2026-11-02T08:41:14Z] npm verb reify adding 37 packages
+[2026-11-02T08:41:14Z] npm verb reify adding 23 packages
+[2026-11-02T08:41:14Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:14Z] npm verb reify adding 6 packages
+[2026-11-02T08:41:15Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:15Z] npm verb reify adding 18 packages
+[2026-11-02T08:41:15Z] npm http fetch GET 200 https://registry.example.test/pkg-168 31ms (cache hit)
+[2026-11-02T08:41:16Z] npm verb reify adding 37 packages
+[2026-11-02T08:41:16Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:16Z] npm verb reify adding 30 packages
+[2026-11-02T08:41:16Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:16Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:16Z] npm timing build:link:node_modules/pkg-679 Completed in 3ms
+[2026-11-02T08:41:17Z] npm timing build:link:node_modules/pkg-7 Completed in 7ms
+[2026-11-02T08:41:17Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:17Z] npm http fetch GET 200 https://registry.example.test/pkg-857 69ms (cache hit)
+[2026-11-02T08:41:17Z] npm verb reify adding 22 packages
+[2026-11-02T08:41:18Z] npm verb reify adding 1 packages
+[2026-11-02T08:41:18Z] npm timing build:link:node_modules/pkg-229 Completed in 4ms
+[2026-11-02T08:41:18Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:19Z] npm timing build:link:node_modules/pkg-134 Completed in 6ms
+[2026-11-02T08:41:19Z] npm verb reify adding 22 packages
+[2026-11-02T08:41:19Z] npm verb reify adding 14 packages
+[2026-11-02T08:41:19Z] npm http fetch GET 200 https://registry.example.test/pkg-189 42ms (cache hit)
+[2026-11-02T08:41:19Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:20Z] npm verb reify adding 13 packages
+[2026-11-02T08:41:20Z] npm http fetch GET 200 https://registry.example.test/pkg-621 53ms (cache hit)
+[2026-11-02T08:41:20Z] npm http fetch GET 200 https://registry.example.test/pkg-127 62ms (cache hit)
+[2026-11-02T08:41:20Z] npm verb reify adding 21 packages
+[2026-11-02T08:41:21Z] npm http fetch GET 200 https://registry.example.test/pkg-15 58ms (cache hit)
+[2026-11-02T08:41:21Z] npm http fetch GET 200 https://registry.example.test/pkg-816 25ms (cache hit)
+[2026-11-02T08:41:21Z] npm http fetch GET 200 https://registry.example.test/pkg-612 2ms (cache hit)
+[2026-11-02T08:41:21Z] npm verb reify adding 18 packages
+[2026-11-02T08:41:22Z] npm http fetch GET 200 https://registry.example.test/pkg-720 42ms (cache hit)
+[2026-11-02T08:41:22Z] npm http fetch GET 200 https://registry.example.test/pkg-163 11ms (cache hit)
+[2026-11-02T08:41:22Z] npm http fetch GET 200 https://registry.example.test/pkg-299 49ms (cache hit)
+[2026-11-02T08:41:22Z] npm timing build:link:node_modules/pkg-638 Completed in 4ms
+[2026-11-02T08:41:23Z] npm http fetch GET 200 https://registry.example.test/pkg-234 53ms (cache hit)
+[2026-11-02T08:41:23Z] npm verb reify adding 38 packages
+[2026-11-02T08:41:23Z] npm http fetch GET 200 https://registry.example.test/pkg-158 30ms (cache hit)
+[2026-11-02T08:41:23Z] npm timing build:link:node_modules/pkg-124 Completed in 6ms
+[2026-11-02T08:41:23Z] npm timing build:link:node_modules/pkg-475 Completed in 5ms
+[2026-11-02T08:41:24Z] npm verb reify adding 8 packages
+[2026-11-02T08:41:24Z] npm timing build:link:node_modules/pkg-263 Completed in 3ms
+[2026-11-02T08:41:24Z] npm timing build:link:node_modules/pkg-291 Completed in 1ms
+[2026-11-02T08:41:24Z] npm timing build:link:node_modules/pkg-63 Completed in 4ms
+[2026-11-02T08:41:24Z] npm verb reify adding 35 packages
+[2026-11-02T08:41:24Z] npm timing build:link:node_modules/pkg-740 Completed in 1ms
+[2026-11-02T08:41:24Z] npm timing build:link:node_modules/pkg-266 Completed in 7ms
+[2026-11-02T08:41:25Z] npm verb reify adding 25 packages
+[2026-11-02T08:41:25Z] npm verb reify adding 11 packages
+[2026-11-02T08:41:25Z] npm http fetch GET 200 https://registry.example.test/pkg-216 47ms (cache hit)
+[2026-11-02T08:41:25Z] npm http fetch GET 200 https://registry.example.test/pkg-388 72ms (cache hit)
+[2026-11-02T08:41:25Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:25Z] npm verb reify adding 30 packages
+[2026-11-02T08:41:25Z] npm timing build:link:node_modules/pkg-868 Completed in 5ms
+[2026-11-02T08:41:26Z] npm verb reify adding 12 packages
+[2026-11-02T08:41:26Z] npm verb reify adding 24 packages
+[2026-11-02T08:41:26Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:26Z] npm timing build:link:node_modules/pkg-743 Completed in 4ms
+[2026-11-02T08:41:26Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:26Z] npm http fetch GET 200 https://registry.example.test/pkg-307 79ms (cache hit)
+[2026-11-02T08:41:26Z] npm http fetch GET 200 https://registry.example.test/pkg-819 56ms (cache hit)
+[2026-11-02T08:41:27Z] npm verb reify adding 15 packages
+[2026-11-02T08:41:27Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:27Z] npm verb reify adding 10 packages
+[2026-11-02T08:41:27Z] npm http fetch GET 200 https://registry.example.test/pkg-58 18ms (cache hit)
+[2026-11-02T08:41:27Z] npm verb reify adding 2 packages
+[2026-11-02T08:41:28Z] npm timing build:link:node_modules/pkg-201 Completed in 2ms
+[2026-11-02T08:41:28Z] npm timing build:link:node_modules/pkg-579 Completed in 0ms
+[2026-11-02T08:41:28Z] npm http fetch GET 200 https://registry.example.test/pkg-275 67ms (cache hit)
+[2026-11-02T08:41:29Z] npm timing build:link:node_modules/pkg-189 Completed in 0ms
+[2026-11-02T08:41:29Z] npm http fetch GET 200 https://registry.example.test/pkg-818 28ms (cache hit)
+[2026-11-02T08:41:29Z] npm timing build:link:node_modules/pkg-642 Completed in 3ms
+[2026-11-02T08:41:29Z] npm timing build:link:node_modules/pkg-246 Completed in 3ms
+[2026-11-02T08:41:29Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:29Z] npm http fetch GET 200 https://registry.example.test/pkg-869 69ms (cache hit)
+[2026-11-02T08:41:29Z] npm verb reify adding 11 packages
+[2026-11-02T08:41:29Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:29Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:29Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:30Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:30Z] npm http fetch GET 200 https://registry.example.test/pkg-777 0ms (cache hit)
+[2026-11-02T08:41:30Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:30Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:31Z] npm timing build:link:node_modules/pkg-523 Completed in 1ms
+[2026-11-02T08:41:31Z] npm timing build:link:node_modules/pkg-398 Completed in 7ms
+[2026-11-02T08:41:31Z] npm timing build:link:node_modules/pkg-371 Completed in 0ms
+[2026-11-02T08:41:31Z] npm http fetch GET 200 https://registry.example.test/pkg-576 57ms (cache hit)
+[2026-11-02T08:41:31Z] npm verb reify adding 12 packages
+[2026-11-02T08:41:31Z] npm verb reify adding 2 packages
+[2026-11-02T08:41:32Z] npm verb reify adding 25 packages
+[2026-11-02T08:41:32Z] npm http fetch GET 200 https://registry.example.test/pkg-600 2ms (cache hit)
+[2026-11-02T08:41:32Z] npm verb reify adding 31 packages
+[2026-11-02T08:41:32Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:32Z] npm http fetch GET 200 https://registry.example.test/pkg-340 58ms (cache hit)
+[2026-11-02T08:41:32Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:33Z] npm timing build:link:node_modules/pkg-647 Completed in 2ms
+[2026-11-02T08:41:33Z] npm http fetch GET 200 https://registry.example.test/pkg-283 47ms (cache hit)
+[2026-11-02T08:41:33Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:33Z] npm verb reify adding 32 packages
+[2026-11-02T08:41:33Z] npm http fetch GET 200 https://registry.example.test/pkg-896 59ms (cache hit)
+[2026-11-02T08:41:34Z] npm http fetch GET 200 https://registry.example.test/pkg-348 2ms (cache hit)
+[2026-11-02T08:41:34Z] npm verb reify adding 38 packages
+[2026-11-02T08:41:34Z] npm timing build:link:node_modules/pkg-735 Completed in 8ms
+[2026-11-02T08:41:34Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:34Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:34Z] npm verb reify adding 33 packages
+[2026-11-02T08:41:35Z] npm verb reify adding 0 packages
+[2026-11-02T08:41:35Z] npm http fetch GET 200 https://registry.example.test/pkg-357 64ms (cache hit)
+[2026-11-02T08:41:35Z] npm http fetch GET 200 https://registry.example.test/pkg-686 76ms (cache hit)
+[2026-11-02T08:41:35Z] npm verb reify adding 14 packages
+[2026-11-02T08:41:35Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:35Z] npm http fetch GET 200 https://registry.example.test/pkg-567 67ms (cache hit)
+[2026-11-02T08:41:36Z] npm http fetch GET 200 https://registry.example.test/pkg-627 1ms (cache hit)
+[2026-11-02T08:41:36Z] npm timing build:link:node_modules/pkg-622 Completed in 7ms
+[2026-11-02T08:41:36Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:36Z] npm warn deprecated inflight@1.0.6: This module is not supported
+[2026-11-02T08:41:36Z] npm timing build:link:node_modules/pkg-753 Completed in 7ms
+[2026-11-02T08:41:36Z] step 2/6 npm ci ................................... ok (13.6s)
+[2026-11-02T08:41:37Z] step 3/6 typecheck ................................ ok (4.9s)
+[2026-11-02T08:41:37Z]  RUN  v3.2.4 /workspace/ledgerlab
+[2026-11-02T08:41:37Z]  ✓ tests/invoice.test.ts (7 tests) 3ms
+[2026-11-02T08:41:37Z]       Tests  7 passed (7)
+[2026-11-02T08:41:37Z] step 4/6 unit tests ............................... ok (2.7s)
+[2026-11-02T08:41:38Z] step 5/6 contract:reconciliation
+[2026-11-02T08:41:38Z] [recon] loading replay batch synthetic-batch-2026-11-01 (2,412 events)
+[2026-11-02T08:41:38Z] [recon] INFO  replaying INV-3317 ISSUED->VOID ok
+[2026-11-02T08:41:38Z] [recon] INFO  replaying INV-3784 DRAFT->VOID ok
+[2026-11-02T08:41:38Z] [recon] INFO  replaying INV-7909 DRAFT->ISSUED ok
+[2026-11-02T08:41:38Z] [recon] INFO  replaying INV-3818 ISSUED->PAID ok
+[2026-11-02T08:41:39Z] [recon] INFO  replaying INV-6427 ISSUED->PAID ok
+[2026-11-02T08:41:39Z] [recon] INFO  replaying INV-6691 ISSUED->PAID ok
+[2026-11-02T08:41:39Z] [recon] INFO  replaying INV-7092 DRAFT->VOID ok
+[2026-11-02T08:41:39Z] [recon] INFO  replaying INV-6460 DRAFT->ISSUED ok
+[2026-11-02T08:41:39Z] [recon] INFO  replaying INV-2186 DRAFT->ISSUED ok
+[2026-11-02T08:41:39Z] [recon] INFO  replaying INV-4886 ISSUED->VOID ok
+[2026-11-02T08:41:39Z] [recon] WARN  slow query on ledger_entries (561ms) (non-fatal)
+[2026-11-02T08:41:39Z] [recon] INFO  replaying INV-2539 ISSUED->VOID ok
+[2026-11-02T08:41:40Z] [recon] INFO  replaying INV-6678 ISSUED->PAID ok
+[2026-11-02T08:41:40Z] [recon] INFO  replaying INV-4472 DRAFT->ISSUED ok
+[2026-11-02T08:41:40Z] [recon] INFO  replaying INV-3904 ISSUED->PAID ok
+[2026-11-02T08:41:40Z] [recon] INFO  replaying INV-3799 ISSUED->VOID ok
+[2026-11-02T08:41:41Z] [recon] INFO  replaying INV-2924 ISSUED->VOID ok
+[2026-11-02T08:41:41Z] [recon] INFO  replaying INV-8159 ISSUED->VOID ok
+[2026-11-02T08:41:41Z] [recon] INFO  replaying INV-5798 ISSUED->VOID ok
+[2026-11-02T08:41:41Z] [recon] WARN  slow query on ledger_entries (1284ms) (non-fatal)
+[2026-11-02T08:41:41Z] [recon] INFO  replaying INV-4161 DRAFT->VOID ok
+[2026-11-02T08:41:41Z] [recon] WARN  slow query on ledger_entries (405ms) (non-fatal)
+[2026-11-02T08:41:42Z] [recon] INFO  replaying INV-1789 ISSUED->PAID ok
+[2026-11-02T08:41:42Z] [recon] INFO  replaying INV-5413 ISSUED->VOID ok
+[2026-11-02T08:41:42Z] [recon] WARN  cache miss for ledger snapshot 2026-10-19, rebuilding (non-fatal)
+[2026-11-02T08:41:42Z] [recon] INFO  replaying INV-1323 ISSUED->PAID ok
+[2026-11-02T08:41:42Z] [recon] INFO  replaying INV-6123 ISSUED->PAID ok
+[2026-11-02T08:41:43Z] [recon] INFO  replaying INV-5382 DRAFT->VOID ok
+[2026-11-02T08:41:43Z] [recon] INFO  replaying INV-3588 ISSUED->PAID ok
+[2026-11-02T08:41:43Z] [recon] INFO  replaying INV-2750 ISSUED->PAID ok
+[2026-11-02T08:41:43Z] [recon] INFO  replaying INV-5014 DRAFT->VOID ok
+[2026-11-02T08:41:43Z] [recon] INFO  replaying INV-6783 ISSUED->PAID ok
+[2026-11-02T08:41:44Z] [recon] INFO  replaying INV-5938 ISSUED->PAID ok
+[2026-11-02T08:41:44Z] [recon] DEBUG checkpoint 3039 flushed
+[2026-11-02T08:41:44Z] [recon] INFO  replaying INV-5796 ISSUED->VOID ok
+[2026-11-02T08:41:44Z] [recon] INFO  replaying INV-9035 ISSUED->VOID ok
+[2026-11-02T08:41:44Z] [recon] INFO  replaying INV-2842 DRAFT->ISSUED ok
+[2026-11-02T08:41:45Z] [recon] WARN  cache miss for ledger snapshot 2026-10-23, rebuilding (non-fatal)
+[2026-11-02T08:41:45Z] [recon] INFO  replaying INV-8224 DRAFT->VOID ok
+[2026-11-02T08:41:45Z] [recon] INFO  replaying INV-7258 DRAFT->ISSUED ok
+[2026-11-02T08:41:45Z] [recon] INFO  replaying INV-5384 ISSUED->PAID ok
+[2026-11-02T08:41:46Z] [recon] INFO  replaying INV-2449 DRAFT->VOID ok
+[2026-11-02T08:41:46Z] [recon] INFO  replaying INV-5561 ISSUED->PAID ok
+[2026-11-02T08:41:47Z] [recon] INFO  replaying INV-4820 DRAFT->ISSUED ok
+[2026-11-02T08:41:47Z] [recon] INFO  replaying INV-7883 ISSUED->VOID ok
+[2026-11-02T08:41:47Z] [recon] INFO  replaying INV-7974 ISSUED->PAID ok
+[2026-11-02T08:41:47Z] [recon] INFO  replaying INV-7643 ISSUED->VOID ok
+[2026-11-02T08:41:47Z] [recon] INFO  replaying INV-6177 ISSUED->PAID ok
+[2026-11-02T08:41:48Z] [recon] INFO  replaying INV-3016 DRAFT->VOID ok
+[2026-11-02T08:41:48Z] [recon] INFO  replaying INV-4208 DRAFT->ISSUED ok
+[2026-11-02T08:41:48Z] [recon] INFO  replaying INV-3336 ISSUED->PAID ok
+[2026-11-02T08:41:48Z] [recon] INFO  replaying INV-7373 DRAFT->VOID ok
+[2026-11-02T08:41:48Z] [recon] INFO  replaying INV-2741 DRAFT->ISSUED ok
+[2026-11-02T08:41:49Z] [recon] INFO  replaying INV-6089 ISSUED->PAID ok
+[2026-11-02T08:41:49Z] [recon] INFO  replaying INV-8953 DRAFT->ISSUED ok
+[2026-11-02T08:41:49Z] [recon] INFO  replaying INV-1495 DRAFT->ISSUED ok
+[2026-11-02T08:41:50Z] [recon] INFO  replaying INV-7392 ISSUED->PAID ok
+[2026-11-02T08:41:50Z] [recon] INFO  replaying INV-1620 ISSUED->VOID ok
+[2026-11-02T08:41:50Z] [recon] INFO  replaying INV-7277 ISSUED->PAID ok
+[2026-11-02T08:41:50Z] [recon] INFO  replaying INV-3473 DRAFT->ISSUED ok
+[2026-11-02T08:41:50Z] [recon] INFO  replaying INV-8504 ISSUED->PAID ok
+[2026-11-02T08:41:50Z] [recon] INFO  replaying INV-5246 DRAFT->VOID ok
+[2026-11-02T08:41:51Z] [recon] INFO  replaying INV-6725 DRAFT->VOID ok
+[2026-11-02T08:41:51Z] [recon] INFO  replaying INV-3437 DRAFT->ISSUED ok
+[2026-11-02T08:41:51Z] [recon] INFO  replaying INV-4277 ISSUED->PAID ok
+[2026-11-02T08:41:51Z] [recon] INFO  replaying INV-3515 DRAFT->ISSUED ok
+[2026-11-02T08:41:51Z] [recon] DEBUG checkpoint 80016 flushed
+[2026-11-02T08:41:52Z] [recon] INFO  replaying INV-8152 ISSUED->PAID ok
+[2026-11-02T08:41:52Z] [recon] INFO  replaying INV-4246 ISSUED->PAID ok
+[2026-11-02T08:41:52Z] [recon] INFO  replaying INV-7738 ISSUED->PAID ok
+[2026-11-02T08:41:52Z] [recon] INFO  replaying INV-3236 ISSUED->VOID ok
+[2026-11-02T08:41:52Z] [recon] DEBUG checkpoint 93044 flushed
+[2026-11-02T08:41:53Z] [recon] INFO  replaying INV-3599 DRAFT->ISSUED ok
+[2026-11-02T08:41:53Z] [recon] INFO  replaying INV-7705 DRAFT->VOID ok
+[2026-11-02T08:41:53Z] [recon] INFO  replaying INV-6165 DRAFT->ISSUED ok
+[2026-11-02T08:41:53Z] [recon] INFO  replaying INV-1504 DRAFT->ISSUED ok
+[2026-11-02T08:41:53Z] [recon] DEBUG checkpoint 38075 flushed
+[2026-11-02T08:41:53Z] [recon] DEBUG checkpoint 57538 flushed
+[2026-11-02T08:41:54Z] [recon] INFO  replaying INV-4217 DRAFT->VOID ok
+[2026-11-02T08:41:54Z] [recon] INFO  replaying INV-6561 ISSUED->PAID ok
+[2026-11-02T08:41:54Z] [recon] INFO  replaying INV-2376 DRAFT->VOID ok
+[2026-11-02T08:41:55Z] [recon] INFO  replaying INV-4938 DRAFT->ISSUED ok
+[2026-11-02T08:41:55Z] [recon] INFO  replaying INV-3745 DRAFT->ISSUED ok
+[2026-11-02T08:41:55Z] [recon] INFO  replaying INV-2475 DRAFT->ISSUED ok
+[2026-11-02T08:41:55Z] [recon] INFO  replaying INV-3254 ISSUED->VOID ok
+[2026-11-02T08:41:56Z] [recon] INFO  replaying INV-6883 DRAFT->VOID ok
+[2026-11-02T08:41:56Z] [recon] INFO  replaying INV-8392 DRAFT->VOID ok
+[2026-11-02T08:41:56Z] [recon] INFO  replaying INV-4726 DRAFT->VOID ok
+[2026-11-02T08:41:56Z] [recon] INFO  replaying INV-1397 ISSUED->VOID ok
+[2026-11-02T08:41:57Z] [recon] INFO  replaying INV-5621 DRAFT->VOID ok
+[2026-11-02T08:41:57Z] [recon] INFO  replaying INV-6930 ISSUED->PAID ok
+[2026-11-02T08:41:57Z] [recon] INFO  replaying INV-7085 DRAFT->ISSUED ok
+[2026-11-02T08:41:57Z] [recon] DEBUG checkpoint 23886 flushed
+[2026-11-02T08:41:57Z] [recon] INFO  replaying INV-6971 ISSUED->PAID ok
+[2026-11-02T08:41:57Z] [recon] INFO  replaying INV-1148 ISSUED->VOID ok
+[2026-11-02T08:41:58Z] [recon] INFO  replaying INV-6171 DRAFT->VOID ok
+[2026-11-02T08:41:58Z] [recon] INFO  replaying INV-3875 DRAFT->ISSUED ok
+[2026-11-02T08:41:58Z] [recon] INFO  replaying INV-7042 DRAFT->VOID ok
+[2026-11-02T08:41:58Z] [recon] INFO  replaying INV-7971 ISSUED->PAID ok
+[2026-11-02T08:41:58Z] [recon] INFO  replaying INV-5317 DRAFT->ISSUED ok
+[2026-11-02T08:41:59Z] [recon] INFO  replaying INV-4599 ISSUED->PAID ok
+[2026-11-02T08:41:59Z] [recon] INFO  replaying INV-2253 DRAFT->ISSUED ok
+[2026-11-02T08:41:59Z] [recon] INFO  replaying INV-1497 DRAFT->ISSUED ok
+[2026-11-02T08:41:59Z] [recon] INFO  replaying INV-7968 ISSUED->VOID ok
+[2026-11-02T08:41:59Z] [recon] INFO  replaying INV-7970 DRAFT->VOID ok
+[2026-11-02T08:42:00Z] [recon] INFO  replaying INV-8467 DRAFT->VOID ok
+[2026-11-02T08:42:00Z] [recon] INFO  replaying INV-2747 DRAFT->VOID ok
+[2026-11-02T08:42:00Z] [recon] INFO  replaying INV-3890 DRAFT->ISSUED ok
+[2026-11-02T08:42:00Z] [recon] INFO  replaying INV-7304 ISSUED->VOID ok
+[2026-11-02T08:42:00Z] [recon] DEBUG checkpoint 75810 flushed
+[2026-11-02T08:42:01Z] [recon] INFO  replaying INV-3926 DRAFT->ISSUED ok
+[2026-11-02T08:42:01Z] [recon] INFO  replaying INV-5394 ISSUED->VOID ok
+[2026-11-02T08:42:01Z] [recon] INFO  replaying INV-5393 DRAFT->ISSUED ok
+[2026-11-02T08:42:01Z] [recon] INFO  replaying INV-1522 ISSUED->PAID ok
+[2026-11-02T08:42:01Z] [recon] INFO  replaying INV-8960 ISSUED->PAID ok
+[2026-11-02T08:42:02Z] [recon] INFO  replaying INV-4923 DRAFT->ISSUED ok
+[2026-11-02T08:42:02Z] [recon] INFO  replaying INV-2298 DRAFT->ISSUED ok
+[2026-11-02T08:42:02Z] [recon] INFO  replaying INV-8578 ISSUED->PAID ok
+[2026-11-02T08:42:02Z] [recon] INFO  replaying INV-7916 DRAFT->ISSUED ok
+[2026-11-02T08:42:03Z] [recon] INFO  replaying INV-2506 ISSUED->PAID ok
+[2026-11-02T08:42:03Z] [recon] INFO  replaying INV-3767 ISSUED->VOID ok
+[2026-11-02T08:42:03Z] [recon] WARN  cache miss for ledger snapshot 2026-10-17, rebuilding (non-fatal)
+[2026-11-02T08:42:03Z] [recon] INFO  replaying INV-7258 DRAFT->VOID ok
+[2026-11-02T08:42:03Z] [recon] INFO  replaying INV-3937 DRAFT->VOID ok
+[2026-11-02T08:42:03Z] [recon] INFO  replaying INV-1395 DRAFT->VOID ok
+[2026-11-02T08:42:03Z] [recon] INFO  replaying INV-1318 DRAFT->VOID ok
+[2026-11-02T08:42:04Z] [recon] INFO  replaying INV-2093 ISSUED->VOID ok
+[2026-11-02T08:42:04Z] [recon] INFO  replaying INV-8484 DRAFT->VOID ok
+[2026-11-02T08:42:04Z] [recon] INFO  replaying INV-7313 ISSUED->VOID ok
+[2026-11-02T08:42:05Z] [recon] INFO  replaying INV-4691 ISSUED->PAID ok
+[2026-11-02T08:42:05Z] [recon] INFO  replaying INV-3094 ISSUED->VOID ok
+[2026-11-02T08:42:05Z] [recon] INFO  replaying INV-5522 ISSUED->PAID ok
+[2026-11-02T08:42:05Z] [recon] INFO  replaying INV-3224 DRAFT->ISSUED ok
+[2026-11-02T08:42:05Z] [recon] INFO  replaying INV-6695 ISSUED->PAID ok
+[2026-11-02T08:42:05Z] [recon] INFO  replaying INV-6915 DRAFT->ISSUED ok
+[2026-11-02T08:42:05Z] [recon] INFO  replaying INV-4534 DRAFT->ISSUED ok
+[2026-11-02T08:42:06Z] [recon] INFO  replaying INV-6578 ISSUED->PAID ok
+[2026-11-02T08:42:06Z] [recon] INFO  replaying INV-5918 DRAFT->ISSUED ok
+[2026-11-02T08:42:06Z] [recon] DEBUG checkpoint 2550 flushed
+[2026-11-02T08:42:06Z] [recon] INFO  replaying INV-3872 DRAFT->ISSUED ok
+[2026-11-02T08:42:06Z] [recon] INFO  replaying INV-2868 ISSUED->VOID ok
+[2026-11-02T08:42:07Z] [recon] DEBUG checkpoint 71265 flushed
+[2026-11-02T08:42:07Z] [recon] INFO  replaying INV-6387 DRAFT->ISSUED ok
+[2026-11-02T08:42:07Z] [recon] INFO  replaying INV-1214 ISSUED->VOID ok
+[2026-11-02T08:42:07Z] [recon] INFO  replaying INV-2187 ISSUED->PAID ok
+[2026-11-02T08:42:07Z] [recon] INFO  replaying INV-2412 DRAFT->VOID ok
+[2026-11-02T08:42:07Z] [recon] INFO  replaying INV-1437 ISSUED->PAID ok
+[2026-11-02T08:42:08Z] [recon] INFO  replaying INV-2565 ISSUED->PAID ok
+[2026-11-02T08:42:08Z] [recon] INFO  replaying INV-7832 DRAFT->ISSUED ok
+[2026-11-02T08:42:08Z] [recon] INFO  replaying INV-4700 ISSUED->VOID ok
+[2026-11-02T08:42:09Z] [recon] INFO  replaying INV-3322 DRAFT->VOID ok
+[2026-11-02T08:42:09Z] [recon] WARN  cache miss for ledger snapshot 2026-10-25, rebuilding (non-fatal)
+[2026-11-02T08:42:09Z] [recon] INFO  replaying INV-7519 ISSUED->VOID ok
+[2026-11-02T08:42:09Z] [recon] INFO  replaying INV-3729 DRAFT->ISSUED ok
+[2026-11-02T08:42:09Z] [recon] INFO  replaying INV-5383 ISSUED->VOID ok
+[2026-11-02T08:42:09Z] [recon] INFO  replaying INV-4967 ISSUED->PAID ok
+[2026-11-02T08:42:09Z] [recon] INFO  replaying INV-4181 ISSUED->PAID ok
+[2026-11-02T08:42:09Z] [recon] INFO  replaying INV-8914 ISSUED->VOID ok
+[2026-11-02T08:42:09Z] [recon] INFO  replaying INV-2271 DRAFT->VOID ok
+[2026-11-02T08:42:10Z] [recon] INFO  replaying INV-6843 ISSUED->PAID ok
+[2026-11-02T08:42:10Z] [recon] INFO  replaying INV-4227 ISSUED->PAID ok
+[2026-11-02T08:42:10Z] [recon] INFO  replaying INV-5443 ISSUED->PAID ok
+[2026-11-02T08:42:10Z] [recon] INFO  replaying INV-5092 ISSUED->PAID ok
+[2026-11-02T08:42:10Z] [recon] INFO  replaying INV-5059 ISSUED->VOID ok
+[2026-11-02T08:42:10Z] [recon] WARN  slow query on ledger_entries (1196ms) (non-fatal)
+[2026-11-02T08:42:10Z] [recon] INFO  replaying INV-4218 ISSUED->PAID ok
+[2026-11-02T08:42:10Z] [recon] INFO  replaying INV-7470 DRAFT->VOID ok
+[2026-11-02T08:42:11Z] [recon] INFO  replaying INV-4268 DRAFT->VOID ok
+[2026-11-02T08:42:11Z] [recon] INFO  replaying INV-5733 DRAFT->VOID ok
+[2026-11-02T08:42:11Z] [recon] INFO  replaying INV-8264 DRAFT->VOID ok
+[2026-11-02T08:42:11Z] [recon] INFO  replaying INV-2878 DRAFT->VOID ok
+[2026-11-02T08:42:12Z] [recon] INFO  replaying INV-2784 DRAFT->ISSUED ok
+[2026-11-02T08:42:12Z] [recon] INFO  replaying INV-2374 ISSUED->VOID ok
+[2026-11-02T08:42:12Z] [recon] INFO  replaying INV-8510 DRAFT->VOID ok
+[2026-11-02T08:42:13Z] [recon] DEBUG checkpoint 70075 flushed
+[2026-11-02T08:42:13Z] [recon] INFO  replaying INV-2061 ISSUED->PAID ok
+[2026-11-02T08:42:13Z] [recon] INFO  replaying INV-4831 DRAFT->VOID ok
+[2026-11-02T08:42:13Z] [recon] INFO  replaying INV-6430 ISSUED->VOID ok
+[2026-11-02T08:42:14Z] [recon] INFO  replaying INV-6375 DRAFT->ISSUED ok
+[2026-11-02T08:42:14Z] [recon] INFO  replaying INV-6508 DRAFT->VOID ok
+[2026-11-02T08:42:14Z] [recon] INFO  replaying INV-8914 DRAFT->VOID ok
+[2026-11-02T08:42:15Z] [recon] WARN  cache miss for ledger snapshot 2026-10-26, rebuilding (non-fatal)
+[2026-11-02T08:42:15Z] [recon] INFO  replaying INV-7822 ISSUED->VOID ok
+[2026-11-02T08:42:15Z] [recon] INFO  replaying INV-3139 ISSUED->PAID ok
+[2026-11-02T08:42:15Z] [recon] INFO  replaying INV-8713 ISSUED->PAID ok
+[2026-11-02T08:42:15Z] [recon] INFO  replaying INV-1842 ISSUED->VOID ok
+[2026-11-02T08:42:15Z] [recon] WARN  cache miss for ledger snapshot 2026-10-27, rebuilding (non-fatal)
+[2026-11-02T08:42:16Z] [recon] WARN  slow query on ledger_entries (1220ms) (non-fatal)
+[2026-11-02T08:42:16Z] [recon] DEBUG checkpoint 10817 flushed
+[2026-11-02T08:42:16Z] [recon] INFO  replaying INV-1340 ISSUED->VOID ok
+[2026-11-02T08:42:16Z] [recon] INFO  replaying INV-4502 DRAFT->VOID ok
+[2026-11-02T08:42:16Z] [recon] INFO  replaying INV-5641 ISSUED->VOID ok
+[2026-11-02T08:42:17Z] [recon] INFO  replaying INV-2672 ISSUED->VOID ok
+[2026-11-02T08:42:17Z] [recon] INFO  replaying INV-2153 DRAFT->VOID ok
+[2026-11-02T08:42:17Z] [recon] INFO  replaying INV-3572 DRAFT->ISSUED ok
+[2026-11-02T08:42:17Z] [recon] DEBUG checkpoint 10186 flushed
+[2026-11-02T08:42:17Z] [recon] INFO  replaying INV-5753 DRAFT->VOID ok
+[2026-11-02T08:42:17Z] [recon] INFO  replaying INV-3149 DRAFT->VOID ok
+[2026-11-02T08:42:18Z] [recon] INFO  replaying INV-2174 ISSUED->VOID ok
+[2026-11-02T08:42:18Z] [recon] INFO  replaying INV-8859 DRAFT->ISSUED ok
+[2026-11-02T08:42:18Z] [recon] INFO  replaying INV-8260 DRAFT->VOID ok
+[2026-11-02T08:42:18Z] [recon] INFO  replaying INV-2337 DRAFT->VOID ok
+[2026-11-02T08:42:18Z] [recon] DEBUG checkpoint 81506 flushed
+[2026-11-02T08:42:19Z] [recon] INFO  replaying INV-7073 ISSUED->PAID ok
+[2026-11-02T08:42:19Z] [recon] INFO  replaying INV-6035 ISSUED->VOID ok
+[2026-11-02T08:42:19Z] [recon] INFO  replaying INV-7711 ISSUED->VOID ok
+[2026-11-02T08:42:19Z] [recon] DEBUG checkpoint 2594 flushed
+[2026-11-02T08:42:19Z] [recon] INFO  replaying INV-4505 ISSUED->PAID ok
+[2026-11-02T08:42:20Z] [recon] INFO  replaying INV-8479 DRAFT->ISSUED ok
+[2026-11-02T08:42:20Z] [recon] INFO  replaying INV-6955 DRAFT->VOID ok
+[2026-11-02T08:42:20Z] [recon] INFO  replaying INV-4984 ISSUED->VOID ok
+[2026-11-02T08:42:20Z] [recon] INFO  replaying INV-6143 ISSUED->VOID ok
+[2026-11-02T08:42:20Z] [recon] DEBUG checkpoint 26993 flushed
+[2026-11-02T08:42:21Z] [recon] INFO  replaying INV-3647 DRAFT->ISSUED ok
+[2026-11-02T08:42:21Z] [recon] INFO  replaying INV-3102 ISSUED->VOID ok
+[2026-11-02T08:42:21Z] [recon] INFO  replaying INV-3301 ISSUED->PAID ok
+[2026-11-02T08:42:21Z] [recon] INFO  replaying INV-2963 ISSUED->VOID ok
+[2026-11-02T08:42:22Z] [recon] INFO  replaying INV-3337 DRAFT->VOID ok
+[2026-11-02T08:42:22Z] [recon] INFO  replaying INV-4703 ISSUED->VOID ok
+[2026-11-02T08:42:22Z] [recon] INFO  replaying INV-5882 DRAFT->VOID ok
+[2026-11-02T08:42:22Z] [recon] INFO  replaying INV-3686 ISSUED->PAID ok
+[2026-11-02T08:42:22Z] [recon] INFO  replaying INV-4825 DRAFT->ISSUED ok
+[2026-11-02T08:42:22Z] [recon] INFO  replaying INV-3767 DRAFT->ISSUED ok
+[2026-11-02T08:42:22Z] [recon] INFO  replaying INV-2736 ISSUED->PAID ok
+[2026-11-02T08:42:23Z] [recon] INFO  replaying INV-2656 ISSUED->VOID ok
+[2026-11-02T08:42:23Z] [recon] INFO  replaying INV-7191 ISSUED->PAID ok
+[2026-11-02T08:42:23Z] [recon] INFO  replaying INV-8043 DRAFT->VOID ok
+[2026-11-02T08:42:23Z] [recon] INFO  replaying INV-9036 ISSUED->VOID ok
+[2026-11-02T08:42:23Z] [recon] INFO  replaying INV-9039 ISSUED->VOID ok
+[2026-11-02T08:42:23Z] [recon] INFO  replaying INV-4613 DRAFT->VOID ok
+[2026-11-02T08:42:24Z] [recon] INFO  replaying INV-4595 ISSUED->PAID ok
+[2026-11-02T08:42:24Z] [recon] INFO  replaying INV-7668 DRAFT->ISSUED ok
+[2026-11-02T08:42:24Z] [recon] INFO  replaying INV-7744 ISSUED->VOID ok
+[2026-11-02T08:42:24Z] [recon] INFO  replaying INV-7761 DRAFT->ISSUED ok
+[2026-11-02T08:42:24Z] [recon] INFO  replaying INV-2593 ISSUED->PAID ok
+[2026-11-02T08:42:24Z] [recon] INFO  replaying INV-4232 ISSUED->VOID ok
+[2026-11-02T08:42:25Z] [recon] INFO  replaying INV-8287 ISSUED->PAID ok
+[2026-11-02T08:42:25Z] [recon] INFO  replaying INV-3652 DRAFT->ISSUED ok
+[2026-11-02T08:42:25Z] [recon] INFO  replaying INV-8335 DRAFT->VOID ok
+[2026-11-02T08:42:25Z] [recon] INFO  replaying INV-1729 ISSUED->PAID ok
+[2026-11-02T08:42:25Z] [recon] INFO  replaying INV-3226 DRAFT->VOID ok
+[2026-11-02T08:42:25Z] [recon] INFO  replaying INV-5974 ISSUED->PAID ok
+[2026-11-02T08:42:26Z] [recon] DEBUG checkpoint 53235 flushed
+[2026-11-02T08:42:26Z] [recon] INFO  replaying INV-4842 DRAFT->VOID ok
+[2026-11-02T08:42:26Z] [recon] INFO  replaying INV-6210 DRAFT->ISSUED ok
+[2026-11-02T08:42:26Z] [recon] INFO  replaying INV-2811 DRAFT->VOID ok
+[2026-11-02T08:42:26Z] [recon] INFO  replaying INV-6332 ISSUED->VOID ok
+[2026-11-02T08:42:27Z] [recon] INFO  replaying INV-4224 DRAFT->ISSUED ok
+[2026-11-02T08:42:27Z] [recon] INFO  replaying INV-6355 ISSUED->PAID ok
+[2026-11-02T08:42:27Z] [recon] INFO  replaying INV-1148 ISSUED->PAID ok
+[2026-11-02T08:42:27Z] [recon] INFO  replaying INV-5991 DRAFT->VOID ok
+[2026-11-02T08:42:27Z] [recon] INFO  replaying INV-8926 ISSUED->PAID ok
+[2026-11-02T08:42:27Z] [recon] DEBUG checkpoint 34882 flushed
+[2026-11-02T08:42:28Z] [recon] INFO  replaying INV-3970 ISSUED->VOID ok
+[2026-11-02T08:42:28Z] [recon] INFO  replaying INV-6019 DRAFT->VOID ok
+[2026-11-02T08:42:28Z] [recon] INFO  replaying INV-3397 ISSUED->VOID ok
+[2026-11-02T08:42:28Z] [recon] INFO  replaying INV-5712 DRAFT->VOID ok
+[2026-11-02T08:42:28Z] [recon] INFO  replaying INV-8358 DRAFT->ISSUED ok
+[2026-11-02T08:42:28Z] [recon] INFO  replaying INV-4124 DRAFT->ISSUED ok
+[2026-11-02T08:42:29Z] [recon] INFO  replaying INV-3409 DRAFT->ISSUED ok
+[2026-11-02T08:42:29Z] [recon] WARN  cache miss for ledger snapshot 2026-10-28, rebuilding (non-fatal)
+[2026-11-02T08:42:29Z] [recon] INFO  replaying INV-5366 DRAFT->VOID ok
+[2026-11-02T08:42:29Z] [recon] INFO  replaying INV-7636 DRAFT->ISSUED ok
+[2026-11-02T08:42:29Z] [recon] INFO  replaying INV-4697 DRAFT->ISSUED ok
+[2026-11-02T08:42:29Z] [recon] INFO  replaying INV-8656 DRAFT->ISSUED ok
+[2026-11-02T08:42:30Z] [recon] INFO  replaying INV-7750 DRAFT->VOID ok
+[2026-11-02T08:42:30Z] [recon] INFO  replaying INV-8952 DRAFT->ISSUED ok
+[2026-11-02T08:42:30Z] [recon] INFO  replaying INV-7808 DRAFT->ISSUED ok
+[2026-11-02T08:42:30Z] [recon] INFO  replaying INV-5876 DRAFT->ISSUED ok
+[2026-11-02T08:42:30Z] [recon] INFO  replaying INV-1188 ISSUED->PAID ok
+[2026-11-02T08:42:31Z] [recon] INFO  replaying INV-6613 DRAFT->ISSUED ok
+[2026-11-02T08:42:31Z] [recon] INFO  replaying INV-5139 ISSUED->VOID ok
+[2026-11-02T08:42:31Z] [recon] INFO  replaying INV-2034 DRAFT->VOID ok
+[2026-11-02T08:42:31Z] [recon] INFO  replaying INV-4547 ISSUED->VOID ok
+[2026-11-02T08:42:31Z] [recon] INFO  replaying INV-4381 DRAFT->ISSUED ok
+[2026-11-02T08:42:32Z] [recon] INFO  replaying INV-8339 ISSUED->PAID ok
+[2026-11-02T08:42:32Z] [recon] INFO  replaying INV-2274 ISSUED->PAID ok
+[2026-11-02T08:42:32Z] [recon] INFO  replaying INV-9066 DRAFT->ISSUED ok
+[2026-11-02T08:42:32Z] [recon] INFO  replaying INV-6253 ISSUED->VOID ok
+[2026-11-02T08:42:33Z] [recon] INFO  replaying INV-2826 ISSUED->VOID ok
+[2026-11-02T08:42:33Z] [recon] INFO  replaying INV-6865 ISSUED->VOID ok
+[2026-11-02T08:42:33Z] [recon] INFO  replaying INV-5373 DRAFT->VOID ok
+[2026-11-02T08:42:33Z] [recon] INFO  replaying INV-4424 DRAFT->VOID ok
+[2026-11-02T08:42:34Z] [recon] INFO  replaying INV-6947 DRAFT->VOID ok
+[2026-11-02T08:42:34Z] [recon] INFO  replaying INV-3541 ISSUED->PAID ok
+[2026-11-02T08:42:34Z] [recon] INFO  replaying INV-4762 DRAFT->ISSUED ok
+[2026-11-02T08:42:34Z] [recon] INFO  replaying INV-8145 DRAFT->VOID ok
+[2026-11-02T08:42:34Z] [recon] DEBUG checkpoint 19730 flushed
+[2026-11-02T08:42:34Z] [recon] DEBUG checkpoint 30591 flushed
+[2026-11-02T08:42:35Z] [recon] DEBUG checkpoint 79056 flushed
+[2026-11-02T08:42:35Z] [recon] INFO  replaying INV-6219 DRAFT->ISSUED ok
+[2026-11-02T08:42:35Z] [recon] INFO  replaying INV-3570 DRAFT->ISSUED ok
+[2026-11-02T08:42:35Z] [recon] INFO  replaying INV-6500 DRAFT->ISSUED ok
+[2026-11-02T08:42:35Z] [recon] INFO  replaying INV-6931 ISSUED->VOID ok
+[2026-11-02T08:42:36Z] [recon] INFO  replaying INV-7223 DRAFT->ISSUED ok
+[2026-11-02T08:42:36Z] [recon] INFO  replaying INV-6688 ISSUED->PAID ok
+[2026-11-02T08:42:36Z] [recon] INFO  replaying INV-3583 DRAFT->VOID ok
+[2026-11-02T08:42:36Z] [recon] INFO  replaying INV-5765 DRAFT->ISSUED ok
+[2026-11-02T08:42:37Z] [recon] INFO  replaying INV-1238 ISSUED->PAID ok
+[2026-11-02T08:42:37Z] [recon] INFO  replaying INV-3406 ISSUED->VOID ok
+[2026-11-02T08:42:37Z] [recon] DEBUG checkpoint 36307 flushed
+[2026-11-02T08:42:37Z] [recon] INFO  replaying INV-6195 DRAFT->ISSUED ok
+[2026-11-02T08:42:37Z] [recon] INFO  replaying INV-1818 DRAFT->VOID ok
+[2026-11-02T08:42:38Z] [recon] WARN  cache miss for ledger snapshot 2026-10-27, rebuilding (non-fatal)
+[2026-11-02T08:42:38Z] [recon] INFO  replaying INV-7753 ISSUED->PAID ok
+[2026-11-02T08:42:38Z] [recon] INFO  replaying INV-7321 ISSUED->PAID ok
+[2026-11-02T08:42:38Z] [recon] INFO  replaying INV-5772 DRAFT->VOID ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-8859 ISSUED->VOID ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-8830 ISSUED->PAID ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-6868 ISSUED->PAID ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-6127 ISSUED->PAID ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-1389 DRAFT->ISSUED ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-1706 DRAFT->ISSUED ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-7417 ISSUED->PAID ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-4169 DRAFT->ISSUED ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-5629 DRAFT->ISSUED ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-4599 ISSUED->VOID ok
+[2026-11-02T08:42:39Z] [recon] INFO  replaying INV-7962 DRAFT->ISSUED ok
+[2026-11-02T08:42:40Z] [recon] INFO  replaying INV-5718 ISSUED->VOID ok
+[2026-11-02T08:42:40Z] [recon] INFO  replaying INV-1421 DRAFT->VOID ok
+[2026-11-02T08:42:40Z] [recon] INFO  replaying INV-8907 ISSUED->PAID ok
+[2026-11-02T08:42:41Z] [recon] INFO  replaying INV-4169 DRAFT->ISSUED ok
+[2026-11-02T08:42:41Z] [recon] INFO  replaying INV-7361 DRAFT->VOID ok
+[2026-11-02T08:42:41Z] [recon] INFO  replaying INV-3783 ISSUED->PAID ok
+[2026-11-02T08:42:41Z] [recon] INFO  replaying INV-1514 DRAFT->ISSUED ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-6767 ISSUED->VOID ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-2498 ISSUED->PAID ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-4929 DRAFT->ISSUED ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-2560 ISSUED->VOID ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-3360 ISSUED->PAID ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-1668 DRAFT->VOID ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-2382 DRAFT->VOID ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-7847 ISSUED->PAID ok
+[2026-11-02T08:42:42Z] [recon] INFO  replaying INV-1952 ISSUED->VOID ok
+[2026-11-02T08:42:43Z] [recon] INFO  replaying INV-6019 ISSUED->PAID ok
+[2026-11-02T08:42:43Z] [recon] INFO  replaying INV-7401 ISSUED->PAID ok
+[2026-11-02T08:42:43Z] [recon] INFO  replaying INV-6737 DRAFT->ISSUED ok
+[2026-11-02T08:42:44Z] [recon] INFO  replaying INV-5477 ISSUED->PAID ok
+[2026-11-02T08:42:44Z] [recon] INFO  replaying INV-8576 ISSUED->PAID ok
+[2026-11-02T08:42:44Z] [recon] INFO  replaying INV-5459 ISSUED->VOID ok
+[2026-11-02T08:42:44Z] [recon] DEBUG checkpoint 11721 flushed
+[2026-11-02T08:42:44Z] [recon] DEBUG checkpoint 16421 flushed
+[2026-11-02T08:42:44Z] [recon] INFO  replaying INV-1427 DRAFT->ISSUED ok
+[2026-11-02T08:42:44Z] [recon] INFO  replaying INV-8787 DRAFT->VOID ok
+[2026-11-02T08:42:45Z] [recon] INFO  replaying INV-3950 ISSUED->PAID ok
+[2026-11-02T08:42:45Z] [recon] INFO  replaying INV-5523 ISSUED->PAID ok
+[2026-11-02T08:42:45Z] [recon] INFO  replaying INV-1305 DRAFT->VOID ok
+[2026-11-02T08:42:45Z] [recon] WARN  slow query on ledger_entries (584ms) (non-fatal)
+[2026-11-02T08:42:45Z] [recon] INFO  replaying INV-1977 DRAFT->ISSUED ok
+[2026-11-02T08:42:45Z] [recon] INFO  replaying INV-2260 ISSUED->PAID ok
+[2026-11-02T08:42:45Z] [recon] INFO  replaying INV-5799 ISSUED->VOID ok
+[2026-11-02T08:42:45Z] [recon] INFO  replaying INV-1281 DRAFT->VOID ok
+[2026-11-02T08:42:46Z] [recon] INFO  replaying INV-7601 ISSUED->VOID ok
+[2026-11-02T08:42:46Z] [recon] INFO  replaying INV-6455 DRAFT->VOID ok
+[2026-11-02T08:42:46Z] [recon] INFO  replaying INV-6061 DRAFT->VOID ok
+[2026-11-02T08:42:46Z] [recon] DEBUG checkpoint 21403 flushed
+[2026-11-02T08:42:47Z] [recon] INFO  replaying INV-4201 ISSUED->PAID ok
+[2026-11-02T08:42:47Z] [recon] INFO  replaying INV-1198 DRAFT->VOID ok
+[2026-11-02T08:42:47Z] [recon] INFO  replaying INV-1905 DRAFT->VOID ok
+[2026-11-02T08:42:47Z] [recon] WARN  slow query on ledger_entries (670ms) (non-fatal)
+[2026-11-02T08:42:47Z] [recon] DEBUG checkpoint 72751 flushed
+[2026-11-02T08:42:47Z] [recon] INFO  replaying INV-8677 ISSUED->VOID ok
+[2026-11-02T08:42:48Z] [recon] INFO  replaying INV-5415 DRAFT->ISSUED ok
+[2026-11-02T08:42:48Z] [recon] WARN  slow query on ledger_entries (1286ms) (non-fatal)
+[2026-11-02T08:42:48Z] [recon] INFO  replaying INV-5241 DRAFT->ISSUED ok
+[2026-11-02T08:42:48Z] [recon] DEBUG checkpoint 24521 flushed
+[2026-11-02T08:42:49Z] [recon] INFO  replaying INV-2215 ISSUED->PAID ok
+[2026-11-02T08:42:49Z] [recon] INFO  replaying INV-7700 ISSUED->PAID ok
+[2026-11-02T08:42:49Z] [recon] INFO  replaying INV-7300 DRAFT->VOID ok
+[2026-11-02T08:42:50Z] [recon] INFO  replaying INV-2894 DRAFT->VOID ok
+[2026-11-02T08:42:50Z] [recon] INFO  replaying INV-5149 ISSUED->VOID ok
+[2026-11-02T08:42:50Z] [recon] INFO  replaying INV-6506 DRAFT->ISSUED ok
+[2026-11-02T08:42:50Z] [recon] INFO  replaying INV-2489 DRAFT->ISSUED ok
+[2026-11-02T08:42:50Z] [recon] INFO  replaying INV-5694 ISSUED->VOID ok
+[2026-11-02T08:42:51Z] [recon] WARN  slow query on ledger_entries (833ms) (non-fatal)
+[2026-11-02T08:42:51Z] [recon] INFO  replaying INV-4639 ISSUED->VOID ok
+[2026-11-02T08:42:51Z] [recon] INFO  replaying INV-7179 DRAFT->VOID ok
+[2026-11-02T08:42:51Z] [recon] INFO  replaying INV-4618 DRAFT->VOID ok
+[2026-11-02T08:42:51Z] [recon] DEBUG checkpoint 32662 flushed
+[2026-11-02T08:42:51Z] [recon] INFO  replaying INV-4316 DRAFT->ISSUED ok
+[2026-11-02T08:42:52Z] [recon] INFO  replaying INV-5364 DRAFT->ISSUED ok
+[2026-11-02T08:42:52Z] [recon] INFO  replaying INV-5993 DRAFT->ISSUED ok
+[2026-11-02T08:42:52Z] [recon] INFO  replaying INV-6646 ISSUED->PAID ok
+[2026-11-02T08:42:52Z] [recon] INFO  replaying INV-1909 DRAFT->ISSUED ok
+[2026-11-02T08:42:52Z] [recon] INFO  replaying INV-8339 ISSUED->PAID ok
+[2026-11-02T08:42:52Z] [recon] INFO  replaying INV-7313 DRAFT->ISSUED ok
+[2026-11-02T08:42:52Z] [recon] INFO  replaying INV-1877 ISSUED->VOID ok
+[2026-11-02T08:42:53Z] [recon] INFO  replaying INV-2111 ISSUED->PAID ok
+[2026-11-02T08:42:53Z] [recon] INFO  replaying INV-9021 DRAFT->VOID ok
+[2026-11-02T08:42:53Z] [recon] INFO  replaying INV-1689 DRAFT->VOID ok
+[2026-11-02T08:42:53Z] [recon] INFO  replaying INV-8526 DRAFT->VOID ok
+[2026-11-02T08:42:53Z] [recon] INFO  replaying INV-1870 ISSUED->PAID ok
+[2026-11-02T08:42:53Z] [recon] INFO  replaying INV-2719 DRAFT->VOID ok
+[2026-11-02T08:42:53Z] [recon] INFO  replaying INV-1204 DRAFT->ISSUED ok
+[2026-11-02T08:42:53Z] [recon] INFO  replaying INV-6885 DRAFT->ISSUED ok
+[2026-11-02T08:42:54Z] [recon] INFO  replaying INV-6942 DRAFT->VOID ok
+[2026-11-02T08:42:54Z] [recon] INFO  replaying INV-1295 DRAFT->VOID ok
+[2026-11-02T08:42:54Z] [recon] INFO  replaying INV-4936 ISSUED->PAID ok
+[2026-11-02T08:42:54Z] [recon] INFO  replaying INV-6104 ISSUED->PAID ok
+[2026-11-02T08:42:55Z] [recon] INFO  replaying INV-6658 ISSUED->PAID ok
+[2026-11-02T08:42:55Z] [recon] DEBUG checkpoint 22261 flushed
+[2026-11-02T08:42:55Z] [recon] INFO  replaying INV-2768 ISSUED->PAID ok
+[2026-11-02T08:42:55Z] [recon] INFO  replaying INV-4261 DRAFT->ISSUED ok
+[2026-11-02T08:42:56Z] [recon] INFO  replaying INV-7860 ISSUED->VOID ok
+[2026-11-02T08:42:56Z] [recon] INFO  replaying INV-2228 DRAFT->ISSUED ok
+[2026-11-02T08:42:56Z] [recon] INFO  replaying INV-2956 ISSUED->VOID ok
+[2026-11-02T08:42:56Z] [recon] INFO  replaying INV-6894 DRAFT->ISSUED ok
+[2026-11-02T08:42:56Z] [recon] DEBUG checkpoint 32764 flushed
+[2026-11-02T08:42:57Z] [recon] INFO  replaying INV-1127 DRAFT->ISSUED ok
+[2026-11-02T08:42:57Z] [recon] INFO  replaying INV-4289 DRAFT->VOID ok
+[2026-11-02T08:42:57Z] [recon] INFO  replaying INV-4023 DRAFT->VOID ok
+[2026-11-02T08:42:57Z] [recon] INFO  replaying INV-1356 DRAFT->ISSUED ok
+[2026-11-02T08:42:57Z] [recon] INFO  replaying INV-7200 DRAFT->VOID ok
+[2026-11-02T08:42:57Z] [recon] INFO  replaying INV-2834 DRAFT->VOID ok
+[2026-11-02T08:42:58Z] [recon] INFO  replaying INV-5184 ISSUED->PAID ok
+[2026-11-02T08:42:58Z] [recon] INFO  replaying INV-7349 ISSUED->PAID ok
+[2026-11-02T08:42:58Z] [recon] INFO  replaying INV-2688 DRAFT->ISSUED ok
+[2026-11-02T08:42:58Z] [recon] INFO  replaying INV-6343 DRAFT->ISSUED ok
+[2026-11-02T08:42:58Z] [recon] INFO  replaying INV-4028 DRAFT->ISSUED ok
+[2026-11-02T08:42:58Z] [recon] INFO  replaying INV-7770 DRAFT->ISSUED ok
+[2026-11-02T08:42:58Z] [recon] INFO  replaying INV-8270 ISSUED->PAID ok
+[2026-11-02T08:42:59Z] [recon] INFO  replaying INV-7929 ISSUED->VOID ok
+[2026-11-02T08:42:59Z] [recon] INFO  replaying INV-1338 ISSUED->VOID ok
+[2026-11-02T08:42:59Z] [recon] INFO  replaying INV-1514 ISSUED->PAID ok
+[2026-11-02T08:43:00Z] [recon] DEBUG checkpoint 72009 flushed
+[2026-11-02T08:43:00Z] [recon] WARN  slow query on ledger_entries (902ms) (non-fatal)
+[2026-11-02T08:43:00Z] [recon] INFO  replaying INV-6591 DRAFT->VOID ok
+[2026-11-02T08:43:00Z] [recon] INFO  replaying INV-2944 DRAFT->VOID ok
+[2026-11-02T08:43:01Z] [recon] INFO  replaying INV-2535 DRAFT->VOID ok
+[2026-11-02T08:43:01Z] [recon] INFO  replaying INV-8612 ISSUED->VOID ok
+[2026-11-02T08:43:01Z] [recon] INFO  replaying INV-4347 ISSUED->PAID ok
+[2026-11-02T08:43:01Z] [recon] INFO  replaying INV-7117 DRAFT->VOID ok
+[2026-11-02T08:43:01Z] [recon] INFO  replaying INV-4217 ISSUED->PAID ok
+[2026-11-02T08:43:01Z] [recon] INFO  replaying INV-4789 ISSUED->PAID ok
+[2026-11-02T08:43:02Z] [recon] INFO  replaying INV-8598 DRAFT->VOID ok
+[2026-11-02T08:43:02Z] [recon] DEBUG checkpoint 43487 flushed
+[2026-11-02T08:43:02Z] [recon] INFO  replaying INV-7099 ISSUED->PAID ok
+[2026-11-02T08:43:02Z] [recon] INFO  replaying INV-3638 ISSUED->PAID ok
+[2026-11-02T08:43:02Z] [recon] INFO  replaying INV-8846 ISSUED->PAID ok
+[2026-11-02T08:43:02Z] [recon] INFO  replaying INV-6928 DRAFT->ISSUED ok
+[2026-11-02T08:43:02Z] [recon] INFO  replaying INV-4883 ISSUED->PAID ok
+[2026-11-02T08:43:02Z] [recon] INFO  replaying INV-8749 ISSUED->VOID ok
+[2026-11-02T08:43:02Z] [recon] INFO  replaying INV-2866 ISSUED->VOID ok
+[2026-11-02T08:43:02Z] [recon] DEBUG checkpoint 52444 flushed
+[2026-11-02T08:43:03Z] [recon] INFO  replaying INV-5647 DRAFT->ISSUED ok
+[2026-11-02T08:43:03Z] [recon] INFO  replaying INV-1275 DRAFT->VOID ok
+[2026-11-02T08:43:03Z] [recon] DEBUG checkpoint 23253 flushed
+[2026-11-02T08:43:03Z] [recon] INFO  replaying INV-2541 ISSUED->VOID ok
+[2026-11-02T08:43:03Z] [recon] INFO  replaying INV-2588 ISSUED->VOID ok
+[2026-11-02T08:43:03Z] [recon] INFO  replaying INV-1201 DRAFT->VOID ok
+[2026-11-02T08:43:03Z] [recon] INFO  replaying INV-2699 ISSUED->VOID ok
+[2026-11-02T08:43:03Z] [recon] INFO  replaying INV-8200 ISSUED->PAID ok
+[2026-11-02T08:43:04Z] [recon] INFO  replaying INV-6688 DRAFT->VOID ok
+[2026-11-02T08:43:04Z] [recon] INFO  replaying INV-8290 DRAFT->ISSUED ok
+[2026-11-02T08:43:04Z] [recon] WARN  cache miss for ledger snapshot 2026-10-15, rebuilding (non-fatal)
+[2026-11-02T08:43:04Z] [recon] INFO  replaying INV-3089 ISSUED->PAID ok
+[2026-11-02T08:43:04Z] [recon] INFO  replaying INV-3068 DRAFT->ISSUED ok
+[2026-11-02T08:43:05Z] [recon] INFO  replaying INV-4358 DRAFT->ISSUED ok
+[2026-11-02T08:43:05Z] [recon] INFO  replaying INV-5523 ISSUED->VOID ok
+[2026-11-02T08:43:05Z] [recon] INFO  replaying INV-5710 DRAFT->ISSUED ok
+[2026-11-02T08:43:05Z] [recon] INFO  replaying INV-2177 ISSUED->VOID ok
+[2026-11-02T08:43:05Z] [recon] INFO  replaying INV-2182 DRAFT->VOID ok
+[2026-11-02T08:43:06Z] [recon] INFO  replaying INV-8613 ISSUED->PAID ok
+[2026-11-02T08:43:06Z] [recon] INFO  replaying INV-3463 ISSUED->PAID ok
+[2026-11-02T08:43:06Z] [recon] INFO  replaying INV-7444 DRAFT->ISSUED ok
+[2026-11-02T08:43:06Z] [recon] DEBUG checkpoint 47071 flushed
+[2026-11-02T08:43:06Z] [recon] INFO  replaying INV-3854 ISSUED->VOID ok
+[2026-11-02T08:43:06Z] [recon] INFO  replaying INV-5087 DRAFT->VOID ok
+[2026-11-02T08:43:07Z] [recon] INFO  replaying INV-4139 DRAFT->ISSUED ok
+[2026-11-02T08:43:07Z] [recon] INFO  replaying INV-2575 ISSUED->PAID ok
+[2026-11-02T08:43:07Z] [recon] INFO  replaying INV-2491 DRAFT->ISSUED ok
+[2026-11-02T08:43:08Z] [recon] WARN  cache miss for ledger snapshot 2026-10-21, rebuilding (non-fatal)
+[2026-11-02T08:43:08Z] [recon] INFO  replaying INV-6442 ISSUED->VOID ok
+[2026-11-02T08:43:08Z] [recon] INFO  replaying INV-5664 DRAFT->ISSUED ok
+[2026-11-02T08:43:08Z] [recon] INFO  replaying INV-7726 ISSUED->VOID ok
+[2026-11-02T08:43:08Z] [recon] INFO  replaying INV-8158 ISSUED->PAID ok
+[2026-11-02T08:43:08Z] [recon] INFO  replaying INV-8772 DRAFT->ISSUED ok
+[2026-11-02T08:43:08Z] [recon] INFO  replaying INV-8776 DRAFT->VOID ok
+[2026-11-02T08:43:08Z] [recon] INFO  replaying INV-6219 DRAFT->ISSUED ok
+[2026-11-02T08:43:09Z] [recon] INFO  replaying INV-6136 ISSUED->PAID ok
+[2026-11-02T08:43:09Z] [recon] INFO  replaying INV-3077 DRAFT->ISSUED ok
+[2026-11-02T08:43:09Z] [recon] INFO  replaying INV-6735 DRAFT->VOID ok
+[2026-11-02T08:43:09Z] [recon] INFO  replaying INV-7613 ISSUED->VOID ok
+[2026-11-02T08:43:09Z] [recon] INFO  replaying INV-7967 DRAFT->ISSUED ok
+[2026-11-02T08:43:09Z] [recon] INFO  replaying INV-3094 DRAFT->ISSUED ok
+[2026-11-02T08:43:10Z] [recon] INFO  replaying INV-7012 ISSUED->PAID ok
+[2026-11-02T08:43:10Z] [recon] INFO  replaying INV-2048 DRAFT->VOID ok
+[2026-11-02T08:43:10Z] [recon] INFO  replaying INV-7325 ISSUED->PAID ok
+[2026-11-02T08:43:10Z] [recon] INFO  replaying INV-8948 DRAFT->ISSUED ok
+[2026-11-02T08:43:11Z] [recon] INFO  replaying INV-3384 DRAFT->ISSUED ok
+[2026-11-02T08:43:11Z] [recon] INFO  replaying INV-3394 DRAFT->ISSUED ok
+[2026-11-02T08:43:11Z] [recon] INFO  replaying INV-2414 ISSUED->VOID ok
+[2026-11-02T08:43:11Z] [recon] INFO  replaying INV-8774 DRAFT->ISSUED ok
+[2026-11-02T08:43:12Z] [recon] INFO  replaying INV-2678 ISSUED->VOID ok
+[2026-11-02T08:43:12Z] [recon] INFO  replaying INV-3960 ISSUED->VOID ok
+[2026-11-02T08:43:12Z] [recon] INFO  replaying INV-4963 DRAFT->ISSUED ok
+[2026-11-02T08:43:12Z] [recon] INFO  replaying INV-8481 ISSUED->VOID ok
+[2026-11-02T08:43:12Z] [recon] INFO  replaying INV-3217 DRAFT->VOID ok
+[2026-11-02T08:43:12Z] [recon] INFO  replaying INV-6431 DRAFT->VOID ok
+[2026-11-02T08:43:13Z] [recon] INFO  replaying INV-2606 ISSUED->PAID ok
+[2026-11-02T08:43:13Z] [recon] INFO  replaying INV-5605 DRAFT->ISSUED ok
+[2026-11-02T08:43:13Z] [recon] INFO  replaying INV-3340 DRAFT->VOID ok
+[2026-11-02T08:43:13Z] [recon] INFO  replaying INV-4395 ISSUED->PAID ok
+[2026-11-02T08:43:13Z] [recon] INFO  replaying INV-2266 DRAFT->ISSUED ok
+[2026-11-02T08:43:13Z] [recon] INFO  replaying INV-2231 ISSUED->PAID ok
+[2026-11-02T08:43:13Z] [recon] INFO  replaying INV-5950 DRAFT->VOID ok
+[2026-11-02T08:43:13Z] [recon] INFO  replaying INV-8770 ISSUED->VOID ok
+[2026-11-02T08:43:14Z] [recon] INFO  replaying INV-1800 DRAFT->ISSUED ok
+[2026-11-02T08:43:14Z] [recon] DEBUG checkpoint 92369 flushed
+[2026-11-02T08:43:14Z] [recon] INFO  replaying INV-6268 ISSUED->VOID ok
+[2026-11-02T08:43:14Z] [recon] INFO  replaying INV-5722 ISSUED->PAID ok
+[2026-11-02T08:43:14Z] [recon] WARN  slow query on ledger_entries (1043ms) (non-fatal)
+[2026-11-02T08:43:14Z] [recon] INFO  replaying INV-8228 DRAFT->ISSUED ok
+[2026-11-02T08:43:15Z] [recon] INFO  replaying INV-2430 DRAFT->VOID ok
+[2026-11-02T08:43:15Z] [recon] INFO  replaying INV-6276 DRAFT->VOID ok
+[2026-11-02T08:43:15Z] [recon] INFO  replaying INV-1428 ISSUED->PAID ok
+[2026-11-02T08:43:15Z] [recon] INFO  replaying INV-5910 ISSUED->PAID ok
+[2026-11-02T08:43:15Z] [recon] INFO  replaying INV-4525 ISSUED->VOID ok
+[2026-11-02T08:43:15Z] [recon] INFO  replaying INV-8216 ISSUED->PAID ok
+[2026-11-02T08:43:15Z] [recon] INFO  replaying INV-3831 DRAFT->VOID ok
+[2026-11-02T08:43:16Z] [recon] INFO  replaying INV-5957 ISSUED->PAID ok
+[2026-11-02T08:43:16Z] [recon] INFO  replaying INV-8582 DRAFT->ISSUED ok
+[2026-11-02T08:43:16Z] [recon] INFO  replaying INV-4560 ISSUED->VOID ok
+[2026-11-02T08:43:16Z] [recon] INFO  replaying INV-4790 DRAFT->VOID ok
+[2026-11-02T08:43:17Z] [recon] INFO  replaying INV-4919 DRAFT->VOID ok
+[2026-11-02T08:43:17Z] [recon] INFO  replaying INV-4972 ISSUED->VOID ok
+[2026-11-02T08:43:17Z] [recon] WARN  slow query on ledger_entries (1102ms) (non-fatal)
+[2026-11-02T08:43:17Z] [recon] DEBUG checkpoint 48170 flushed
+[2026-11-02T08:43:18Z] [recon] INFO  replaying INV-5300 DRAFT->VOID ok
+[2026-11-02T08:43:18Z] [recon] INFO  replaying INV-5167 DRAFT->ISSUED ok
+[2026-11-02T08:43:18Z] [recon] INFO  replaying INV-2920 ISSUED->PAID ok
+[2026-11-02T08:43:18Z] [recon] INFO  replaying INV-4933 DRAFT->VOID ok
+[2026-11-02T08:43:19Z] [recon] INFO  replaying INV-5327 DRAFT->VOID ok
+[2026-11-02T08:43:19Z] [recon] INFO  replaying INV-5595 ISSUED->PAID ok
+[2026-11-02T08:43:19Z] [recon] INFO  replaying INV-7054 DRAFT->ISSUED ok
+[2026-11-02T08:43:19Z] [recon] INFO  replaying INV-8383 DRAFT->VOID ok
+[2026-11-02T08:43:19Z] [recon] INFO  replaying INV-4643 DRAFT->ISSUED ok
+[2026-11-02T08:43:20Z] [recon] INFO  replaying INV-7853 DRAFT->ISSUED ok
+[2026-11-02T08:43:20Z] [recon] INFO  replaying INV-3996 ISSUED->VOID ok
+[2026-11-02T08:43:20Z] [recon] INFO  replaying INV-8752 ISSUED->VOID ok
+[2026-11-02T08:43:20Z] [recon] INFO  replaying INV-8286 DRAFT->ISSUED ok
+[2026-11-02T08:43:20Z] [recon] INFO  replaying INV-5191 DRAFT->VOID ok
+[2026-11-02T08:43:20Z] [recon] INFO  replaying INV-6736 DRAFT->VOID ok
+[2026-11-02T08:43:21Z] [recon] INFO  replaying INV-5654 DRAFT->VOID ok
+[2026-11-02T08:43:21Z] [recon] INFO  replaying INV-5126 DRAFT->VOID ok
+[2026-11-02T08:43:21Z] [recon] INFO  replaying INV-4303 DRAFT->ISSUED ok
+[2026-11-02T08:43:21Z] [recon] INFO  replaying INV-2762 ISSUED->VOID ok
+[2026-11-02T08:43:21Z] [recon] INFO  replaying INV-4109 DRAFT->VOID ok
+[2026-11-02T08:43:22Z] [recon] INFO  replaying INV-3401 DRAFT->VOID ok
+[2026-11-02T08:43:22Z] [recon] INFO  replaying INV-3838 ISSUED->PAID ok
+[2026-11-02T08:43:22Z] [recon] INFO  replaying INV-8218 DRAFT->ISSUED ok
+[2026-11-02T08:43:23Z] [recon] INFO  replaying INV-5290 ISSUED->VOID ok
+[2026-11-02T08:43:23Z] [recon] INFO  replaying INV-4566 ISSUED->PAID ok
+[2026-11-02T08:43:23Z] [recon] WARN  cache miss for ledger snapshot 2026-10-20, rebuilding (non-fatal)
+[2026-11-02T08:43:23Z] [recon] INFO  replaying INV-1973 ISSUED->PAID ok
+[2026-11-02T08:43:24Z] [recon] INFO  replaying INV-3921 ISSUED->VOID ok
+[2026-11-02T08:43:24Z] [recon] INFO  replaying INV-8772 DRAFT->ISSUED ok
+[2026-11-02T08:43:24Z] [recon] INFO  replaying INV-8606 ISSUED->PAID ok
+[2026-11-02T08:43:24Z] [recon] INFO  replaying INV-5276 ISSUED->VOID ok
+[2026-11-02T08:43:25Z] [recon] INFO  replaying INV-6041 DRAFT->VOID ok
+[2026-11-02T08:43:25Z] [recon] INFO  replaying INV-4282 ISSUED->PAID ok
+[2026-11-02T08:43:25Z] [recon] INFO  replaying INV-4608 DRAFT->ISSUED ok
+[2026-11-02T08:43:25Z] [recon] INFO  replaying INV-5411 DRAFT->ISSUED ok
+[2026-11-02T08:43:26Z] [recon] DEBUG checkpoint 86786 flushed
+[2026-11-02T08:43:26Z] [recon] INFO  replaying INV-5546 ISSUED->PAID ok
+[2026-11-02T08:43:26Z] [recon] INFO  replaying INV-3381 DRAFT->VOID ok
+[2026-11-02T08:43:26Z] [recon] INFO  replaying INV-6962 ISSUED->VOID ok
+[2026-11-02T08:43:26Z] [recon] INFO  replaying INV-4625 DRAFT->VOID ok
+[2026-11-02T08:43:27Z] [recon] INFO  replaying INV-7165 ISSUED->VOID ok
+[2026-11-02T08:43:27Z] [recon] INFO  replaying INV-6227 DRAFT->VOID ok
+[2026-11-02T08:43:27Z] [recon] INFO  replaying INV-4420 DRAFT->VOID ok
+[2026-11-02T08:43:28Z] [recon] INFO  replaying INV-2105 ISSUED->VOID ok
+[2026-11-02T08:43:28Z] [recon] INFO  replaying INV-7913 DRAFT->ISSUED ok
+[2026-11-02T08:43:28Z] [recon] INFO  replaying INV-5782 ISSUED->VOID ok
+[2026-11-02T08:43:28Z] [recon] INFO  replaying INV-8326 DRAFT->VOID ok
+[2026-11-02T08:43:28Z] [recon] INFO  replaying INV-5263 DRAFT->VOID ok
+[2026-11-02T08:43:29Z] [recon] INFO  replaying INV-6625 DRAFT->ISSUED ok
+[2026-11-02T08:43:29Z] [recon] INFO  replaying INV-5555 DRAFT->VOID ok
+[2026-11-02T08:43:29Z] [recon] INFO  replaying INV-1272 ISSUED->VOID ok
+[2026-11-02T08:43:29Z] [recon] INFO  replaying INV-5095 DRAFT->VOID ok
+[2026-11-02T08:43:29Z] [recon] INFO  replaying INV-6767 DRAFT->VOID ok
+[2026-11-02T08:43:29Z] [recon] INFO  replaying INV-8456 DRAFT->VOID ok
+[2026-11-02T08:43:30Z] [recon] INFO  replaying INV-4564 DRAFT->VOID ok
+[2026-11-02T08:43:30Z] [recon] INFO  replaying INV-4672 ISSUED->PAID ok
+[2026-11-02T08:43:30Z] [recon] INFO  replaying INV-4455 ISSUED->VOID ok
+[2026-11-02T08:43:30Z] [recon] WARN  cache miss for ledger snapshot 2026-10-13, rebuilding (non-fatal)
+[2026-11-02T08:43:30Z] [recon] INFO  replaying INV-4377 ISSUED->VOID ok
+[2026-11-02T08:43:30Z] [recon] INFO  replaying INV-8971 ISSUED->VOID ok
+[2026-11-02T08:43:31Z] [recon] INFO  replaying INV-7267 ISSUED->VOID ok
+[2026-11-02T08:43:31Z] [recon] INFO  replaying INV-7867 ISSUED->PAID ok
+[2026-11-02T08:43:31Z] [recon] DEBUG checkpoint 39172 flushed
+[2026-11-02T08:43:32Z] [recon] DEBUG checkpoint 29238 flushed
+[2026-11-02T08:43:32Z] [recon] INFO  replaying INV-4667 DRAFT->VOID ok
+[2026-11-02T08:43:32Z] [recon] INFO  replaying INV-6694 DRAFT->VOID ok
+[2026-11-02T08:43:32Z] [recon] INFO  replaying INV-2276 DRAFT->VOID ok
+[2026-11-02T08:43:33Z] [recon] INFO  replaying INV-1711 ISSUED->PAID ok
+[2026-11-02T08:43:33Z] [recon] INFO  replaying INV-4417 DRAFT->VOID ok
+[2026-11-02T08:43:33Z] [recon] INFO  replaying INV-8863 ISSUED->PAID ok
+[2026-11-02T08:43:33Z] [recon] INFO  replaying INV-5563 ISSUED->VOID ok
+[2026-11-02T08:43:33Z] [recon] INFO  replaying INV-2698 DRAFT->VOID ok
+[2026-11-02T08:43:34Z] [recon] INFO  replaying INV-6930 DRAFT->VOID ok
+[2026-11-02T08:43:34Z] [recon] INFO  replaying INV-1687 DRAFT->VOID ok
+[2026-11-02T08:43:34Z] [recon] INFO  replaying INV-2087 DRAFT->ISSUED ok
+[2026-11-02T08:43:34Z] [recon] INFO  replaying INV-5525 ISSUED->PAID ok
+[2026-11-02T08:43:35Z] [recon] INFO  replaying INV-8315 DRAFT->ISSUED ok
+[2026-11-02T08:43:35Z] [recon] INFO  replaying INV-5871 ISSUED->PAID ok
+[2026-11-02T08:43:35Z] [recon] INFO  replaying INV-6067 DRAFT->VOID ok
+[2026-11-02T08:43:35Z] [recon] INFO  replaying INV-2596 ISSUED->PAID ok
+[2026-11-02T08:43:36Z] [recon] INFO  replaying INV-3728 DRAFT->VOID ok
+[2026-11-02T08:43:36Z] [recon] INFO  replaying INV-2926 ISSUED->VOID ok
+[2026-11-02T08:43:36Z] [recon] DEBUG checkpoint 38268 flushed
+[2026-11-02T08:43:36Z] [recon] INFO  replaying INV-4084 ISSUED->PAID ok
+[2026-11-02T08:43:36Z] [recon] INFO  replaying INV-2544 ISSUED->PAID ok
+[2026-11-02T08:43:36Z] [recon] INFO  replaying INV-6261 DRAFT->VOID ok
+[2026-11-02T08:43:36Z] [recon] INFO  replaying INV-3832 DRAFT->ISSUED ok
+[2026-11-02T08:43:37Z] [recon] INFO  replaying INV-6260 ISSUED->VOID ok
+[2026-11-02T08:43:37Z] [recon] INFO  replaying INV-6546 DRAFT->ISSUED ok
+[2026-11-02T08:43:37Z] [recon] INFO  replaying INV-7528 ISSUED->VOID ok
+[2026-11-02T08:43:38Z] [recon] INFO  replaying INV-1838 ISSUED->PAID ok
+[2026-11-02T08:43:38Z] [recon] INFO  replaying INV-6034 DRAFT->VOID ok
+[2026-11-02T08:43:38Z] [recon] INFO  replaying INV-4086 ISSUED->VOID ok
+[2026-11-02T08:43:38Z] [recon] INFO  replaying INV-7760 ISSUED->PAID ok
+[2026-11-02T08:43:39Z] [recon] INFO  replaying INV-3759 ISSUED->PAID ok
+[2026-11-02T08:43:39Z] [recon] INFO  replaying INV-1134 DRAFT->ISSUED ok
+[2026-11-02T08:43:39Z] [recon] INFO  replaying INV-4920 DRAFT->VOID ok
+[2026-11-02T08:43:39Z] [recon] INFO  replaying INV-4919 ISSUED->PAID ok
+[2026-11-02T08:43:39Z] [recon] INFO  replaying INV-8963 ISSUED->VOID ok
+[2026-11-02T08:43:39Z] [recon] INFO  replaying INV-6197 ISSUED->VOID ok
+[2026-11-02T08:43:39Z] [recon] INFO  replaying INV-2604 DRAFT->VOID ok
+[2026-11-02T08:43:39Z] [recon] INFO  replaying INV-8254 DRAFT->VOID ok
+[2026-11-02T08:43:40Z] [recon] INFO  replaying INV-4812 DRAFT->VOID ok
+[2026-11-02T08:43:40Z] [recon] INFO  replaying INV-5583 ISSUED->VOID ok
+[2026-11-02T08:43:40Z] [recon] INFO  replaying INV-1355 DRAFT->VOID ok
+[2026-11-02T08:43:40Z] [recon] INFO  replaying INV-3975 DRAFT->ISSUED ok
+[2026-11-02T08:43:40Z] [recon] DEBUG checkpoint 93478 flushed
+[2026-11-02T08:43:41Z] [recon] INFO  replaying INV-8066 DRAFT->VOID ok
+[2026-11-02T08:43:41Z] [recon] INFO  replaying INV-6287 DRAFT->ISSUED ok
+[2026-11-02T08:43:41Z] [recon] INFO  replaying INV-1363 DRAFT->ISSUED ok
+[2026-11-02T08:43:42Z] [recon] INFO  replaying INV-1285 ISSUED->VOID ok
+[2026-11-02T08:43:42Z] [recon] INFO  replaying INV-2023 ISSUED->VOID ok
+[2026-11-02T08:43:42Z] [recon] INFO  replaying INV-1359 DRAFT->ISSUED ok
+[2026-11-02T08:43:42Z] [recon] INFO  replaying INV-1638 ISSUED->VOID ok
+[2026-11-02T08:43:42Z] [recon] INFO  replaying INV-5900 DRAFT->VOID ok
+[2026-11-02T08:43:43Z] [recon] INFO  replaying INV-8571 ISSUED->PAID ok
+[2026-11-02T08:43:43Z] [recon] INFO  replaying INV-8791 DRAFT->ISSUED ok
+[2026-11-02T08:43:43Z] [recon] INFO  replaying INV-3454 ISSUED->PAID ok
+[2026-11-02T08:43:43Z] [recon] INFO  replaying INV-8719 DRAFT->VOID ok
+[2026-11-02T08:43:43Z] [recon] INFO  replaying INV-8713 ISSUED->PAID ok
+[2026-11-02T08:43:43Z] [recon] DEBUG checkpoint 28512 flushed
+[2026-11-02T08:43:44Z] [recon] INFO  replaying INV-1972 DRAFT->ISSUED ok
+[2026-11-02T08:43:44Z] [recon] INFO  replaying INV-8942 ISSUED->VOID ok
+[2026-11-02T08:43:44Z] [recon] INFO  replaying INV-2481 ISSUED->VOID ok
+[2026-11-02T08:43:44Z] [recon] INFO  replaying INV-5869 ISSUED->PAID ok
+[2026-11-02T08:43:45Z] [recon] INFO  replaying INV-2398 ISSUED->VOID ok
+[2026-11-02T08:43:45Z] [recon] WARN  slow query on ledger_entries (422ms) (non-fatal)
+[2026-11-02T08:43:45Z] [recon] INFO  replaying INV-7121 DRAFT->VOID ok
+[2026-11-02T08:43:45Z] [recon] INFO  replaying INV-1423 DRAFT->VOID ok
+[2026-11-02T08:43:45Z] [recon] WARN  cache miss for ledger snapshot 2026-10-13, rebuilding (non-fatal)
+[2026-11-02T08:43:45Z] [recon] INFO  replaying INV-5395 DRAFT->ISSUED ok
+[2026-11-02T08:43:46Z] [recon] INFO  replaying INV-6539 ISSUED->PAID ok
+[2026-11-02T08:43:46Z] [recon] INFO  replaying INV-5177 DRAFT->VOID ok
+[2026-11-02T08:43:46Z] [recon] INFO  replaying INV-6321 ISSUED->PAID ok
+[2026-11-02T08:43:46Z] [recon] INFO  replaying INV-3237 ISSUED->VOID ok
+[2026-11-02T08:43:46Z] [recon] INFO  replaying INV-4222 DRAFT->ISSUED ok
+[2026-11-02T08:43:46Z] [recon] INFO  replaying INV-8606 DRAFT->VOID ok
+[2026-11-02T08:43:46Z] [recon] INFO  replaying INV-6766 DRAFT->VOID ok
+[2026-11-02T08:43:47Z] [recon] INFO  replaying INV-3062 DRAFT->ISSUED ok
+[2026-11-02T08:43:47Z] [recon] INFO  replaying INV-7988 DRAFT->ISSUED ok
+[2026-11-02T08:43:47Z] [recon] INFO  replaying INV-6027 ISSUED->VOID ok
+[2026-11-02T08:43:48Z] [recon] INFO  replaying INV-4709 ISSUED->VOID ok
+[2026-11-02T08:43:48Z] [recon] INFO  replaying INV-5876 ISSUED->VOID ok
+[2026-11-02T08:43:48Z] [recon] INFO  replaying INV-2512 ISSUED->VOID ok
+[2026-11-02T08:43:48Z] [recon] INFO  replaying INV-1366 ISSUED->VOID ok
+[2026-11-02T08:43:48Z] [recon] INFO  replaying INV-2492 ISSUED->VOID ok
+[2026-11-02T08:43:48Z] [recon] INFO  replaying INV-8164 ISSUED->VOID ok
+[2026-11-02T08:43:49Z] [recon] INFO  replaying INV-3431 DRAFT->VOID ok
+[2026-11-02T08:43:49Z] [recon] INFO  replaying INV-4611 ISSUED->PAID ok
+[2026-11-02T08:43:49Z] [recon] DEBUG checkpoint 93298 flushed
+[2026-11-02T08:43:49Z] [recon] INFO  replaying INV-3133 DRAFT->ISSUED ok
+[2026-11-02T08:43:49Z] [recon] INFO  replaying INV-7685 DRAFT->VOID ok
+[2026-11-02T08:43:50Z] [recon] INFO  replaying INV-8353 ISSUED->PAID ok
+[2026-11-02T08:43:50Z] [recon] INFO  replaying INV-6960 DRAFT->ISSUED ok
+[2026-11-02T08:43:50Z] [recon] INFO  replaying INV-2716 DRAFT->VOID ok
+[2026-11-02T08:43:50Z] [recon] INFO  replaying INV-6084 DRAFT->ISSUED ok
+[2026-11-02T08:43:50Z] [recon] INFO  replaying INV-3685 DRAFT->VOID ok
+[2026-11-02T08:43:51Z] [recon] DEBUG checkpoint 37670 flushed
+[2026-11-02T08:43:51Z] [recon] INFO  replaying INV-5537 ISSUED->PAID ok
+[2026-11-02T08:43:51Z] [recon] INFO  replaying INV-8095 ISSUED->PAID ok
+[2026-11-02T08:43:51Z] [recon] DEBUG checkpoint 43467 flushed
+[2026-11-02T08:43:51Z] [recon] INFO  replaying INV-1492 DRAFT->VOID ok
+[2026-11-02T08:43:51Z] [recon] WARN  cache miss for ledger snapshot 2026-10-15, rebuilding (non-fatal)
+[2026-11-02T08:43:52Z] [recon] INFO  replaying INV-5148 ISSUED->PAID ok
+[2026-11-02T08:43:52Z] [recon] INFO  replaying INV-8497 ISSUED->VOID ok
+[2026-11-02T08:43:52Z] [recon] INFO  replaying INV-7529 DRAFT->VOID ok
+[2026-11-02T08:43:52Z] [recon] WARN  cache miss for ledger snapshot 2026-10-20, rebuilding (non-fatal)
+[2026-11-02T08:43:52Z] [recon] DEBUG checkpoint 11340 flushed
+[2026-11-02T08:43:52Z] [recon] INFO  replaying INV-4413 DRAFT->VOID ok
+[2026-11-02T08:43:53Z] [recon] INFO  replaying INV-8666 ISSUED->PAID ok
+[2026-11-02T08:43:53Z] [recon] WARN  slow query on ledger_entries (415ms) (non-fatal)
+[2026-11-02T08:43:53Z] [recon] INFO  replaying INV-5019 ISSUED->VOID ok
+[2026-11-02T08:43:53Z] [recon] INFO  replaying INV-1105 ISSUED->PAID ok
+[2026-11-02T08:43:54Z] [recon] INFO  replaying INV-8849 ISSUED->VOID ok
+[2026-11-02T08:43:54Z] [recon] INFO  replaying INV-2985 ISSUED->VOID ok
+[2026-11-02T08:43:54Z] [recon] INFO  replaying INV-4354 ISSUED->VOID ok
+[2026-11-02T08:43:54Z] [recon] INFO  replaying INV-6549 DRAFT->VOID ok
+[2026-11-02T08:43:54Z] [recon] WARN  slow query on ledger_entries (486ms) (non-fatal)
+[2026-11-02T08:43:55Z] [recon] INFO  replaying INV-1480 DRAFT->ISSUED ok
+[2026-11-02T08:43:55Z] [recon] INFO  replaying INV-5329 DRAFT->ISSUED ok
+[2026-11-02T08:43:55Z] [recon] INFO  replaying INV-2071 DRAFT->VOID ok
+[2026-11-02T08:43:55Z] [recon] INFO  replaying INV-3956 DRAFT->VOID ok
+[2026-11-02T08:43:55Z] [recon] INFO  replaying INV-3975 ISSUED->PAID ok
+[2026-11-02T08:43:56Z] [recon] WARN  slow query on ledger_entries (529ms) (non-fatal)
+[2026-11-02T08:43:56Z] [recon] INFO  replaying INV-6393 DRAFT->VOID ok
+[2026-11-02T08:43:56Z] [recon] INFO  replaying INV-7781 DRAFT->VOID ok
+[2026-11-02T08:43:56Z] [recon] INFO  replaying INV-6425 ISSUED->VOID ok
+[2026-11-02T08:43:56Z] [recon] INFO  replaying INV-5571 ISSUED->VOID ok
+[2026-11-02T08:43:57Z] [recon] INFO  replaying INV-8546 DRAFT->ISSUED ok
+[2026-11-02T08:43:57Z] [recon] INFO  replaying INV-4067 DRAFT->VOID ok
+[2026-11-02T08:43:57Z] [recon] INFO  replaying INV-6943 DRAFT->VOID ok
+[2026-11-02T08:43:57Z] [recon] INFO  replaying INV-2174 ISSUED->VOID ok
+[2026-11-02T08:43:57Z] [recon] INFO  replaying INV-9083 ISSUED->VOID ok
+[2026-11-02T08:43:57Z] [recon] WARN  slow query on ledger_entries (715ms) (non-fatal)
+[2026-11-02T08:43:58Z] [recon] INFO  replaying INV-6083 ISSUED->PAID ok
+[2026-11-02T08:43:58Z] [recon] WARN  cache miss for ledger snapshot 2026-10-15, rebuilding (non-fatal)
+[2026-11-02T08:43:58Z] [recon] INFO  replaying INV-7346 ISSUED->VOID ok
+[2026-11-02T08:43:58Z] [recon] INFO  replaying INV-3112 ISSUED->PAID ok
+[2026-11-02T08:43:58Z] [recon] INFO  replaying INV-5777 DRAFT->VOID ok
+[2026-11-02T08:43:59Z] [recon] DEBUG checkpoint 82557 flushed
+[2026-11-02T08:43:59Z] [recon] INFO  replaying INV-1908 DRAFT->ISSUED ok
+[2026-11-02T08:43:59Z] [recon] INFO  replaying INV-6454 ISSUED->VOID ok
+[2026-11-02T08:43:59Z] [recon] INFO  replaying INV-8158 ISSUED->PAID ok
+[2026-11-02T08:43:59Z] [recon] INFO  replaying INV-8802 ISSUED->PAID ok
+[2026-11-02T08:43:59Z] [recon] INFO  replaying INV-2550 ISSUED->PAID ok
+[2026-11-02T08:44:00Z] [recon] DEBUG checkpoint 97195 flushed
+[2026-11-02T08:44:00Z] [recon] INFO  replaying INV-1760 ISSUED->VOID ok
+[2026-11-02T08:44:00Z] [recon] INFO  replaying INV-3509 DRAFT->VOID ok
+[2026-11-02T08:44:00Z] [recon] INFO  replaying INV-8745 DRAFT->ISSUED ok
+[2026-11-02T08:44:00Z] [recon] INFO  replaying INV-2062 ISSUED->PAID ok
+[2026-11-02T08:44:00Z] [recon] INFO  replaying INV-4588 DRAFT->VOID ok
+[2026-11-02T08:44:01Z] [recon] INFO  replaying INV-3237 DRAFT->VOID ok
+[2026-11-02T08:44:01Z] [recon] INFO  replaying INV-4825 DRAFT->ISSUED ok
+[2026-11-02T08:44:01Z] [recon] INFO  replaying INV-2005 ISSUED->PAID ok
+[2026-11-02T08:44:02Z] [recon] INFO  replaying INV-1863 ISSUED->PAID ok
+[2026-11-02T08:44:02Z] [recon] INFO  replaying INV-5946 DRAFT->VOID ok
+[2026-11-02T08:44:02Z] [recon] INFO  replaying INV-5679 DRAFT->ISSUED ok
+[2026-11-02T08:44:02Z] [recon] INFO  replaying INV-8610 DRAFT->VOID ok
+[2026-11-02T08:44:02Z] [recon] INFO  replaying INV-8750 ISSUED->PAID ok
+[2026-11-02T08:44:03Z] [recon] INFO  replaying INV-2750 DRAFT->ISSUED ok
+[2026-11-02T08:44:03Z] [recon] INFO  replaying INV-7619 DRAFT->ISSUED ok
+[2026-11-02T08:44:03Z] [recon] INFO  replaying INV-8527 ISSUED->PAID ok
+[2026-11-02T08:44:03Z] [recon] INFO  replaying INV-4063 DRAFT->ISSUED ok
+[2026-11-02T08:44:04Z] [recon] INFO  replaying INV-8806 DRAFT->VOID ok
+[2026-11-02T08:44:04Z] [recon] INFO  replaying INV-4751 DRAFT->VOID ok
+[2026-11-02T08:44:04Z] [recon] WARN  slow query on ledger_entries (1087ms) (non-fatal)
+[2026-11-02T08:44:04Z] [recon] INFO  replaying INV-3560 DRAFT->VOID ok
+[2026-11-02T08:44:04Z] [recon] INFO  replaying INV-4213 ISSUED->PAID ok
+[2026-11-02T08:44:05Z] [recon] INFO  replaying INV-2665 ISSUED->VOID ok
+[2026-11-02T08:44:05Z] [recon] INFO  replaying INV-7272 ISSUED->VOID ok
+[2026-11-02T08:44:05Z] [recon] WARN  cache miss for ledger snapshot 2026-10-24, rebuilding (non-fatal)
+[2026-11-02T08:44:05Z] [recon] INFO  replaying INV-8341 DRAFT->VOID ok
+[2026-11-02T08:44:05Z] [recon] INFO  replaying INV-5372 DRAFT->ISSUED ok
+[2026-11-02T08:44:05Z] [recon] WARN  cache miss for ledger snapshot 2026-10-29, rebuilding (non-fatal)
+[2026-11-02T08:44:06Z] [recon] INFO  replaying INV-2368 DRAFT->VOID ok
+[2026-11-02T08:44:06Z] [recon] WARN  slow query on ledger_entries (1103ms) (non-fatal)
+[2026-11-02T08:44:07Z] [recon] INFO  replaying INV-5202 ISSUED->VOID ok
+[2026-11-02T08:44:07Z] [recon] WARN  slow query on ledger_entries (863ms) (non-fatal)
+[2026-11-02T08:44:07Z] [recon] INFO  replaying INV-1527 DRAFT->ISSUED ok
+[2026-11-02T08:44:07Z] [recon] INFO  replaying INV-7167 DRAFT->VOID ok
+[2026-11-02T08:44:07Z] [recon] INFO  replaying INV-2097 DRAFT->ISSUED ok
+[2026-11-02T08:44:08Z] [recon] INFO  replaying INV-5717 ISSUED->PAID ok
+[2026-11-02T08:44:08Z] [recon] INFO  replaying INV-5938 DRAFT->VOID ok
+[2026-11-02T08:44:08Z] [recon] INFO  replaying INV-8712 DRAFT->ISSUED ok
+[2026-11-02T08:44:08Z] [recon] INFO  replaying INV-2118 DRAFT->VOID ok
+[2026-11-02T08:44:08Z] [recon] INFO  replaying INV-1332 ISSUED->PAID ok
+[2026-11-02T08:44:09Z] [recon] INFO  replaying INV-1903 ISSUED->PAID ok
+[2026-11-02T08:44:09Z] [recon] INFO  replaying INV-6372 DRAFT->VOID ok
+[2026-11-02T08:44:09Z] [recon] INFO  replaying INV-4215 DRAFT->ISSUED ok
+[2026-11-02T08:44:09Z] [recon] INFO  replaying INV-6468 DRAFT->ISSUED ok
+[2026-11-02T08:44:09Z] [recon] WARN  cache miss for ledger snapshot 2026-10-14, rebuilding (non-fatal)
+[2026-11-02T08:44:10Z] [recon] INFO  replaying INV-5696 DRAFT->VOID ok
+[2026-11-02T08:44:10Z] [recon] INFO  replaying INV-3362 ISSUED->PAID ok
+[2026-11-02T08:44:10Z] [recon] DEBUG checkpoint 31309 flushed
+[2026-11-02T08:44:10Z] [recon] INFO  replaying INV-2930 DRAFT->VOID ok
+[2026-11-02T08:44:10Z] [recon] INFO  replaying INV-3228 DRAFT->VOID ok
+[2026-11-02T08:44:11Z] [recon] INFO  replaying INV-2653 ISSUED->VOID ok
+[2026-11-02T08:44:11Z] [recon] INFO  replaying INV-3955 DRAFT->ISSUED ok
+[2026-11-02T08:44:11Z] [recon] INFO  replaying INV-7004 DRAFT->VOID ok
+[2026-11-02T08:44:12Z] [recon] WARN  cache miss for ledger snapshot 2026-10-20, rebuilding (non-fatal)
+[2026-11-02T08:44:12Z] [recon] INFO  replaying INV-1994 DRAFT->ISSUED ok
+[2026-11-02T08:44:12Z] [recon] INFO  replaying INV-5301 DRAFT->VOID ok
+[2026-11-02T08:44:12Z] [recon] INFO  replaying INV-6706 ISSUED->PAID ok
+[2026-11-02T08:44:12Z] [recon] INFO  replaying INV-5940 ISSUED->PAID ok
+[2026-11-02T08:44:13Z] [recon] INFO  replaying INV-7345 ISSUED->PAID ok
+[2026-11-02T08:44:13Z] [recon] INFO  replaying INV-4429 DRAFT->ISSUED ok
+[2026-11-02T08:44:13Z] [recon] INFO  replaying INV-9078 DRAFT->ISSUED ok
+[2026-11-02T08:44:13Z] [recon] INFO  replaying INV-2205 DRAFT->VOID ok
+[2026-11-02T08:44:13Z] [recon] INFO  replaying INV-3518 DRAFT->VOID ok
+[2026-11-02T08:44:13Z] [recon] WARN  cache miss for ledger snapshot 2026-10-29, rebuilding (non-fatal)
+[2026-11-02T08:44:14Z] [recon] WARN  slow query on ledger_entries (1287ms) (non-fatal)
+[2026-11-02T08:44:14Z] [recon] INFO  replaying INV-8549 DRAFT->VOID ok
+[2026-11-02T08:44:14Z] [recon] INFO  replaying INV-1142 ISSUED->VOID ok
+[2026-11-02T08:44:14Z] [recon] INFO  replaying INV-1917 DRAFT->ISSUED ok
+[2026-11-02T08:44:15Z] [recon] INFO  replaying INV-3689 ISSUED->VOID ok
+[2026-11-02T08:44:15Z] [recon] INFO  replaying INV-7118 DRAFT->ISSUED ok
+[2026-11-02T08:44:15Z] [recon] INFO  replaying INV-3491 ISSUED->VOID ok
+[2026-11-02T08:44:15Z] [recon] WARN  cache miss for ledger snapshot 2026-10-21, rebuilding (non-fatal)
+[2026-11-02T08:44:15Z] [recon] INFO  replaying INV-3620 DRAFT->VOID ok
+[2026-11-02T08:44:16Z] [recon] INFO  replaying INV-3196 ISSUED->PAID ok
+[2026-11-02T08:44:16Z] [recon] INFO  replaying INV-4155 DRAFT->VOID ok
+[2026-11-02T08:44:16Z] [recon] INFO  replaying INV-1545 DRAFT->ISSUED ok
+[2026-11-02T08:44:16Z] [recon] INFO  replaying INV-3149 DRAFT->ISSUED ok
+[2026-11-02T08:44:16Z] [recon] INFO  replaying INV-6454 ISSUED->PAID ok
+[2026-11-02T08:44:16Z] [recon] INFO  replaying INV-3031 DRAFT->VOID ok
+[2026-11-02T08:44:17Z] [recon] INFO  replaying INV-3633 DRAFT->VOID ok
+[2026-11-02T08:44:17Z] [recon] INFO  replaying INV-7818 DRAFT->VOID ok
+[2026-11-02T08:44:17Z] [recon] INFO  replaying INV-6742 ISSUED->VOID ok
+[2026-11-02T08:44:17Z] [recon] INFO  replaying INV-2309 ISSUED->PAID ok
+[2026-11-02T08:44:18Z] [recon] INFO  replaying INV-8375 ISSUED->PAID ok
+[2026-11-02T08:44:18Z] [recon] WARN  slow query on ledger_entries (654ms) (non-fatal)
+[2026-11-02T08:44:18Z] [recon] WARN  slow query on ledger_entries (1274ms) (non-fatal)
+[2026-11-02T08:44:18Z] [recon] INFO  replaying INV-2966 ISSUED->VOID ok
+[2026-11-02T08:44:18Z] [recon] INFO  replaying INV-7146 ISSUED->PAID ok
+[2026-11-02T08:44:18Z] [recon] WARN  cache miss for ledger snapshot 2026-10-25, rebuilding (non-fatal)
+[2026-11-02T08:44:18Z] [recon] INFO  replaying INV-6502 DRAFT->VOID ok
+[2026-11-02T08:44:18Z] [recon] INFO  replaying INV-9041 DRAFT->ISSUED ok
+[2026-11-02T08:44:19Z] [recon] INFO  replaying INV-8256 ISSUED->PAID ok
+[2026-11-02T08:44:19Z] [recon] INFO  replaying INV-6548 ISSUED->PAID ok
+[2026-11-02T08:44:19Z] [recon] INFO  replaying INV-7784 ISSUED->VOID ok
+[2026-11-02T08:44:19Z] [recon] INFO  replaying INV-1440 ISSUED->PAID ok
+[2026-11-02T08:44:20Z] [recon] INFO  replaying INV-5141 DRAFT->ISSUED ok
+[2026-11-02T08:44:20Z] [recon] INFO  replaying INV-1296 ISSUED->PAID ok
+[2026-11-02T08:44:20Z] [recon] WARN  cache miss for ledger snapshot 2026-10-28, rebuilding (non-fatal)
+[2026-11-02T08:44:20Z] [recon] INFO  replaying INV-6274 DRAFT->ISSUED ok
+[2026-11-02T08:44:20Z] [recon] INFO  replaying INV-7763 ISSUED->PAID ok
+[2026-11-02T08:44:20Z] [recon] INFO  replaying INV-1532 DRAFT->ISSUED ok
+[2026-11-02T08:44:21Z] [recon] INFO  replaying INV-4805 DRAFT->VOID ok
+[2026-11-02T08:44:21Z] [recon] INFO  replaying INV-8493 DRAFT->VOID ok
+[2026-11-02T08:44:21Z] [recon] INFO  replaying INV-3093 ISSUED->VOID ok
+[2026-11-02T08:44:21Z] [recon] INFO  replaying INV-1699 DRAFT->VOID ok
+[2026-11-02T08:44:22Z] [recon] INFO  replaying INV-2328 ISSUED->VOID ok
+[2026-11-02T08:44:22Z] [recon] INFO  replaying INV-8277 DRAFT->ISSUED ok
+[2026-11-02T08:44:22Z] [recon] INFO  replaying INV-1753 ISSUED->PAID ok
+[2026-11-02T08:44:22Z] [recon] INFO  replaying INV-2867 DRAFT->ISSUED ok
+[2026-11-02T08:44:23Z] [recon] INFO  replaying INV-7017 DRAFT->ISSUED ok
+[2026-11-02T08:44:23Z] [recon] INFO  replaying INV-5915 ISSUED->VOID ok
+[2026-11-02T08:44:23Z] [recon] INFO  replaying INV-8483 DRAFT->ISSUED ok
+[2026-11-02T08:44:23Z] [recon] INFO  replaying INV-1404 ISSUED->VOID ok
+[2026-11-02T08:44:23Z] [recon] INFO  replaying INV-4723 DRAFT->ISSUED ok
+[2026-11-02T08:44:23Z] [recon] INFO  replaying INV-6597 DRAFT->ISSUED ok
+[2026-11-02T08:44:24Z] [recon] INFO  replaying INV-1722 DRAFT->VOID ok
+[2026-11-02T08:44:24Z] [recon] INFO  replaying INV-8622 ISSUED->VOID ok
+[2026-11-02T08:44:24Z] [recon] INFO  replaying INV-6449 ISSUED->PAID ok
+[2026-11-02T08:44:25Z] [recon] INFO  replaying INV-3833 DRAFT->VOID ok
+[2026-11-02T08:44:25Z] [recon] INFO  replaying INV-2947 ISSUED->VOID ok
+[2026-11-02T08:44:25Z] [recon] INFO  replaying INV-7415 DRAFT->VOID ok
+[2026-11-02T08:44:25Z] [recon] WARN  cache miss for ledger snapshot 2026-10-22, rebuilding (non-fatal)
+[2026-11-02T08:44:25Z] [recon] INFO  replaying INV-7584 ISSUED->VOID ok
+[2026-11-02T08:44:25Z] [recon] INFO  replaying INV-8400 ISSUED->PAID ok
+[2026-11-02T08:44:26Z] [recon] INFO  replaying INV-6424 DRAFT->VOID ok
+[2026-11-02T08:44:26Z] [recon] WARN  cache miss for ledger snapshot 2026-10-24, rebuilding (non-fatal)
+[2026-11-02T08:44:26Z] [recon] DEBUG checkpoint 72077 flushed
+[2026-11-02T08:44:26Z] [recon] INFO  replaying INV-1897 ISSUED->PAID ok
+[2026-11-02T08:44:26Z] [recon] INFO  replaying INV-2436 ISSUED->PAID ok
+[2026-11-02T08:44:26Z] [recon] INFO  replaying INV-3803 DRAFT->ISSUED ok
+[2026-11-02T08:44:27Z] [recon] INFO  replaying INV-3407 DRAFT->VOID ok
+[2026-11-02T08:44:27Z] [recon] WARN  slow query on ledger_entries (643ms) (non-fatal)
+[2026-11-02T08:44:27Z] [recon] INFO  replaying INV-2340 ISSUED->PAID ok
+[2026-11-02T08:44:27Z] [recon] INFO  replaying INV-4275 DRAFT->ISSUED ok
+[2026-11-02T08:44:27Z] [recon] INFO  replaying INV-6519 ISSUED->VOID ok
+[2026-11-02T08:44:28Z] [recon] INFO  replaying INV-3650 ISSUED->VOID ok
+[2026-11-02T08:44:28Z] [recon] INFO  replaying INV-8182 ISSUED->PAID ok
+[2026-11-02T08:44:28Z] [recon] WARN  cache miss for ledger snapshot 2026-10-10, rebuilding (non-fatal)
+[2026-11-02T08:44:28Z] [recon] INFO  replaying INV-2329 DRAFT->ISSUED ok
+[2026-11-02T08:44:29Z] [recon] INFO  replaying INV-2148 DRAFT->ISSUED ok
+[2026-11-02T08:44:29Z] [recon] INFO  replaying INV-8978 ISSUED->PAID ok
+[2026-11-02T08:44:29Z] [recon] INFO  replaying INV-8057 ISSUED->VOID ok
+[2026-11-02T08:44:29Z] [recon] INFO  replaying INV-8842 ISSUED->PAID ok
+[2026-11-02T08:44:29Z] [recon] INFO  replaying INV-2420 DRAFT->ISSUED ok
+[2026-11-02T08:44:29Z] [recon] INFO  replaying INV-5580 DRAFT->VOID ok
+[2026-11-02T08:44:30Z] [recon] INFO  replaying INV-4226 ISSUED->PAID ok
+[2026-11-02T08:44:30Z] [recon] INFO  replaying INV-3077 DRAFT->ISSUED ok
+[2026-11-02T08:44:30Z] [recon] INFO  replaying INV-1476 DRAFT->VOID ok
+[2026-11-02T08:44:31Z] [recon] INFO  replaying INV-3452 DRAFT->VOID ok
+[2026-11-02T08:44:31Z] [recon] INFO  replaying INV-1534 ISSUED->PAID ok
+[2026-11-02T08:44:31Z] [recon] INFO  replaying INV-8943 ISSUED->PAID ok
+[2026-11-02T08:44:31Z] [recon] INFO  replaying INV-7827 ISSUED->PAID ok
+[2026-11-02T08:44:31Z] [recon] DEBUG checkpoint 32272 flushed
+[2026-11-02T08:44:32Z] [recon] INFO  replaying INV-6421 DRAFT->ISSUED ok
+[2026-11-02T08:44:32Z] [recon] INFO  replaying INV-1914 ISSUED->PAID ok
+[2026-11-02T08:44:32Z] [recon] INFO  replaying INV-3523 DRAFT->VOID ok
+[2026-11-02T08:44:32Z] [recon] INFO  replaying INV-4311 ISSUED->VOID ok
+[2026-11-02T08:44:32Z] [recon] INFO  replaying INV-3824 DRAFT->VOID ok
+[2026-11-02T08:44:33Z] [recon] INFO  replaying INV-8307 ISSUED->PAID ok
+[2026-11-02T08:44:33Z] [recon] INFO  replaying INV-6069 DRAFT->ISSUED ok
+[2026-11-02T08:44:33Z] [recon] INFO  replaying INV-3785 ISSUED->PAID ok
+[2026-11-02T08:44:33Z] [recon] INFO  replaying INV-4979 DRAFT->VOID ok
+[2026-11-02T08:44:33Z] [recon] INFO  replaying INV-3927 DRAFT->VOID ok
+[2026-11-02T08:44:34Z] [recon] INFO  replaying INV-1704 ISSUED->PAID ok
+[2026-11-02T08:44:34Z] [recon] INFO  replaying INV-7599 DRAFT->ISSUED ok
+[2026-11-02T08:44:34Z] [recon] INFO  replaying INV-2431 DRAFT->ISSUED ok
+[2026-11-02T08:44:34Z] [recon] INFO  replaying INV-2976 ISSUED->VOID ok
+[2026-11-02T08:44:34Z] [recon] INFO  replaying INV-2065 ISSUED->VOID ok
+[2026-11-02T08:44:34Z] [recon] INFO  replaying INV-6622 ISSUED->VOID ok
+[2026-11-02T08:44:34Z] [recon] INFO  replaying INV-5867 ISSUED->PAID ok
+[2026-11-02T08:44:34Z] [recon] INFO  replaying INV-1495 DRAFT->VOID ok
+[2026-11-02T08:44:35Z] [recon] INFO  replaying INV-7984 ISSUED->VOID ok
+[2026-11-02T08:44:35Z] [recon] INFO  replaying INV-3788 DRAFT->ISSUED ok
+[2026-11-02T08:44:35Z] [recon] DEBUG checkpoint 90590 flushed
+[2026-11-02T08:44:35Z] [recon] INFO  replaying INV-4753 DRAFT->ISSUED ok
+[2026-11-02T08:44:35Z] [recon] INFO  replaying INV-5865 DRAFT->VOID ok
+[2026-11-02T08:44:35Z] [recon] INFO  replaying INV-8785 ISSUED->VOID ok
+[2026-11-02T08:44:36Z] [recon] WARN  slow query on ledger_entries (1297ms) (non-fatal)
+[2026-11-02T08:44:36Z] [recon] INFO  replaying INV-7962 DRAFT->ISSUED ok
+[2026-11-02T08:44:36Z] [recon] INFO  replaying INV-3043 DRAFT->VOID ok
+[2026-11-02T08:44:36Z] [recon] INFO  replaying INV-3924 DRAFT->ISSUED ok
+[2026-11-02T08:44:36Z] [recon] INFO  replaying INV-3407 ISSUED->VOID ok
+[2026-11-02T08:44:36Z] [recon] WARN  slow query on ledger_entries (1069ms) (non-fatal)
+[2026-11-02T08:44:36Z] [recon] INFO  replaying INV-7975 ISSUED->PAID ok
+[2026-11-02T08:44:36Z] [recon] INFO  replaying INV-2130 DRAFT->ISSUED ok
+[2026-11-02T08:44:36Z] [recon] DEBUG checkpoint 50160 flushed
+[2026-11-02T08:44:37Z] [recon] INFO  replaying INV-8832 ISSUED->PAID ok
+[2026-11-02T08:44:37Z] [recon] INFO  replaying INV-2630 ISSUED->VOID ok
+[2026-11-02T08:44:37Z] [recon] WARN  cache miss for ledger snapshot 2026-10-29, rebuilding (non-fatal)
+[2026-11-02T08:44:37Z] [recon] INFO  replaying INV-1499 DRAFT->ISSUED ok
+[2026-11-02T08:44:38Z] [recon] WARN  cache miss for ledger snapshot 2026-10-16, rebuilding (non-fatal)
+[2026-11-02T08:44:38Z] [recon] INFO  replaying INV-6856 DRAFT->ISSUED ok
+[2026-11-02T08:44:38Z] [recon] DEBUG checkpoint 54830 flushed
+[2026-11-02T08:44:38Z] [recon] DEBUG checkpoint 55749 flushed
+[2026-11-02T08:44:38Z] [recon] WARN  slow query on ledger_entries (966ms) (non-fatal)
+[2026-11-02T08:44:38Z] [recon] INFO  replaying INV-1615 DRAFT->ISSUED ok
+[2026-11-02T08:44:39Z] [recon] INFO  replaying INV-1890 ISSUED->VOID ok
+[2026-11-02T08:44:39Z] [recon] INFO  replaying INV-5522 ISSUED->PAID ok
+[2026-11-02T08:44:39Z] [recon] INFO  replaying INV-7883 DRAFT->ISSUED ok
+[2026-11-02T08:44:39Z] [recon] WARN  slow query on ledger_entries (1107ms) (non-fatal)
+[2026-11-02T08:44:39Z] [recon] INFO  replaying INV-6940 ISSUED->PAID ok
+[2026-11-02T08:44:39Z] [recon] INFO  replaying INV-8524 DRAFT->VOID ok
+[2026-11-02T08:44:39Z] [recon] INFO  replaying INV-3184 ISSUED->VOID ok
+[2026-11-02T08:44:40Z] [recon] DEBUG checkpoint 11131 flushed
+[2026-11-02T08:44:40Z] [recon] INFO  replaying INV-6713 ISSUED->VOID ok
+[2026-11-02T08:44:40Z] [recon] INFO  replaying INV-7259 DRAFT->ISSUED ok
+[2026-11-02T08:44:41Z] [recon] INFO  replaying INV-3661 DRAFT->ISSUED ok
+[2026-11-02T08:44:41Z] [recon] INFO  replaying INV-4009 ISSUED->PAID ok
+[2026-11-02T08:44:41Z] [recon] INFO  replaying INV-4850 ISSUED->PAID ok
+[2026-11-02T08:44:41Z] [recon] INFO  replaying INV-7212 ISSUED->PAID ok
+[2026-11-02T08:44:42Z] [recon] INFO  replaying INV-4125 DRAFT->VOID ok
+[2026-11-02T08:44:42Z] [recon] WARN  slow query on ledger_entries (1014ms) (non-fatal)
+[2026-11-02T08:44:42Z] [recon] INFO  replaying INV-6716 DRAFT->VOID ok
+[2026-11-02T08:44:42Z] [recon] INFO  replaying INV-5932 ISSUED->PAID ok
+[2026-11-02T08:44:42Z] [recon] INFO  replaying INV-9047 DRAFT->VOID ok
+[2026-11-02T08:44:43Z] [recon] INFO  replaying INV-1235 DRAFT->ISSUED ok
+[2026-11-02T08:44:43Z] [recon] INFO  replaying INV-2895 ISSUED->VOID ok
+[2026-11-02T08:44:43Z] [recon] INFO  replaying INV-4942 DRAFT->VOID ok
+[2026-11-02T08:44:43Z] [recon] INFO  replaying INV-4627 ISSUED->VOID ok
+[2026-11-02T08:44:43Z] [recon] INFO  replaying INV-5383 ISSUED->PAID ok
+[2026-11-02T08:44:44Z] [recon] INFO  replaying INV-5478 DRAFT->ISSUED ok
+[2026-11-02T08:44:44Z] [recon] INFO  replaying INV-2644 DRAFT->VOID ok
+[2026-11-02T08:44:44Z] [recon] INFO  replaying INV-3981 ISSUED->PAID ok
+[2026-11-02T08:44:44Z] [recon] INFO  replaying INV-1746 ISSUED->PAID ok
+[2026-11-02T08:44:44Z] [recon] INFO  replaying INV-3969 ISSUED->VOID ok
+[2026-11-02T08:44:44Z] [recon] INFO  replaying INV-2178 DRAFT->ISSUED ok
+[2026-11-02T08:44:45Z] [recon] INFO  replaying INV-5669 DRAFT->ISSUED ok
+[2026-11-02T08:44:45Z] [recon] INFO  replaying INV-3581 ISSUED->VOID ok
+[2026-11-02T08:44:45Z] [recon] INFO  replaying INV-6169 ISSUED->PAID ok
+[2026-11-02T08:44:45Z] [recon] INFO  replaying INV-8539 ISSUED->PAID ok
+[2026-11-02T08:44:46Z] [recon] INFO  replaying INV-5211 DRAFT->VOID ok
+[2026-11-02T08:44:46Z] [recon] INFO  replaying INV-4915 DRAFT->VOID ok
+[2026-11-02T08:44:46Z] [recon] INFO  replaying INV-1661 ISSUED->VOID ok
+[2026-11-02T08:44:46Z] [recon] INFO  replaying INV-8602 DRAFT->ISSUED ok
+[2026-11-02T08:44:46Z] [recon] INFO  replaying INV-5673 ISSUED->VOID ok
+[2026-11-02T08:44:46Z] [recon] INFO  replaying INV-8730 ISSUED->PAID ok
+[2026-11-02T08:44:47Z] [recon] INFO  replaying INV-8613 ISSUED->PAID ok
+[2026-11-02T08:44:47Z] [recon] INFO  replaying INV-7693 ISSUED->PAID ok
+[2026-11-02T08:44:47Z] [recon] INFO  replaying INV-4211 ISSUED->VOID ok
+[2026-11-02T08:44:48Z] [recon] INFO  replaying INV-4875 ISSUED->VOID ok
+[2026-11-02T08:44:48Z] [recon] INFO  replaying INV-6704 ISSUED->PAID ok
+[2026-11-02T08:44:48Z] [recon] INFO  replaying INV-5472 ISSUED->VOID ok
+[2026-11-02T08:44:48Z] [recon] INFO  replaying INV-2952 ISSUED->VOID ok
+[2026-11-02T08:44:48Z] [recon] INFO  replaying INV-1919 DRAFT->ISSUED ok
+[2026-11-02T08:44:49Z] [recon] INFO  replaying INV-8842 ISSUED->PAID ok
+[2026-11-02T08:44:49Z] [recon] INFO  replaying INV-6118 ISSUED->VOID ok
+[2026-11-02T08:44:49Z] [recon] INFO  replaying INV-4074 DRAFT->VOID ok
+[2026-11-02T08:44:50Z] [recon] INFO  replaying INV-6799 DRAFT->ISSUED ok
+[2026-11-02T08:44:50Z] [recon] INFO  replaying INV-6285 DRAFT->VOID ok
+[2026-11-02T08:44:50Z] [recon] INFO  replaying INV-7195 DRAFT->VOID ok
+[2026-11-02T08:44:50Z] [recon] INFO  replaying INV-4287 ISSUED->PAID ok
+[2026-11-02T08:44:50Z] [recon] INFO  replaying INV-8129 DRAFT->ISSUED ok
+[2026-11-02T08:44:50Z] [recon] INFO  replaying INV-7485 ISSUED->PAID ok
+[2026-11-02T08:44:50Z] [recon] INFO  replaying INV-6410 DRAFT->VOID ok
+[2026-11-02T08:44:51Z] [recon] INFO  replaying INV-5291 ISSUED->VOID ok
+[2026-11-02T08:44:51Z] [recon] INFO  replaying INV-2827 DRAFT->VOID ok
+[2026-11-02T08:44:51Z] [recon] INFO  replaying INV-6453 DRAFT->ISSUED ok
+[2026-11-02T08:44:51Z] [recon] INFO  replaying INV-5474 ISSUED->PAID ok
+[2026-11-02T08:44:52Z] [recon] INFO  replaying INV-7152 DRAFT->ISSUED ok
+[2026-11-02T08:44:52Z] [recon] INFO  replaying INV-6257 ISSUED->PAID ok
+[2026-11-02T08:44:52Z] [recon] INFO  replaying INV-4225 ISSUED->VOID ok
+[2026-11-02T08:44:52Z] [recon] INFO  replaying INV-6217 DRAFT->ISSUED ok
+[2026-11-02T08:44:53Z] [recon] INFO  replaying INV-3403 ISSUED->PAID ok
+[2026-11-02T08:44:53Z] [recon] INFO  replaying INV-7607 ISSUED->VOID ok
+[2026-11-02T08:44:54Z] [recon] INFO  replaying INV-4858 ISSUED->VOID ok
+[2026-11-02T08:44:54Z] [recon] INFO  replaying INV-1787 ISSUED->PAID ok
+[2026-11-02T08:44:54Z] [recon] INFO  replaying INV-2886 ISSUED->VOID ok
+[2026-11-02T08:44:54Z] [recon] INFO  replaying INV-7262 DRAFT->ISSUED ok
+[2026-11-02T08:44:55Z] [recon] INFO  replaying INV-8449 DRAFT->VOID ok
+[2026-11-02T08:44:55Z] [recon] DEBUG checkpoint 21579 flushed
+[2026-11-02T08:44:55Z] [recon] INFO  replaying INV-2756 ISSUED->PAID ok
+[2026-11-02T08:44:55Z] [recon] INFO  replaying INV-9016 ISSUED->PAID ok
+[2026-11-02T08:44:55Z] [recon] INFO  replaying INV-3901 ISSUED->VOID ok
+[2026-11-02T08:44:55Z] [recon] INFO  replaying INV-3400 DRAFT->VOID ok
+[2026-11-02T08:44:55Z] [recon] INFO  replaying INV-1634 DRAFT->ISSUED ok
+[2026-11-02T08:44:56Z] [recon] INFO  replaying INV-6628 ISSUED->PAID ok
+[2026-11-02T08:44:56Z] [recon] WARN  cache miss for ledger snapshot 2026-10-22, rebuilding (non-fatal)
+[2026-11-02T08:44:57Z] [recon] INFO  replaying INV-7404 DRAFT->VOID ok
+[2026-11-02T08:44:57Z] [recon] WARN  slow query on ledger_entries (859ms) (non-fatal)
+[2026-11-02T08:44:57Z] [recon] INFO  replaying INV-1813 DRAFT->ISSUED ok
+[2026-11-02T08:44:57Z] [recon] INFO  replaying INV-5383 DRAFT->VOID ok
+[2026-11-02T08:44:57Z] [recon] INFO  replaying INV-4700 ISSUED->VOID ok
+[2026-11-02T08:44:58Z] [recon] WARN  cache miss for ledger snapshot 2026-10-16, rebuilding (non-fatal)
+[2026-11-02T08:44:58Z] [recon] INFO  replaying INV-4736 ISSUED->PAID ok
+[2026-11-02T08:44:58Z] [recon] WARN  slow query on ledger_entries (912ms) (non-fatal)
+[2026-11-02T08:44:58Z] [recon] INFO  replaying INV-5853 ISSUED->VOID ok
+[2026-11-02T08:44:58Z] [recon] INFO  replaying INV-3515 ISSUED->VOID ok
+[2026-11-02T08:44:58Z] [recon] WARN  cache miss for ledger snapshot 2026-10-13, rebuilding (non-fatal)
+[2026-11-02T08:44:58Z] [recon] INFO  replaying INV-2127 DRAFT->VOID ok
+[2026-11-02T08:44:59Z] [recon] INFO  replaying INV-8346 ISSUED->VOID ok
+[2026-11-02T08:44:59Z] [recon] INFO  replaying INV-1334 DRAFT->VOID ok
+[2026-11-02T08:44:59Z] [recon] INFO  replaying INV-3270 DRAFT->ISSUED ok
+[2026-11-02T08:44:59Z] [recon] INFO  replaying INV-8308 ISSUED->VOID ok
+[2026-11-02T08:44:59Z] [recon] INFO  replaying INV-8438 DRAFT->ISSUED ok
+[2026-11-02T08:44:59Z] [recon] WARN  slow query on ledger_entries (561ms) (non-fatal)
+[2026-11-02T08:45:00Z] [recon] INFO  replaying INV-8884 ISSUED->VOID ok
+[2026-11-02T08:45:00Z] [recon] WARN  cache miss for ledger snapshot 2026-10-14, rebuilding (non-fatal)
+[2026-11-02T08:45:00Z] [recon] INFO  replaying INV-2095 DRAFT->ISSUED ok
+[2026-11-02T08:45:00Z] [recon] INFO  replaying INV-2132 ISSUED->VOID ok
+[2026-11-02T08:45:00Z] [recon] INFO  replaying INV-1646 ISSUED->VOID ok
+[2026-11-02T08:45:00Z] [recon] INFO  replaying INV-8693 DRAFT->ISSUED ok
+[2026-11-02T08:45:00Z] [recon] INFO  replaying INV-3137 DRAFT->VOID ok
+[2026-11-02T08:45:01Z] [recon] INFO  replaying INV-4520 ISSUED->PAID ok
+[2026-11-02T08:45:01Z] [recon] INFO  replaying INV-7748 ISSUED->PAID ok
+[2026-11-02T08:45:01Z] [recon] INFO  replaying INV-4996 DRAFT->ISSUED ok
+[2026-11-02T08:45:01Z] [recon] INFO  replaying INV-8100 DRAFT->ISSUED ok
+[2026-11-02T08:45:01Z] [recon] WARN  cache miss for ledger snapshot 2026-10-16, rebuilding (non-fatal)
+[2026-11-02T08:45:01Z] [recon] INFO  replaying INV-6907 ISSUED->VOID ok
+[2026-11-02T08:45:02Z] [recon] INFO  replaying INV-3018 ISSUED->VOID ok
+[2026-11-02T08:45:02Z] [recon] INFO  replaying INV-7334 ISSUED->VOID ok
+[2026-11-02T08:45:02Z] [recon] INFO  replaying INV-2225 DRAFT->ISSUED ok
+[2026-11-02T08:45:02Z] [recon] INFO  replaying INV-3021 DRAFT->VOID ok
+[2026-11-02T08:45:03Z] [recon] INFO  replaying INV-3000 ISSUED->PAID ok
+[2026-11-02T08:45:03Z] [recon] INFO  replaying INV-2861 DRAFT->ISSUED ok
+[2026-11-02T08:45:03Z] [recon] INFO  replaying INV-3362 ISSUED->PAID ok
+[2026-11-02T08:45:03Z] [recon] INFO  replaying INV-4348 ISSUED->VOID ok
+[2026-11-02T08:45:03Z] [recon] INFO  replaying INV-5333 ISSUED->VOID ok
+[2026-11-02T08:45:04Z] [recon] INFO  replaying INV-1179 ISSUED->VOID ok
+[2026-11-02T08:45:04Z] [recon] INFO  replaying INV-7304 ISSUED->PAID ok
+[2026-11-02T08:45:04Z] [recon] INFO  replaying INV-3147 DRAFT->ISSUED ok
+[2026-11-02T08:45:04Z] [recon] INFO  replaying INV-5159 DRAFT->ISSUED ok
+[2026-11-02T08:45:05Z] [recon] DEBUG checkpoint 1153 flushed
+[2026-11-02T08:45:05Z] [recon] INFO  replaying INV-2701 DRAFT->VOID ok
+[2026-11-02T08:45:05Z] [recon] INFO  replaying INV-4014 ISSUED->VOID ok
+[2026-11-02T08:45:05Z] [recon] INFO  replaying INV-3959 ISSUED->VOID ok
+[2026-11-02T08:45:05Z] [recon] INFO  replaying INV-3199 DRAFT->VOID ok
+[2026-11-02T08:45:05Z] [recon] INFO  replaying INV-1201 DRAFT->ISSUED ok
+[2026-11-02T08:45:06Z] [recon] INFO  replaying INV-5372 DRAFT->VOID ok
+[2026-11-02T08:45:06Z] [recon] DEBUG checkpoint 67275 flushed
+[2026-11-02T08:45:06Z] [recon] INFO  replaying INV-4694 ISSUED->VOID ok
+[2026-11-02T08:45:06Z] [recon] WARN  cache miss for ledger snapshot 2026-10-12, rebuilding (non-fatal)
+[2026-11-02T08:45:06Z] [recon] DEBUG checkpoint 85393 flushed
+[2026-11-02T08:45:06Z] [recon] INFO  replaying INV-8829 DRAFT->ISSUED ok
+[2026-11-02T08:45:06Z] [recon] INFO  replaying INV-3118 ISSUED->VOID ok
+[2026-11-02T08:45:06Z] [recon] INFO  replaying INV-6442 DRAFT->VOID ok
+[2026-11-02T08:45:06Z] [recon] INFO  replaying INV-4669 ISSUED->VOID ok
+[2026-11-02T08:45:07Z] [recon] INFO  replaying INV-8549 ISSUED->VOID ok
+[2026-11-02T08:45:07Z] [recon] INFO  replaying INV-1643 ISSUED->VOID ok
+[2026-11-02T08:45:07Z] [recon] INFO  replaying INV-7297 ISSUED->PAID ok
+[2026-11-02T08:45:07Z] [recon] INFO  replaying INV-7790 ISSUED->VOID ok
+[2026-11-02T08:45:08Z] [recon] DEBUG checkpoint 90706 flushed
+[2026-11-02T08:45:08Z] [recon] INFO  replaying INV-1605 DRAFT->VOID ok
+[2026-11-02T08:45:08Z] [recon] INFO  replaying INV-9061 DRAFT->VOID ok
+[2026-11-02T08:45:08Z] [recon] INFO  replaying INV-6387 ISSUED->PAID ok
+[2026-11-02T08:45:09Z] [recon] INFO  replaying INV-6442 DRAFT->VOID ok
+[2026-11-02T08:45:09Z] [recon] INFO  replaying INV-1335 DRAFT->ISSUED ok
+[2026-11-02T08:45:09Z] [recon] INFO  replaying INV-2273 DRAFT->VOID ok
+[2026-11-02T08:45:09Z] [recon] INFO  replaying INV-1568 ISSUED->VOID ok
+[2026-11-02T08:45:10Z] [recon] INFO  replaying INV-7694 ISSUED->PAID ok
+[2026-11-02T08:45:10Z] [recon] INFO  replaying INV-4822 ISSUED->PAID ok
+[2026-11-02T08:45:10Z] [recon] INFO  replaying INV-6080 ISSUED->VOID ok
+[2026-11-02T08:45:10Z] [recon] INFO  replaying INV-1460 ISSUED->PAID ok
+[2026-11-02T08:45:10Z] [recon] INFO  replaying INV-6629 DRAFT->ISSUED ok
+[2026-11-02T08:45:10Z] [recon] INFO  replaying INV-2413 ISSUED->VOID ok
+[2026-11-02T08:45:10Z] [recon] INFO  replaying INV-6179 DRAFT->VOID ok
+[2026-11-02T08:45:10Z] [recon] INFO  replaying INV-4578 ISSUED->VOID ok
+[2026-11-02T08:45:11Z] [recon] INFO  replaying INV-7640 ISSUED->VOID ok
+[2026-11-02T08:45:11Z] [recon] INFO  replaying INV-8876 ISSUED->VOID ok
+[2026-11-02T08:45:11Z] [recon] INFO  replaying INV-3919 DRAFT->VOID ok
+[2026-11-02T08:45:11Z] [recon] INFO  replaying INV-5254 DRAFT->VOID ok
+[2026-11-02T08:45:11Z] [recon] INFO  replaying INV-3455 ISSUED->PAID ok
+[2026-11-02T08:45:11Z] [recon] INFO  replaying INV-8969 ISSUED->VOID ok
+[2026-11-02T08:45:11Z] [recon] INFO  replaying INV-6794 ISSUED->PAID ok
+[2026-11-02T08:45:12Z] [recon] INFO  replaying INV-4079 ISSUED->PAID ok
+[2026-11-02T08:45:12Z] [recon] WARN  slow query on ledger_entries (1218ms) (non-fatal)
+[2026-11-02T08:45:12Z] [recon] INFO  replaying INV-8705 DRAFT->ISSUED ok
+[2026-11-02T08:45:12Z] [recon] INFO  replaying INV-1623 DRAFT->ISSUED ok
+[2026-11-02T08:45:12Z] [recon] INFO  replaying INV-3583 ISSUED->VOID ok
+[2026-11-02T08:45:13Z] [recon] DEBUG checkpoint 13924 flushed
+[2026-11-02T08:45:13Z] [recon] INFO  replaying INV-2194 DRAFT->VOID ok
+[2026-11-02T08:45:13Z] [recon] INFO  replaying INV-7292 ISSUED->PAID ok
+[2026-11-02T08:45:13Z] [recon] INFO  replaying INV-3797 ISSUED->VOID ok
+[2026-11-02T08:45:13Z] [recon] INFO  replaying INV-4127 DRAFT->ISSUED ok
+[2026-11-02T08:45:13Z] [recon] INFO  replaying INV-1663 DRAFT->VOID ok
+[2026-11-02T08:45:14Z] [recon] INFO  replaying INV-1791 DRAFT->ISSUED ok
+[2026-11-02T08:45:14Z] [recon] INFO  replaying INV-3056 ISSUED->PAID ok
+[2026-11-02T08:45:14Z] [recon] INFO  replaying INV-2331 ISSUED->PAID ok
+[2026-11-02T08:45:14Z] [recon] INFO  replaying INV-1155 ISSUED->PAID ok
+[2026-11-02T08:45:14Z] [recon] INFO  replaying INV-8680 DRAFT->VOID ok
+[2026-11-02T08:45:14Z] [recon] INFO  replaying INV-4021 DRAFT->ISSUED ok
+[2026-11-02T08:45:15Z] [recon] INFO  replaying INV-5478 ISSUED->PAID ok
+[2026-11-02T08:45:15Z] [recon] INFO  replaying INV-7379 ISSUED->VOID ok
+[2026-11-02T08:45:15Z] [recon] INFO  replaying INV-6182 DRAFT->ISSUED ok
+[2026-11-02T08:45:15Z] [recon] INFO  replaying INV-6252 ISSUED->PAID ok
+[2026-11-02T08:45:16Z] [recon] INFO  replaying INV-3131 DRAFT->VOID ok
+[2026-11-02T08:45:16Z] [recon] INFO  replaying INV-5919 ISSUED->PAID ok
+[2026-11-02T08:45:16Z] [recon] INFO  replaying INV-4530 ISSUED->VOID ok
+[2026-11-02T08:45:16Z] [recon] INFO  replaying INV-8602 DRAFT->ISSUED ok
+[2026-11-02T08:45:17Z] [recon] INFO  replaying INV-4420 ISSUED->VOID ok
+[2026-11-02T08:45:17Z] [recon] INFO  replaying INV-4256 ISSUED->VOID ok
+[2026-11-02T08:45:17Z] [recon] INFO  replaying INV-2758 DRAFT->ISSUED ok
+[2026-11-02T08:45:17Z] [recon] INFO  replaying INV-3195 ISSUED->VOID ok
+[2026-11-02T08:45:17Z] [recon] INFO  replaying INV-1237 DRAFT->ISSUED ok
+[2026-11-02T08:45:18Z] [recon] INFO  replaying INV-7142 DRAFT->ISSUED ok
+[2026-11-02T08:45:18Z] [recon] INFO  replaying INV-7696 DRAFT->VOID ok
+[2026-11-02T08:45:18Z] [recon] INFO  replaying INV-8717 ISSUED->PAID ok
+[2026-11-02T08:45:18Z] [recon] INFO  replaying INV-2232 ISSUED->PAID ok
+[2026-11-02T08:45:18Z] [recon] INFO  replaying INV-1574 ISSUED->VOID ok
+[2026-11-02T08:45:19Z] [recon] DEBUG checkpoint 86315 flushed
+[2026-11-02T08:45:19Z] [recon] INFO  replaying INV-6335 ISSUED->VOID ok
+[2026-11-02T08:45:19Z] [recon] INFO  replaying INV-7086 ISSUED->VOID ok
+[2026-11-02T08:45:20Z] [recon] INFO  replaying INV-3603 DRAFT->VOID ok
+[2026-11-02T08:45:20Z] [recon] INFO  replaying INV-4135 DRAFT->VOID ok
+[2026-11-02T08:45:20Z] [recon] INFO  replaying INV-4933 DRAFT->VOID ok
+[2026-11-02T08:45:20Z] [recon] INFO  replaying INV-6246 ISSUED->VOID ok
+[2026-11-02T08:45:20Z] [recon] INFO  replaying INV-4325 ISSUED->VOID ok
+[2026-11-02T08:45:20Z] [recon] INFO  replaying INV-2862 ISSUED->PAID ok
+[2026-11-02T08:45:21Z] [recon] INFO  replaying INV-1688 ISSUED->VOID ok
+[2026-11-02T08:45:21Z] [recon] DEBUG checkpoint 24140 flushed
+[2026-11-02T08:45:21Z] [recon] INFO  replaying INV-5607 DRAFT->ISSUED ok
+[2026-11-02T08:45:21Z] [recon] DEBUG checkpoint 80607 flushed
+[2026-11-02T08:45:22Z] [recon] INFO  replaying INV-3703 DRAFT->VOID ok
+[2026-11-02T08:45:22Z] [recon] INFO  replaying INV-7780 ISSUED->PAID ok
+[2026-11-02T08:45:22Z] [recon] INFO  replaying INV-7110 DRAFT->VOID ok
+[2026-11-02T08:45:22Z] [recon] DEBUG checkpoint 69763 flushed
+[2026-11-02T08:45:23Z] [recon] WARN  slow query on ledger_entries (908ms) (non-fatal)
+[2026-11-02T08:45:23Z] [recon] INFO  replaying INV-6843 DRAFT->ISSUED ok
+[2026-11-02T08:45:23Z] [recon] INFO  replaying INV-6920 ISSUED->PAID ok
+[2026-11-02T08:45:23Z] [recon] WARN  cache miss for ledger snapshot 2026-10-12, rebuilding (non-fatal)
+[2026-11-02T08:45:23Z] [recon] INFO  replaying INV-5813 ISSUED->PAID ok
+[2026-11-02T08:45:23Z] [recon] INFO  replaying INV-6894 ISSUED->PAID ok
+[2026-11-02T08:45:24Z] [recon] INFO  replaying INV-3420 ISSUED->PAID ok
+[2026-11-02T08:45:24Z] [recon] INFO  replaying INV-7870 DRAFT->ISSUED ok
+[2026-11-02T08:45:24Z] [recon] INFO  replaying INV-7203 DRAFT->VOID ok
+[2026-11-02T08:45:24Z] [recon] INFO  replaying INV-4209 DRAFT->ISSUED ok
+[2026-11-02T08:45:24Z] [recon] INFO  replaying INV-6140 ISSUED->VOID ok
+[2026-11-02T08:45:25Z] [recon] WARN  cache miss for ledger snapshot 2026-10-12, rebuilding (non-fatal)
+[2026-11-02T08:45:25Z] [recon] INFO  replaying INV-3595 DRAFT->ISSUED ok
+[2026-11-02T08:45:25Z] [recon] INFO  replaying INV-6917 DRAFT->ISSUED ok
+[2026-11-02T08:45:25Z] [recon] INFO  replaying INV-3603 ISSUED->VOID ok
+[2026-11-02T08:45:25Z] [recon] INFO  replaying INV-2742 DRAFT->VOID ok
+[2026-11-02T08:45:25Z] [recon] INFO  replaying INV-1674 ISSUED->PAID ok
+[2026-11-02T08:45:25Z] [recon] INFO  replaying INV-5564 DRAFT->ISSUED ok
+[2026-11-02T08:45:26Z] [recon] INFO  replaying INV-5548 ISSUED->PAID ok
+[2026-11-02T08:45:26Z] [recon] INFO  replaying INV-6554 ISSUED->VOID ok
+[2026-11-02T08:45:26Z] [recon] INFO  replaying INV-7123 ISSUED->VOID ok
+[2026-11-02T08:45:26Z] [recon] INFO  replaying INV-4705 DRAFT->ISSUED ok
+[2026-11-02T08:45:26Z] [recon] INFO  replaying INV-4989 DRAFT->VOID ok
+[2026-11-02T08:45:26Z] [recon] INFO  replaying INV-3433 DRAFT->ISSUED ok
+[2026-11-02T08:45:26Z] [recon] INFO  replaying INV-6629 DRAFT->VOID ok
+[2026-11-02T08:45:26Z] [recon] INFO  replaying INV-4144 DRAFT->VOID ok
+[2026-11-02T08:45:27Z] [recon] INFO  replaying INV-3178 ISSUED->VOID ok
+[2026-11-02T08:45:27Z] [recon] DEBUG checkpoint 9505 flushed
+[2026-11-02T08:45:27Z] [recon] DEBUG checkpoint 35330 flushed
+[2026-11-02T08:45:27Z] [recon] INFO  replaying INV-3754 DRAFT->ISSUED ok
+[2026-11-02T08:45:27Z] [recon] INFO  replaying INV-1326 ISSUED->PAID ok
+[2026-11-02T08:45:27Z] [recon] INFO  replaying INV-8323 DRAFT->ISSUED ok
+[2026-11-02T08:45:27Z] [recon] INFO  replaying INV-2259 ISSUED->PAID ok
+[2026-11-02T08:45:27Z] [recon] INFO  replaying INV-6040 DRAFT->ISSUED ok
+[2026-11-02T08:45:28Z] [recon] INFO  replaying INV-2005 ISSUED->PAID ok
+[2026-11-02T08:45:28Z] [recon] INFO  replaying INV-7944 DRAFT->ISSUED ok
+[2026-11-02T08:45:28Z] [recon] INFO  replaying INV-1401 ISSUED->VOID ok
+[2026-11-02T08:45:28Z] [recon] DEBUG checkpoint 73349 flushed
+[2026-11-02T08:45:28Z] [recon] INFO  replaying INV-1827 DRAFT->ISSUED ok
+[2026-11-02T08:45:28Z] [recon] INFO  replaying INV-3877 ISSUED->PAID ok
+[2026-11-02T08:45:29Z] [recon] INFO  replaying INV-7747 DRAFT->VOID ok
+[2026-11-02T08:45:29Z] [recon] INFO  replaying INV-6507 ISSUED->VOID ok
+[2026-11-02T08:45:29Z] [recon] INFO  replaying INV-3438 DRAFT->ISSUED ok
+[2026-11-02T08:45:29Z] [recon] INFO  replaying INV-5475 DRAFT->ISSUED ok
+[2026-11-02T08:45:29Z] [recon] INFO  replaying INV-3375 ISSUED->PAID ok
+[2026-11-02T08:45:30Z] [recon] INFO  replaying INV-1548 ISSUED->PAID ok
+[2026-11-02T08:45:30Z] [recon] INFO  replaying INV-6147 DRAFT->ISSUED ok
+[2026-11-02T08:45:30Z] [recon] WARN  slow query on ledger_entries (839ms) (non-fatal)
+[2026-11-02T08:45:30Z] [recon] WARN  cache miss for ledger snapshot 2026-10-17, rebuilding (non-fatal)
+[2026-11-02T08:45:31Z] [recon] INFO  replaying INV-7075 DRAFT->VOID ok
+[2026-11-02T08:45:31Z] [recon] INFO  replaying INV-2499 DRAFT->VOID ok
+[2026-11-02T08:45:31Z] [recon] WARN  cache miss for ledger snapshot 2026-10-14, rebuilding (non-fatal)
+[2026-11-02T08:45:31Z] [recon] INFO  replaying INV-7546 DRAFT->VOID ok
+[2026-11-02T08:45:31Z] [recon] INFO  replaying INV-1157 DRAFT->ISSUED ok
+[2026-11-02T08:45:31Z] [recon] INFO  replaying INV-4104 ISSUED->PAID ok
+[2026-11-02T08:45:32Z] [recon] INFO  replaying INV-2872 DRAFT->ISSUED ok
+[2026-11-02T08:45:32Z] [recon] INFO  replaying INV-4185 ISSUED->PAID ok
+[2026-11-02T08:45:32Z] [recon] INFO  replaying INV-4895 ISSUED->VOID ok
+[2026-11-02T08:45:32Z] [recon] INFO  replaying INV-5760 DRAFT->VOID ok
+[2026-11-02T08:45:33Z] [recon] INFO  replaying INV-5883 DRAFT->ISSUED ok
+[2026-11-02T08:45:33Z] [recon] INFO  replaying INV-5951 DRAFT->ISSUED ok
+[2026-11-02T08:45:33Z] [recon] INFO  replaying INV-6174 ISSUED->PAID ok
+[2026-11-02T08:45:33Z] [recon] WARN  slow query on ledger_entries (1231ms) (non-fatal)
+[2026-11-02T08:45:34Z] [recon] INFO  replaying INV-1665 ISSUED->VOID ok
+[2026-11-02T08:45:34Z] [recon] DEBUG checkpoint 29350 flushed
+[2026-11-02T08:45:34Z] [recon] INFO  replaying INV-6737 ISSUED->PAID ok
+[2026-11-02T08:45:34Z] [recon] INFO  replaying INV-8426 ISSUED->VOID ok
+[2026-11-02T08:45:34Z] [recon] INFO  replaying INV-6220 ISSUED->VOID ok
+[2026-11-02T08:45:34Z] [recon] WARN  slow query on ledger_entries (1027ms) (non-fatal)
+[2026-11-02T08:45:35Z] [recon] INFO  replaying INV-1329 DRAFT->VOID ok
+[2026-11-02T08:45:35Z] [recon] INFO  replaying INV-8559 DRAFT->VOID ok
+[2026-11-02T08:45:35Z] [recon] INFO  replaying INV-5159 DRAFT->ISSUED ok
+[2026-11-02T08:45:35Z] [recon] INFO  replaying INV-2882 ISSUED->VOID ok
+[2026-11-02T08:45:35Z] [recon] INFO  replaying INV-9008 ISSUED->VOID ok
+[2026-11-02T08:45:36Z] [recon] INFO  replaying INV-7063 ISSUED->PAID ok
+[2026-11-02T08:45:36Z] [recon] INFO  replaying INV-2482 ISSUED->PAID ok
+[2026-11-02T08:45:36Z] [recon] INFO  replaying INV-1712 ISSUED->PAID ok
+[2026-11-02T08:45:36Z] [recon] WARN  slow query on ledger_entries (867ms) (non-fatal)
+[2026-11-02T08:45:36Z] [recon] INFO  replaying INV-2631 DRAFT->VOID ok
+[2026-11-02T08:45:36Z] [recon] INFO  replaying INV-6873 ISSUED->PAID ok
+[2026-11-02T08:45:36Z] [recon] INFO  replaying INV-1440 ISSUED->PAID ok
+[2026-11-02T08:45:36Z] [recon] INFO  replaying INV-1007 DRAFT->ISSUED ok
+[2026-11-02T08:45:37Z] [recon] INFO  replaying INV-1007 ISSUED->PAID ok
+[2026-11-02T08:45:37Z] [recon] INFO  posted INV-1007 to ledger (99900 pence)
+[2026-11-02T08:45:37Z] [recon] INFO  replaying INV-1007 PAID->DRAFT accepted by invoice-service
+[2026-11-02T08:45:37Z] [recon] ERROR StatusRegressionError: invoice INV-1007 moved PAID -> DRAFT
+[2026-11-02T08:45:37Z] [recon] ERROR   reconciliation assumes invoice status is monotonic (DRAFT -> ISSUED -> PAID | VOID)
+[2026-11-02T08:45:38Z] [recon] ERROR   ledger already holds a posted entry for INV-1007; a DRAFT invoice must not have one
+[2026-11-02T08:45:38Z] [recon] INFO  replaying INV-8694 ISSUED->PAID ok
+[2026-11-02T08:45:38Z] [recon] INFO  replaying INV-7962 ISSUED->VOID ok
+[2026-11-02T08:45:38Z] [recon] INFO  replaying INV-2502 DRAFT->VOID ok
+[2026-11-02T08:45:38Z] [recon] INFO  replaying INV-2269 DRAFT->VOID ok
+[2026-11-02T08:45:38Z] [recon] INFO  replaying INV-4982 DRAFT->ISSUED ok
+[2026-11-02T08:45:39Z] [recon] INFO  replaying INV-6788 DRAFT->ISSUED ok
+[2026-11-02T08:45:39Z] [recon] INFO  replaying INV-4169 DRAFT->ISSUED ok
+[2026-11-02T08:45:39Z] [recon] INFO  replaying INV-1476 ISSUED->PAID ok
+[2026-11-02T08:45:39Z] [recon] INFO  replaying INV-3930 DRAFT->ISSUED ok
+[2026-11-02T08:45:39Z] [recon] INFO  replaying INV-3510 DRAFT->VOID ok
+[2026-11-02T08:45:39Z] [recon] INFO  replaying INV-6914 DRAFT->VOID ok
+[2026-11-02T08:45:40Z] [recon] INFO  replaying INV-5157 ISSUED->PAID ok
+[2026-11-02T08:45:40Z] [recon] INFO  replaying INV-3747 ISSUED->PAID ok
+[2026-11-02T08:45:40Z] [recon] INFO  replaying INV-5410 DRAFT->ISSUED ok
+[2026-11-02T08:45:40Z] [recon] INFO  replaying INV-4260 ISSUED->VOID ok
+[2026-11-02T08:45:40Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:45:41Z] [recon] INFO  replaying INV-7825 DRAFT->VOID ok
+[2026-11-02T08:45:41Z] [recon] INFO  replaying INV-9065 DRAFT->ISSUED ok
+[2026-11-02T08:45:41Z] [recon] INFO  replaying INV-2232 ISSUED->PAID ok
+[2026-11-02T08:45:41Z] [recon] INFO  replaying INV-6141 DRAFT->VOID ok
+[2026-11-02T08:45:41Z] [recon] INFO  replaying INV-4225 ISSUED->VOID ok
+[2026-11-02T08:45:41Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:45:41Z] [recon] INFO  replaying INV-4557 ISSUED->PAID ok
+[2026-11-02T08:45:42Z] [recon] INFO  replaying INV-6523 DRAFT->VOID ok
+[2026-11-02T08:45:42Z] [recon] INFO  replaying INV-3408 DRAFT->ISSUED ok
+[2026-11-02T08:45:42Z] [recon] INFO  replaying INV-3417 DRAFT->VOID ok
+[2026-11-02T08:45:42Z] [recon] INFO  replaying INV-3185 ISSUED->VOID ok
+[2026-11-02T08:45:42Z] [recon] INFO  replaying INV-2739 DRAFT->VOID ok
+[2026-11-02T08:45:42Z] [recon] INFO  replaying INV-2949 ISSUED->PAID ok
+[2026-11-02T08:45:43Z] [recon] INFO  replaying INV-7399 DRAFT->VOID ok
+[2026-11-02T08:45:43Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:45:43Z] [recon] INFO  replaying INV-2953 ISSUED->PAID ok
+[2026-11-02T08:45:43Z] [recon] INFO  replaying INV-6796 ISSUED->PAID ok
+[2026-11-02T08:45:43Z] [recon] INFO  replaying INV-3554 ISSUED->VOID ok
+[2026-11-02T08:45:44Z] [recon] INFO  replaying INV-2983 ISSUED->PAID ok
+[2026-11-02T08:45:44Z] [recon] INFO  replaying INV-4701 ISSUED->PAID ok
+[2026-11-02T08:45:44Z] [recon] INFO  replaying INV-4435 ISSUED->VOID ok
+[2026-11-02T08:45:44Z] [recon] INFO  replaying INV-6814 ISSUED->VOID ok
+[2026-11-02T08:45:44Z] [recon] INFO  replaying INV-7161 ISSUED->VOID ok
+[2026-11-02T08:45:44Z] [recon] INFO  replaying INV-5326 ISSUED->VOID ok
+[2026-11-02T08:45:45Z] [recon] INFO  replaying INV-8229 DRAFT->VOID ok
+[2026-11-02T08:45:45Z] [recon] INFO  replaying INV-7568 ISSUED->VOID ok
+[2026-11-02T08:45:45Z] [recon] INFO  replaying INV-6299 ISSUED->VOID ok
+[2026-11-02T08:45:45Z] [recon] INFO  replaying INV-5319 ISSUED->PAID ok
+[2026-11-02T08:45:46Z] [recon] INFO  replaying INV-5018 ISSUED->PAID ok
+[2026-11-02T08:45:46Z] [recon] INFO  replaying INV-8592 DRAFT->ISSUED ok
+[2026-11-02T08:45:46Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:45:46Z] [recon] INFO  replaying INV-5749 DRAFT->ISSUED ok
+[2026-11-02T08:45:46Z] [recon] INFO  replaying INV-2803 ISSUED->VOID ok
+[2026-11-02T08:45:47Z] [recon] INFO  replaying INV-7447 ISSUED->VOID ok
+[2026-11-02T08:45:47Z] [recon] INFO  replaying INV-6444 ISSUED->VOID ok
+[2026-11-02T08:45:47Z] [recon] INFO  replaying INV-3273 ISSUED->PAID ok
+[2026-11-02T08:45:47Z] [recon] INFO  replaying INV-4665 ISSUED->PAID ok
+[2026-11-02T08:45:47Z] [recon] INFO  replaying INV-1582 ISSUED->PAID ok
+[2026-11-02T08:45:48Z] [recon] INFO  replaying INV-4681 ISSUED->PAID ok
+[2026-11-02T08:45:48Z] [recon] INFO  replaying INV-2451 DRAFT->ISSUED ok
+[2026-11-02T08:45:48Z] [recon] INFO  replaying INV-1243 DRAFT->VOID ok
+[2026-11-02T08:45:49Z] [recon] INFO  replaying INV-8391 ISSUED->PAID ok
+[2026-11-02T08:45:49Z] [recon] INFO  replaying INV-6009 ISSUED->PAID ok
+[2026-11-02T08:45:49Z] [recon] INFO  replaying INV-8590 DRAFT->ISSUED ok
+[2026-11-02T08:45:49Z] [recon] INFO  replaying INV-8298 ISSUED->PAID ok
+[2026-11-02T08:45:49Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:45:49Z] [recon] INFO  replaying INV-1290 ISSUED->VOID ok
+[2026-11-02T08:45:50Z] [recon] INFO  replaying INV-7397 DRAFT->VOID ok
+[2026-11-02T08:45:50Z] [recon] INFO  replaying INV-8284 DRAFT->VOID ok
+[2026-11-02T08:45:50Z] [recon] INFO  replaying INV-1720 DRAFT->ISSUED ok
+[2026-11-02T08:45:50Z] [recon] INFO  replaying INV-8380 DRAFT->VOID ok
+[2026-11-02T08:45:50Z] [recon] INFO  replaying INV-2152 DRAFT->ISSUED ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-7593 DRAFT->ISSUED ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-8827 ISSUED->PAID ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-3866 ISSUED->VOID ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-3246 ISSUED->VOID ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-7355 ISSUED->VOID ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-7933 ISSUED->PAID ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-3305 ISSUED->VOID ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-6901 ISSUED->VOID ok
+[2026-11-02T08:45:51Z] [recon] INFO  replaying INV-3053 ISSUED->VOID ok
+[2026-11-02T08:45:52Z] [recon] INFO  replaying INV-7927 ISSUED->VOID ok
+[2026-11-02T08:45:52Z] [recon] INFO  replaying INV-7970 ISSUED->VOID ok
+[2026-11-02T08:45:52Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:45:52Z] [recon] INFO  replaying INV-4726 DRAFT->VOID ok
+[2026-11-02T08:45:52Z] [recon] INFO  replaying INV-8914 ISSUED->PAID ok
+[2026-11-02T08:45:52Z] [recon] INFO  replaying INV-4232 DRAFT->ISSUED ok
+[2026-11-02T08:45:52Z] [recon] INFO  replaying INV-1644 DRAFT->ISSUED ok
+[2026-11-02T08:45:53Z] [recon] INFO  replaying INV-8617 DRAFT->ISSUED ok
+[2026-11-02T08:45:53Z] [recon] INFO  replaying INV-7839 ISSUED->PAID ok
+[2026-11-02T08:45:53Z] [recon] INFO  replaying INV-2164 ISSUED->VOID ok
+[2026-11-02T08:45:53Z] [recon] INFO  replaying INV-5233 DRAFT->VOID ok
+[2026-11-02T08:45:54Z] [recon] INFO  replaying INV-5000 ISSUED->PAID ok
+[2026-11-02T08:45:54Z] [recon] INFO  replaying INV-3644 DRAFT->VOID ok
+[2026-11-02T08:45:54Z] [recon] INFO  replaying INV-8391 DRAFT->VOID ok
+[2026-11-02T08:45:54Z] [recon] INFO  replaying INV-1321 DRAFT->ISSUED ok
+[2026-11-02T08:45:54Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:45:54Z] [recon] INFO  replaying INV-5498 ISSUED->VOID ok
+[2026-11-02T08:45:54Z] [recon] INFO  replaying INV-4035 ISSUED->VOID ok
+[2026-11-02T08:45:55Z] [recon] INFO  replaying INV-8904 ISSUED->VOID ok
+[2026-11-02T08:45:55Z] [recon] INFO  replaying INV-5278 ISSUED->PAID ok
+[2026-11-02T08:45:55Z] [recon] INFO  replaying INV-2667 DRAFT->VOID ok
+[2026-11-02T08:45:55Z] [recon] INFO  replaying INV-3172 DRAFT->ISSUED ok
+[2026-11-02T08:45:55Z] [recon] INFO  replaying INV-6236 DRAFT->VOID ok
+[2026-11-02T08:45:55Z] [recon] INFO  replaying INV-5995 ISSUED->PAID ok
+[2026-11-02T08:45:56Z] [recon] INFO  replaying INV-7192 DRAFT->ISSUED ok
+[2026-11-02T08:45:56Z] [recon] INFO  replaying INV-6545 DRAFT->VOID ok
+[2026-11-02T08:45:56Z] [recon] INFO  replaying INV-2758 DRAFT->ISSUED ok
+[2026-11-02T08:45:56Z] [recon] INFO  replaying INV-5682 ISSUED->VOID ok
+[2026-11-02T08:45:56Z] [recon] INFO  replaying INV-3954 DRAFT->ISSUED ok
+[2026-11-02T08:45:56Z] [recon] INFO  replaying INV-1599 DRAFT->ISSUED ok
+[2026-11-02T08:45:57Z] [recon] INFO  replaying INV-7581 DRAFT->VOID ok
+[2026-11-02T08:45:57Z] [recon] INFO  replaying INV-6639 DRAFT->VOID ok
+[2026-11-02T08:45:57Z] [recon] INFO  replaying INV-6307 DRAFT->VOID ok
+[2026-11-02T08:45:57Z] [recon] INFO  replaying INV-1138 DRAFT->ISSUED ok
+[2026-11-02T08:45:58Z] [recon] INFO  replaying INV-5301 DRAFT->VOID ok
+[2026-11-02T08:45:58Z] [recon] INFO  replaying INV-8509 DRAFT->ISSUED ok
+[2026-11-02T08:45:58Z] [recon] INFO  replaying INV-2652 ISSUED->PAID ok
+[2026-11-02T08:45:58Z] [recon] INFO  replaying INV-2423 ISSUED->VOID ok
+[2026-11-02T08:45:58Z] [recon] INFO  replaying INV-5322 DRAFT->VOID ok
+[2026-11-02T08:45:58Z] [recon] INFO  replaying INV-4211 ISSUED->VOID ok
+[2026-11-02T08:45:59Z] [recon] INFO  replaying INV-7450 ISSUED->VOID ok
+[2026-11-02T08:45:59Z] [recon] INFO  replaying INV-6698 DRAFT->ISSUED ok
+[2026-11-02T08:45:59Z] [recon] INFO  replaying INV-8210 ISSUED->PAID ok
+[2026-11-02T08:45:59Z] [recon] INFO  replaying INV-2687 DRAFT->VOID ok
+[2026-11-02T08:46:00Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:46:00Z] [recon] INFO  replaying INV-3243 ISSUED->VOID ok
+[2026-11-02T08:46:00Z] [recon] INFO  replaying INV-8174 ISSUED->VOID ok
+[2026-11-02T08:46:00Z] [recon] INFO  replaying INV-3527 ISSUED->VOID ok
+[2026-11-02T08:46:01Z] [recon] INFO  replaying INV-1831 DRAFT->VOID ok
+[2026-11-02T08:46:01Z] [recon] INFO  replaying INV-3738 ISSUED->PAID ok
+[2026-11-02T08:46:01Z] [recon] INFO  replaying INV-2760 DRAFT->ISSUED ok
+[2026-11-02T08:46:01Z] [recon] INFO  replaying INV-2862 ISSUED->VOID ok
+[2026-11-02T08:46:01Z] [recon] INFO  replaying INV-8834 DRAFT->ISSUED ok
+[2026-11-02T08:46:01Z] [recon] INFO  replaying INV-7739 ISSUED->VOID ok
+[2026-11-02T08:46:02Z] [recon] INFO  replaying INV-2505 ISSUED->PAID ok
+[2026-11-02T08:46:02Z] [recon] INFO  replaying INV-7900 ISSUED->VOID ok
+[2026-11-02T08:46:02Z] [recon] INFO  replaying INV-4987 DRAFT->VOID ok
+[2026-11-02T08:46:03Z] [recon] INFO  replaying INV-4451 DRAFT->VOID ok
+[2026-11-02T08:46:03Z] [recon] INFO  replaying INV-7478 ISSUED->PAID ok
+[2026-11-02T08:46:03Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:03Z] [recon] INFO  replaying INV-2877 DRAFT->VOID ok
+[2026-11-02T08:46:04Z] [recon] INFO  replaying INV-4552 DRAFT->ISSUED ok
+[2026-11-02T08:46:04Z] [recon] INFO  replaying INV-7290 ISSUED->PAID ok
+[2026-11-02T08:46:04Z] [recon] INFO  replaying INV-4580 ISSUED->VOID ok
+[2026-11-02T08:46:04Z] [recon] INFO  replaying INV-1571 ISSUED->VOID ok
+[2026-11-02T08:46:04Z] [recon] INFO  replaying INV-6373 ISSUED->PAID ok
+[2026-11-02T08:46:05Z] [recon] INFO  replaying INV-3967 DRAFT->VOID ok
+[2026-11-02T08:46:05Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:05Z] [recon] INFO  replaying INV-4246 DRAFT->VOID ok
+[2026-11-02T08:46:05Z] [recon] INFO  replaying INV-4156 ISSUED->PAID ok
+[2026-11-02T08:46:05Z] [recon] INFO  replaying INV-8136 DRAFT->VOID ok
+[2026-11-02T08:46:06Z] [recon] INFO  replaying INV-5199 DRAFT->ISSUED ok
+[2026-11-02T08:46:06Z] [recon] INFO  replaying INV-6838 DRAFT->VOID ok
+[2026-11-02T08:46:06Z] [recon] INFO  replaying INV-8582 DRAFT->VOID ok
+[2026-11-02T08:46:06Z] [recon] INFO  replaying INV-1178 DRAFT->VOID ok
+[2026-11-02T08:46:07Z] [recon] INFO  replaying INV-4615 ISSUED->PAID ok
+[2026-11-02T08:46:07Z] [recon] INFO  replaying INV-2476 DRAFT->VOID ok
+[2026-11-02T08:46:07Z] [recon] INFO  replaying INV-3195 ISSUED->VOID ok
+[2026-11-02T08:46:07Z] [recon] INFO  replaying INV-2966 DRAFT->VOID ok
+[2026-11-02T08:46:07Z] [recon] INFO  replaying INV-5462 ISSUED->PAID ok
+[2026-11-02T08:46:08Z] [recon] INFO  replaying INV-7682 DRAFT->VOID ok
+[2026-11-02T08:46:08Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:46:08Z] [recon] INFO  replaying INV-5506 DRAFT->VOID ok
+[2026-11-02T08:46:08Z] [recon] INFO  replaying INV-5692 DRAFT->ISSUED ok
+[2026-11-02T08:46:09Z] [recon] INFO  replaying INV-6809 DRAFT->ISSUED ok
+[2026-11-02T08:46:09Z] [recon] INFO  replaying INV-6387 ISSUED->PAID ok
+[2026-11-02T08:46:09Z] [recon] INFO  replaying INV-4777 ISSUED->PAID ok
+[2026-11-02T08:46:09Z] [recon] INFO  replaying INV-7038 DRAFT->VOID ok
+[2026-11-02T08:46:09Z] [recon] INFO  replaying INV-8560 ISSUED->VOID ok
+[2026-11-02T08:46:10Z] [recon] INFO  replaying INV-6175 ISSUED->PAID ok
+[2026-11-02T08:46:10Z] [recon] INFO  replaying INV-5422 DRAFT->ISSUED ok
+[2026-11-02T08:46:10Z] [recon] INFO  replaying INV-2664 ISSUED->PAID ok
+[2026-11-02T08:46:10Z] [recon] INFO  replaying INV-6046 DRAFT->ISSUED ok
+[2026-11-02T08:46:11Z] [recon] INFO  replaying INV-8745 ISSUED->PAID ok
+[2026-11-02T08:46:11Z] [recon] INFO  replaying INV-5734 ISSUED->PAID ok
+[2026-11-02T08:46:11Z] [recon] INFO  replaying INV-7403 ISSUED->VOID ok
+[2026-11-02T08:46:11Z] [recon] INFO  replaying INV-2394 ISSUED->VOID ok
+[2026-11-02T08:46:11Z] [recon] INFO  replaying INV-9021 DRAFT->VOID ok
+[2026-11-02T08:46:11Z] [recon] INFO  replaying INV-2843 DRAFT->VOID ok
+[2026-11-02T08:46:11Z] [recon] INFO  replaying INV-8946 DRAFT->VOID ok
+[2026-11-02T08:46:12Z] [recon] INFO  replaying INV-8675 DRAFT->ISSUED ok
+[2026-11-02T08:46:12Z] [recon] INFO  replaying INV-1429 DRAFT->VOID ok
+[2026-11-02T08:46:12Z] [recon] INFO  replaying INV-2405 DRAFT->ISSUED ok
+[2026-11-02T08:46:12Z] [recon] INFO  replaying INV-8752 ISSUED->PAID ok
+[2026-11-02T08:46:12Z] [recon] INFO  replaying INV-9015 DRAFT->VOID ok
+[2026-11-02T08:46:13Z] [recon] INFO  replaying INV-6528 DRAFT->ISSUED ok
+[2026-11-02T08:46:13Z] [recon] INFO  replaying INV-5796 ISSUED->VOID ok
+[2026-11-02T08:46:13Z] [recon] INFO  replaying INV-6150 ISSUED->PAID ok
+[2026-11-02T08:46:13Z] [recon] INFO  replaying INV-5693 DRAFT->ISSUED ok
+[2026-11-02T08:46:13Z] [recon] INFO  replaying INV-3310 ISSUED->VOID ok
+[2026-11-02T08:46:14Z] [recon] INFO  replaying INV-2759 DRAFT->ISSUED ok
+[2026-11-02T08:46:14Z] [recon] INFO  replaying INV-3016 ISSUED->VOID ok
+[2026-11-02T08:46:14Z] [recon] INFO  replaying INV-3034 DRAFT->VOID ok
+[2026-11-02T08:46:14Z] [recon] INFO  replaying INV-1260 ISSUED->PAID ok
+[2026-11-02T08:46:14Z] [recon] INFO  replaying INV-2906 ISSUED->VOID ok
+[2026-11-02T08:46:14Z] [recon] INFO  replaying INV-3396 DRAFT->VOID ok
+[2026-11-02T08:46:15Z] [recon] INFO  replaying INV-7002 ISSUED->VOID ok
+[2026-11-02T08:46:15Z] [recon] INFO  replaying INV-1120 DRAFT->VOID ok
+[2026-11-02T08:46:15Z] [recon] INFO  replaying INV-1323 DRAFT->VOID ok
+[2026-11-02T08:46:15Z] [recon] INFO  replaying INV-7327 DRAFT->ISSUED ok
+[2026-11-02T08:46:15Z] [recon] INFO  replaying INV-4283 DRAFT->ISSUED ok
+[2026-11-02T08:46:16Z] [recon] INFO  replaying INV-6263 ISSUED->VOID ok
+[2026-11-02T08:46:16Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:16Z] [recon] INFO  replaying INV-4939 DRAFT->ISSUED ok
+[2026-11-02T08:46:16Z] [recon] INFO  replaying INV-2476 DRAFT->VOID ok
+[2026-11-02T08:46:17Z] [recon] INFO  replaying INV-3757 ISSUED->VOID ok
+[2026-11-02T08:46:17Z] [recon] INFO  replaying INV-2502 ISSUED->PAID ok
+[2026-11-02T08:46:18Z] [recon] INFO  replaying INV-7654 DRAFT->VOID ok
+[2026-11-02T08:46:18Z] [recon] INFO  replaying INV-6782 DRAFT->ISSUED ok
+[2026-11-02T08:46:18Z] [recon] INFO  replaying INV-4623 DRAFT->VOID ok
+[2026-11-02T08:46:18Z] [recon] INFO  replaying INV-5240 DRAFT->ISSUED ok
+[2026-11-02T08:46:18Z] [recon] INFO  replaying INV-7158 DRAFT->VOID ok
+[2026-11-02T08:46:18Z] [recon] INFO  replaying INV-3277 ISSUED->VOID ok
+[2026-11-02T08:46:19Z] [recon] INFO  replaying INV-3236 ISSUED->PAID ok
+[2026-11-02T08:46:19Z] [recon] INFO  replaying INV-9010 ISSUED->PAID ok
+[2026-11-02T08:46:19Z] [recon] INFO  replaying INV-8227 DRAFT->ISSUED ok
+[2026-11-02T08:46:19Z] [recon] INFO  replaying INV-3176 ISSUED->VOID ok
+[2026-11-02T08:46:19Z] [recon] INFO  replaying INV-1512 ISSUED->PAID ok
+[2026-11-02T08:46:19Z] [recon] INFO  replaying INV-8661 DRAFT->VOID ok
+[2026-11-02T08:46:20Z] [recon] INFO  replaying INV-1115 ISSUED->PAID ok
+[2026-11-02T08:46:20Z] [recon] INFO  replaying INV-5007 DRAFT->VOID ok
+[2026-11-02T08:46:20Z] [recon] INFO  replaying INV-8090 DRAFT->ISSUED ok
+[2026-11-02T08:46:21Z] [recon] INFO  replaying INV-8166 ISSUED->PAID ok
+[2026-11-02T08:46:21Z] [recon] INFO  replaying INV-6443 ISSUED->PAID ok
+[2026-11-02T08:46:21Z] [recon] INFO  replaying INV-2815 ISSUED->PAID ok
+[2026-11-02T08:46:21Z] [recon] INFO  replaying INV-3473 ISSUED->VOID ok
+[2026-11-02T08:46:22Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:46:22Z] [recon] INFO  replaying INV-2737 DRAFT->VOID ok
+[2026-11-02T08:46:22Z] [recon] INFO  replaying INV-4063 DRAFT->ISSUED ok
+[2026-11-02T08:46:22Z] [recon] INFO  replaying INV-3586 DRAFT->ISSUED ok
+[2026-11-02T08:46:22Z] [recon] INFO  replaying INV-8946 DRAFT->VOID ok
+[2026-11-02T08:46:22Z] [recon] INFO  replaying INV-6011 ISSUED->VOID ok
+[2026-11-02T08:46:23Z] [recon] INFO  replaying INV-4772 DRAFT->VOID ok
+[2026-11-02T08:46:23Z] [recon] INFO  replaying INV-7121 DRAFT->VOID ok
+[2026-11-02T08:46:23Z] [recon] INFO  replaying INV-3336 ISSUED->VOID ok
+[2026-11-02T08:46:23Z] [recon] INFO  replaying INV-6063 ISSUED->VOID ok
+[2026-11-02T08:46:23Z] [recon] INFO  replaying INV-3095 ISSUED->PAID ok
+[2026-11-02T08:46:23Z] [recon] INFO  replaying INV-8509 ISSUED->VOID ok
+[2026-11-02T08:46:24Z] [recon] INFO  replaying INV-5874 ISSUED->VOID ok
+[2026-11-02T08:46:24Z] [recon] INFO  replaying INV-7910 ISSUED->PAID ok
+[2026-11-02T08:46:24Z] [recon] INFO  replaying INV-8973 ISSUED->VOID ok
+[2026-11-02T08:46:24Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:46:25Z] [recon] INFO  replaying INV-1536 DRAFT->VOID ok
+[2026-11-02T08:46:25Z] [recon] INFO  replaying INV-7499 ISSUED->VOID ok
+[2026-11-02T08:46:25Z] [recon] INFO  replaying INV-8469 ISSUED->PAID ok
+[2026-11-02T08:46:25Z] [recon] INFO  replaying INV-5592 ISSUED->VOID ok
+[2026-11-02T08:46:25Z] [recon] INFO  replaying INV-6340 DRAFT->VOID ok
+[2026-11-02T08:46:26Z] [recon] INFO  replaying INV-2774 ISSUED->VOID ok
+[2026-11-02T08:46:26Z] [recon] INFO  replaying INV-2905 DRAFT->ISSUED ok
+[2026-11-02T08:46:26Z] [recon] INFO  replaying INV-3549 ISSUED->VOID ok
+[2026-11-02T08:46:26Z] [recon] INFO  replaying INV-1846 ISSUED->PAID ok
+[2026-11-02T08:46:27Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:27Z] [recon] INFO  replaying INV-3790 ISSUED->VOID ok
+[2026-11-02T08:46:27Z] [recon] INFO  replaying INV-4556 DRAFT->VOID ok
+[2026-11-02T08:46:27Z] [recon] INFO  replaying INV-1543 ISSUED->PAID ok
+[2026-11-02T08:46:28Z] [recon] INFO  replaying INV-5205 ISSUED->VOID ok
+[2026-11-02T08:46:28Z] [recon] INFO  replaying INV-8330 DRAFT->VOID ok
+[2026-11-02T08:46:28Z] [recon] INFO  replaying INV-7646 ISSUED->PAID ok
+[2026-11-02T08:46:28Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:46:28Z] [recon] INFO  replaying INV-1633 DRAFT->ISSUED ok
+[2026-11-02T08:46:28Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:29Z] [recon] INFO  replaying INV-1378 DRAFT->VOID ok
+[2026-11-02T08:46:29Z] [recon] INFO  replaying INV-3328 DRAFT->VOID ok
+[2026-11-02T08:46:29Z] [recon] INFO  replaying INV-2728 DRAFT->ISSUED ok
+[2026-11-02T08:46:29Z] [recon] INFO  replaying INV-4130 ISSUED->VOID ok
+[2026-11-02T08:46:30Z] [recon] INFO  replaying INV-8928 DRAFT->ISSUED ok
+[2026-11-02T08:46:30Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:30Z] [recon] INFO  replaying INV-4267 DRAFT->VOID ok
+[2026-11-02T08:46:30Z] [recon] INFO  replaying INV-1678 ISSUED->PAID ok
+[2026-11-02T08:46:30Z] [recon] INFO  replaying INV-4026 DRAFT->ISSUED ok
+[2026-11-02T08:46:30Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:30Z] [recon] INFO  replaying INV-5579 ISSUED->PAID ok
+[2026-11-02T08:46:31Z] [recon] INFO  replaying INV-7257 DRAFT->ISSUED ok
+[2026-11-02T08:46:31Z] [recon] INFO  replaying INV-4365 DRAFT->ISSUED ok
+[2026-11-02T08:46:31Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:46:32Z] [recon] INFO  replaying INV-1434 ISSUED->VOID ok
+[2026-11-02T08:46:32Z] [recon] INFO  replaying INV-8059 DRAFT->VOID ok
+[2026-11-02T08:46:32Z] [recon] INFO  replaying INV-4101 ISSUED->VOID ok
+[2026-11-02T08:46:32Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:46:33Z] [recon] INFO  replaying INV-8524 DRAFT->ISSUED ok
+[2026-11-02T08:46:33Z] [recon] INFO  replaying INV-7327 DRAFT->ISSUED ok
+[2026-11-02T08:46:33Z] [recon] INFO  replaying INV-4792 DRAFT->VOID ok
+[2026-11-02T08:46:33Z] [recon] INFO  replaying INV-4394 DRAFT->ISSUED ok
+[2026-11-02T08:46:34Z] [recon] INFO  replaying INV-8906 ISSUED->VOID ok
+[2026-11-02T08:46:34Z] [recon] INFO  replaying INV-1924 ISSUED->VOID ok
+[2026-11-02T08:46:34Z] [recon] INFO  replaying INV-2575 DRAFT->VOID ok
+[2026-11-02T08:46:34Z] [recon] INFO  replaying INV-2023 DRAFT->ISSUED ok
+[2026-11-02T08:46:34Z] [recon] INFO  replaying INV-8920 DRAFT->ISSUED ok
+[2026-11-02T08:46:35Z] [recon] INFO  replaying INV-1124 DRAFT->ISSUED ok
+[2026-11-02T08:46:35Z] [recon] INFO  replaying INV-5181 DRAFT->VOID ok
+[2026-11-02T08:46:35Z] [recon] INFO  replaying INV-6217 ISSUED->VOID ok
+[2026-11-02T08:46:35Z] [recon] INFO  replaying INV-1958 DRAFT->VOID ok
+[2026-11-02T08:46:36Z] [recon] INFO  replaying INV-4794 DRAFT->VOID ok
+[2026-11-02T08:46:36Z] [recon] INFO  replaying INV-4654 ISSUED->PAID ok
+[2026-11-02T08:46:36Z] [recon] INFO  replaying INV-1451 ISSUED->PAID ok
+[2026-11-02T08:46:37Z] [recon] INFO  replaying INV-2528 DRAFT->VOID ok
+[2026-11-02T08:46:37Z] [recon] INFO  replaying INV-5119 DRAFT->ISSUED ok
+[2026-11-02T08:46:37Z] [recon] INFO  replaying INV-2355 ISSUED->VOID ok
+[2026-11-02T08:46:37Z] [recon] INFO  replaying INV-3498 DRAFT->ISSUED ok
+[2026-11-02T08:46:38Z] [recon] INFO  replaying INV-4797 DRAFT->ISSUED ok
+[2026-11-02T08:46:38Z] [recon] INFO  replaying INV-2254 ISSUED->PAID ok
+[2026-11-02T08:46:38Z] [recon] INFO  replaying INV-7306 DRAFT->ISSUED ok
+[2026-11-02T08:46:38Z] [recon] INFO  replaying INV-5973 ISSUED->PAID ok
+[2026-11-02T08:46:38Z] [recon] INFO  replaying INV-1438 ISSUED->VOID ok
+[2026-11-02T08:46:39Z] [recon] INFO  replaying INV-1757 DRAFT->VOID ok
+[2026-11-02T08:46:39Z] [recon] INFO  replaying INV-6230 ISSUED->PAID ok
+[2026-11-02T08:46:39Z] [recon] INFO  replaying INV-5892 ISSUED->PAID ok
+[2026-11-02T08:46:40Z] [recon] INFO  replaying INV-2794 ISSUED->VOID ok
+[2026-11-02T08:46:40Z] [recon] INFO  replaying INV-2703 DRAFT->VOID ok
+[2026-11-02T08:46:40Z] [recon] INFO  replaying INV-8007 DRAFT->VOID ok
+[2026-11-02T08:46:40Z] [recon] INFO  replaying INV-6337 ISSUED->PAID ok
+[2026-11-02T08:46:40Z] [recon] INFO  replaying INV-7803 ISSUED->PAID ok
+[2026-11-02T08:46:41Z] [recon] INFO  replaying INV-8032 ISSUED->PAID ok
+[2026-11-02T08:46:41Z] [recon] INFO  replaying INV-8954 ISSUED->VOID ok
+[2026-11-02T08:46:41Z] [recon] INFO  replaying INV-1622 DRAFT->ISSUED ok
+[2026-11-02T08:46:41Z] [recon] INFO  replaying INV-7193 ISSUED->PAID ok
+[2026-11-02T08:46:42Z] [recon] INFO  replaying INV-4723 DRAFT->ISSUED ok
+[2026-11-02T08:46:42Z] [recon] INFO  replaying INV-8955 DRAFT->ISSUED ok
+[2026-11-02T08:46:42Z] [recon] INFO  replaying INV-5170 DRAFT->VOID ok
+[2026-11-02T08:46:42Z] [recon] INFO  replaying INV-8370 ISSUED->PAID ok
+[2026-11-02T08:46:43Z] [recon] INFO  replaying INV-5632 DRAFT->VOID ok
+[2026-11-02T08:46:43Z] [recon] INFO  replaying INV-3658 DRAFT->VOID ok
+[2026-11-02T08:46:43Z] [recon] INFO  replaying INV-2991 DRAFT->VOID ok
+[2026-11-02T08:46:43Z] [recon] INFO  replaying INV-1286 ISSUED->PAID ok
+[2026-11-02T08:46:44Z] [recon] INFO  replaying INV-4886 ISSUED->PAID ok
+[2026-11-02T08:46:44Z] [recon] INFO  replaying INV-5389 ISSUED->PAID ok
+[2026-11-02T08:46:44Z] [recon] INFO  replaying INV-4109 DRAFT->VOID ok
+[2026-11-02T08:46:45Z] [recon] INFO  replaying INV-3267 ISSUED->VOID ok
+[2026-11-02T08:46:45Z] [recon] INFO  replaying INV-4871 DRAFT->ISSUED ok
+[2026-11-02T08:46:45Z] [recon] INFO  replaying INV-5332 ISSUED->PAID ok
+[2026-11-02T08:46:45Z] [recon] INFO  replaying INV-8362 DRAFT->VOID ok
+[2026-11-02T08:46:45Z] [recon] INFO  replaying INV-7087 ISSUED->VOID ok
+[2026-11-02T08:46:45Z] [recon] INFO  replaying INV-6901 DRAFT->VOID ok
+[2026-11-02T08:46:45Z] [recon] INFO  replaying INV-2176 DRAFT->ISSUED ok
+[2026-11-02T08:46:46Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:46Z] [recon] INFO  replaying INV-3702 DRAFT->VOID ok
+[2026-11-02T08:46:46Z] [recon] INFO  replaying INV-3726 ISSUED->VOID ok
+[2026-11-02T08:46:46Z] [recon] INFO  replaying INV-4022 ISSUED->VOID ok
+[2026-11-02T08:46:46Z] [recon] INFO  replaying INV-3037 ISSUED->VOID ok
+[2026-11-02T08:46:46Z] [recon] INFO  replaying INV-6869 DRAFT->ISSUED ok
+[2026-11-02T08:46:47Z] [recon] INFO  replaying INV-3291 ISSUED->PAID ok
+[2026-11-02T08:46:47Z] [recon] INFO  replaying INV-4965 ISSUED->PAID ok
+[2026-11-02T08:46:47Z] [recon] INFO  replaying INV-6377 DRAFT->VOID ok
+[2026-11-02T08:46:47Z] [recon] INFO  replaying INV-2956 DRAFT->VOID ok
+[2026-11-02T08:46:47Z] [recon] INFO  replaying INV-6199 DRAFT->VOID ok
+[2026-11-02T08:46:47Z] [recon] INFO  replaying INV-6246 ISSUED->VOID ok
+[2026-11-02T08:46:48Z] [recon] INFO  replaying INV-2144 ISSUED->VOID ok
+[2026-11-02T08:46:48Z] [recon] INFO  replaying INV-2527 ISSUED->VOID ok
+[2026-11-02T08:46:48Z] [recon] INFO  replaying INV-4196 ISSUED->PAID ok
+[2026-11-02T08:46:48Z] [recon] INFO  replaying INV-9029 DRAFT->ISSUED ok
+[2026-11-02T08:46:48Z] [recon] INFO  replaying INV-2530 DRAFT->VOID ok
+[2026-11-02T08:46:48Z] [recon] INFO  replaying INV-4371 ISSUED->VOID ok
+[2026-11-02T08:46:49Z] [recon] INFO  replaying INV-2896 DRAFT->ISSUED ok
+[2026-11-02T08:46:49Z] [recon] INFO  replaying INV-1507 ISSUED->VOID ok
+[2026-11-02T08:46:49Z] [recon] INFO  replaying INV-6539 DRAFT->VOID ok
+[2026-11-02T08:46:49Z] [recon] INFO  replaying INV-6454 ISSUED->PAID ok
+[2026-11-02T08:46:49Z] [recon] INFO  replaying INV-7282 ISSUED->PAID ok
+[2026-11-02T08:46:49Z] [recon] INFO  replaying INV-8173 DRAFT->ISSUED ok
+[2026-11-02T08:46:50Z] [recon] INFO  replaying INV-2970 DRAFT->ISSUED ok
+[2026-11-02T08:46:50Z] [recon] INFO  replaying INV-6260 DRAFT->ISSUED ok
+[2026-11-02T08:46:50Z] [recon] INFO  replaying INV-5837 DRAFT->VOID ok
+[2026-11-02T08:46:50Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:46:50Z] [recon] INFO  replaying INV-1982 ISSUED->VOID ok
+[2026-11-02T08:46:50Z] [recon] INFO  replaying INV-3845 ISSUED->VOID ok
+[2026-11-02T08:46:50Z] [recon] INFO  replaying INV-5166 ISSUED->VOID ok
+[2026-11-02T08:46:51Z] [recon] INFO  replaying INV-1696 DRAFT->VOID ok
+[2026-11-02T08:46:51Z] [recon] INFO  replaying INV-7588 ISSUED->PAID ok
+[2026-11-02T08:46:51Z] [recon] INFO  replaying INV-2311 ISSUED->PAID ok
+[2026-11-02T08:46:52Z] [recon] INFO  replaying INV-8889 ISSUED->VOID ok
+[2026-11-02T08:46:52Z] [recon] INFO  replaying INV-2939 DRAFT->VOID ok
+[2026-11-02T08:46:52Z] [recon] INFO  replaying INV-4647 ISSUED->PAID ok
+[2026-11-02T08:46:52Z] [recon] INFO  replaying INV-4083 ISSUED->VOID ok
+[2026-11-02T08:46:53Z] [recon] INFO  replaying INV-3967 DRAFT->ISSUED ok
+[2026-11-02T08:46:53Z] [recon] INFO  replaying INV-8986 DRAFT->ISSUED ok
+[2026-11-02T08:46:53Z] [recon] INFO  replaying INV-4935 ISSUED->VOID ok
+[2026-11-02T08:46:53Z] [recon] INFO  replaying INV-6265 ISSUED->VOID ok
+[2026-11-02T08:46:53Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:46:53Z] [recon] INFO  replaying INV-7783 DRAFT->VOID ok
+[2026-11-02T08:46:54Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-6022 DRAFT->ISSUED ok
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-4388 DRAFT->VOID ok
+[2026-11-02T08:46:54Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-7813 DRAFT->VOID ok
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-8938 DRAFT->ISSUED ok
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-7501 ISSUED->PAID ok
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-3103 DRAFT->ISSUED ok
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-7847 DRAFT->ISSUED ok
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-3508 ISSUED->VOID ok
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-3731 DRAFT->VOID ok
+[2026-11-02T08:46:54Z] [recon] INFO  replaying INV-1758 DRAFT->ISSUED ok
+[2026-11-02T08:46:55Z] [recon] INFO  replaying INV-7304 DRAFT->ISSUED ok
+[2026-11-02T08:46:55Z] [recon] INFO  replaying INV-2109 DRAFT->ISSUED ok
+[2026-11-02T08:46:55Z] [recon] INFO  replaying INV-4392 ISSUED->PAID ok
+[2026-11-02T08:46:55Z] [recon] INFO  replaying INV-5041 ISSUED->PAID ok
+[2026-11-02T08:46:55Z] [recon] INFO  replaying INV-3510 ISSUED->PAID ok
+[2026-11-02T08:46:55Z] [recon] INFO  replaying INV-2982 ISSUED->VOID ok
+[2026-11-02T08:46:56Z] [recon] INFO  replaying INV-3105 DRAFT->VOID ok
+[2026-11-02T08:46:56Z] [recon] INFO  replaying INV-3098 ISSUED->VOID ok
+[2026-11-02T08:46:56Z] [recon] INFO  replaying INV-8485 DRAFT->ISSUED ok
+[2026-11-02T08:46:56Z] [recon] INFO  replaying INV-5228 DRAFT->VOID ok
+[2026-11-02T08:46:56Z] [recon] INFO  replaying INV-6532 ISSUED->PAID ok
+[2026-11-02T08:46:57Z] [recon] INFO  replaying INV-5982 ISSUED->VOID ok
+[2026-11-02T08:46:57Z] [recon] INFO  replaying INV-8538 DRAFT->VOID ok
+[2026-11-02T08:46:57Z] [recon] INFO  replaying INV-4537 ISSUED->VOID ok
+[2026-11-02T08:46:57Z] [recon] INFO  replaying INV-7467 DRAFT->ISSUED ok
+[2026-11-02T08:46:57Z] [recon] INFO  replaying INV-8849 DRAFT->ISSUED ok
+[2026-11-02T08:46:58Z] [recon] INFO  replaying INV-1705 ISSUED->PAID ok
+[2026-11-02T08:46:58Z] [recon] INFO  replaying INV-7962 DRAFT->ISSUED ok
+[2026-11-02T08:46:58Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:46:58Z] [recon] INFO  replaying INV-7803 ISSUED->PAID ok
+[2026-11-02T08:46:58Z] [recon] INFO  replaying INV-6590 ISSUED->PAID ok
+[2026-11-02T08:46:58Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:46:58Z] [recon] INFO  replaying INV-7391 ISSUED->PAID ok
+[2026-11-02T08:46:59Z] [recon] INFO  replaying INV-8649 ISSUED->VOID ok
+[2026-11-02T08:46:59Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:46:59Z] [recon] INFO  replaying INV-2724 ISSUED->PAID ok
+[2026-11-02T08:46:59Z] [recon] INFO  replaying INV-4612 DRAFT->ISSUED ok
+[2026-11-02T08:46:59Z] [recon] INFO  replaying INV-4483 ISSUED->VOID ok
+[2026-11-02T08:47:00Z] [recon] INFO  replaying INV-5277 ISSUED->PAID ok
+[2026-11-02T08:47:00Z] [recon] INFO  replaying INV-1510 DRAFT->VOID ok
+[2026-11-02T08:47:00Z] [recon] INFO  replaying INV-1111 DRAFT->ISSUED ok
+[2026-11-02T08:47:00Z] [recon] INFO  replaying INV-7073 ISSUED->PAID ok
+[2026-11-02T08:47:01Z] [recon] INFO  replaying INV-2482 ISSUED->VOID ok
+[2026-11-02T08:47:01Z] [recon] INFO  replaying INV-1441 DRAFT->ISSUED ok
+[2026-11-02T08:47:01Z] [recon] INFO  replaying INV-2337 DRAFT->ISSUED ok
+[2026-11-02T08:47:02Z] [recon] INFO  replaying INV-8312 ISSUED->PAID ok
+[2026-11-02T08:47:02Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:47:02Z] [recon] INFO  replaying INV-2627 DRAFT->VOID ok
+[2026-11-02T08:47:02Z] [recon] INFO  replaying INV-6049 DRAFT->ISSUED ok
+[2026-11-02T08:47:02Z] [recon] INFO  replaying INV-4463 ISSUED->VOID ok
+[2026-11-02T08:47:03Z] [recon] INFO  replaying INV-6538 ISSUED->PAID ok
+[2026-11-02T08:47:03Z] [recon] INFO  replaying INV-5486 ISSUED->PAID ok
+[2026-11-02T08:47:03Z] [recon] INFO  replaying INV-1532 DRAFT->ISSUED ok
+[2026-11-02T08:47:03Z] [recon] INFO  replaying INV-1286 DRAFT->ISSUED ok
+[2026-11-02T08:47:03Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:47:04Z] [recon] INFO  replaying INV-1284 ISSUED->PAID ok
+[2026-11-02T08:47:04Z] [recon] INFO  replaying INV-1623 ISSUED->VOID ok
+[2026-11-02T08:47:04Z] [recon] INFO  replaying INV-2057 ISSUED->PAID ok
+[2026-11-02T08:47:04Z] [recon] INFO  replaying INV-9014 DRAFT->ISSUED ok
+[2026-11-02T08:47:04Z] [recon] INFO  replaying INV-4356 ISSUED->VOID ok
+[2026-11-02T08:47:05Z] [recon] INFO  replaying INV-6627 ISSUED->PAID ok
+[2026-11-02T08:47:05Z] [recon] INFO  replaying INV-1176 DRAFT->ISSUED ok
+[2026-11-02T08:47:05Z] [recon] INFO  replaying INV-2075 ISSUED->PAID ok
+[2026-11-02T08:47:05Z] [recon] INFO  replaying INV-4290 DRAFT->ISSUED ok
+[2026-11-02T08:47:05Z] [recon] INFO  replaying INV-6766 DRAFT->VOID ok
+[2026-11-02T08:47:05Z] [recon] INFO  replaying INV-5556 ISSUED->PAID ok
+[2026-11-02T08:47:05Z] [recon] INFO  replaying INV-2554 ISSUED->PAID ok
+[2026-11-02T08:47:06Z] [recon] INFO  replaying INV-8669 ISSUED->PAID ok
+[2026-11-02T08:47:06Z] [recon] INFO  replaying INV-6663 ISSUED->PAID ok
+[2026-11-02T08:47:06Z] [recon] INFO  replaying INV-4328 DRAFT->VOID ok
+[2026-11-02T08:47:07Z] [recon] INFO  replaying INV-2209 ISSUED->VOID ok
+[2026-11-02T08:47:07Z] [recon] INFO  replaying INV-3889 ISSUED->VOID ok
+[2026-11-02T08:47:07Z] [recon] INFO  replaying INV-4190 DRAFT->ISSUED ok
+[2026-11-02T08:47:07Z] [recon] INFO  replaying INV-7742 ISSUED->PAID ok
+[2026-11-02T08:47:07Z] [recon] INFO  replaying INV-4712 ISSUED->PAID ok
+[2026-11-02T08:47:07Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:47:08Z] [recon] INFO  replaying INV-5534 DRAFT->ISSUED ok
+[2026-11-02T08:47:08Z] [recon] INFO  replaying INV-3827 ISSUED->VOID ok
+[2026-11-02T08:47:08Z] [recon] INFO  replaying INV-2269 DRAFT->VOID ok
+[2026-11-02T08:47:08Z] [recon] INFO  replaying INV-9029 ISSUED->PAID ok
+[2026-11-02T08:47:08Z] [recon] INFO  replaying INV-8797 ISSUED->VOID ok
+[2026-11-02T08:47:09Z] [recon] INFO  replaying INV-5152 DRAFT->VOID ok
+[2026-11-02T08:47:09Z] [recon] INFO  replaying INV-2210 ISSUED->PAID ok
+[2026-11-02T08:47:09Z] [recon] INFO  replaying INV-3159 DRAFT->VOID ok
+[2026-11-02T08:47:09Z] [recon] INFO  replaying INV-6776 ISSUED->VOID ok
+[2026-11-02T08:47:09Z] [recon] INFO  replaying INV-7030 DRAFT->ISSUED ok
+[2026-11-02T08:47:09Z] [recon] INFO  replaying INV-4854 ISSUED->VOID ok
+[2026-11-02T08:47:09Z] [recon] INFO  replaying INV-4147 ISSUED->VOID ok
+[2026-11-02T08:47:10Z] [recon] INFO  replaying INV-4436 DRAFT->ISSUED ok
+[2026-11-02T08:47:10Z] [recon] INFO  replaying INV-4660 ISSUED->PAID ok
+[2026-11-02T08:47:10Z] [recon] INFO  replaying INV-4699 DRAFT->ISSUED ok
+[2026-11-02T08:47:10Z] [recon] INFO  replaying INV-5976 ISSUED->PAID ok
+[2026-11-02T08:47:10Z] [recon] INFO  replaying INV-5112 ISSUED->PAID ok
+[2026-11-02T08:47:10Z] [recon] INFO  replaying INV-3676 DRAFT->VOID ok
+[2026-11-02T08:47:11Z] [recon] INFO  replaying INV-8480 ISSUED->VOID ok
+[2026-11-02T08:47:11Z] [recon] INFO  replaying INV-7161 DRAFT->ISSUED ok
+[2026-11-02T08:47:11Z] [recon] INFO  replaying INV-2348 ISSUED->VOID ok
+[2026-11-02T08:47:11Z] [recon] INFO  replaying INV-6753 DRAFT->VOID ok
+[2026-11-02T08:47:12Z] [recon] INFO  replaying INV-8262 DRAFT->VOID ok
+[2026-11-02T08:47:12Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:47:12Z] [recon] INFO  replaying INV-3897 DRAFT->ISSUED ok
+[2026-11-02T08:47:13Z] [recon] INFO  replaying INV-3615 ISSUED->VOID ok
+[2026-11-02T08:47:13Z] [recon] INFO  replaying INV-4600 ISSUED->PAID ok
+[2026-11-02T08:47:13Z] [recon] INFO  replaying INV-4829 ISSUED->PAID ok
+[2026-11-02T08:47:13Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:47:13Z] [recon] INFO  replaying INV-8851 ISSUED->PAID ok
+[2026-11-02T08:47:13Z] [recon] INFO  replaying INV-4472 DRAFT->ISSUED ok
+[2026-11-02T08:47:13Z] [recon] INFO  replaying INV-4910 ISSUED->PAID ok
+[2026-11-02T08:47:14Z] [recon] INFO  replaying INV-5909 DRAFT->VOID ok
+[2026-11-02T08:47:14Z] [recon] INFO  replaying INV-6666 ISSUED->PAID ok
+[2026-11-02T08:47:14Z] [recon] INFO  replaying INV-8537 ISSUED->VOID ok
+[2026-11-02T08:47:14Z] [recon] INFO  replaying INV-1252 DRAFT->ISSUED ok
+[2026-11-02T08:47:15Z] [recon] INFO  replaying INV-7044 DRAFT->VOID ok
+[2026-11-02T08:47:15Z] [recon] INFO  replaying INV-5728 DRAFT->ISSUED ok
+[2026-11-02T08:47:15Z] [recon] INFO  replaying INV-1196 ISSUED->PAID ok
+[2026-11-02T08:47:15Z] [recon] INFO  replaying INV-4767 DRAFT->ISSUED ok
+[2026-11-02T08:47:16Z] [recon] INFO  replaying INV-5559 DRAFT->ISSUED ok
+[2026-11-02T08:47:16Z] [recon] INFO  replaying INV-5324 ISSUED->PAID ok
+[2026-11-02T08:47:16Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:47:17Z] [recon] INFO  replaying INV-8671 DRAFT->VOID ok
+[2026-11-02T08:47:17Z] [recon] WARN  retrying ledger write (attempt 2) (non-fatal)
+[2026-11-02T08:47:17Z] [recon] INFO  replaying INV-7937 ISSUED->VOID ok
+[2026-11-02T08:47:18Z] [recon] INFO  replaying INV-6916 DRAFT->ISSUED ok
+[2026-11-02T08:47:18Z] [recon] INFO  replaying INV-2982 DRAFT->ISSUED ok
+[2026-11-02T08:47:18Z] [recon] INFO  replaying INV-1494 ISSUED->PAID ok
+[2026-11-02T08:47:18Z] [recon] INFO  replaying INV-2503 DRAFT->ISSUED ok
+[2026-11-02T08:47:18Z] [recon] INFO  replaying INV-3053 DRAFT->VOID ok
+[2026-11-02T08:47:19Z] [recon] INFO  replaying INV-5452 DRAFT->ISSUED ok
+[2026-11-02T08:47:19Z] [recon] INFO  replaying INV-3217 DRAFT->VOID ok
+[2026-11-02T08:47:19Z] [recon] INFO  replaying INV-1349 ISSUED->VOID ok
+[2026-11-02T08:47:19Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:47:20Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:47:20Z] [recon] INFO  replaying INV-8312 ISSUED->PAID ok
+[2026-11-02T08:47:20Z] [recon] INFO  replaying INV-2569 ISSUED->VOID ok
+[2026-11-02T08:47:20Z] [recon] INFO  replaying INV-5529 ISSUED->PAID ok
+[2026-11-02T08:47:21Z] [recon] INFO  replaying INV-5396 ISSUED->PAID ok
+[2026-11-02T08:47:21Z] [recon] INFO  replaying INV-5801 ISSUED->PAID ok
+[2026-11-02T08:47:21Z] [recon] INFO  replaying INV-4950 DRAFT->VOID ok
+[2026-11-02T08:47:22Z] [recon] INFO  replaying INV-1576 ISSUED->PAID ok
+[2026-11-02T08:47:22Z] [recon] INFO  replaying INV-8847 DRAFT->VOID ok
+[2026-11-02T08:47:22Z] [recon] INFO  replaying INV-3448 ISSUED->PAID ok
+[2026-11-02T08:47:22Z] [recon] INFO  replaying INV-8857 ISSUED->VOID ok
+[2026-11-02T08:47:22Z] [recon] INFO  replaying INV-2571 ISSUED->PAID ok
+[2026-11-02T08:47:22Z] [recon] INFO  replaying INV-6424 ISSUED->VOID ok
+[2026-11-02T08:47:22Z] [recon] INFO  replaying INV-2423 ISSUED->VOID ok
+[2026-11-02T08:47:22Z] [recon] INFO  replaying INV-5005 DRAFT->ISSUED ok
+[2026-11-02T08:47:23Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:47:23Z] [recon] INFO  replaying INV-2544 DRAFT->VOID ok
+[2026-11-02T08:47:23Z] [recon] INFO  replaying INV-2967 ISSUED->VOID ok
+[2026-11-02T08:47:23Z] [recon] INFO  replaying INV-2444 ISSUED->PAID ok
+[2026-11-02T08:47:24Z] [recon] INFO  replaying INV-3222 DRAFT->VOID ok
+[2026-11-02T08:47:24Z] [recon] INFO  replaying INV-8647 ISSUED->VOID ok
+[2026-11-02T08:47:24Z] [recon] INFO  replaying INV-5655 DRAFT->ISSUED ok
+[2026-11-02T08:47:24Z] [recon] INFO  replaying INV-7061 ISSUED->VOID ok
+[2026-11-02T08:47:24Z] [recon] WARN  retrying ledger write (attempt 1) (non-fatal)
+[2026-11-02T08:47:24Z] [recon] INFO  replaying INV-8519 DRAFT->VOID ok
+[2026-11-02T08:47:25Z] [recon] INFO  replaying INV-7600 ISSUED->VOID ok
+[2026-11-02T08:47:25Z] [recon] INFO  replaying INV-4008 ISSUED->VOID ok
+[2026-11-02T08:47:25Z] [recon] INFO  replaying INV-1227 ISSUED->PAID ok
+[2026-11-02T08:47:26Z] [recon] INFO  replaying INV-8092 ISSUED->VOID ok
+[2026-11-02T08:47:26Z] [recon] INFO  replaying INV-5372 ISSUED->PAID ok
+[2026-11-02T08:47:26Z] [recon] INFO  replaying INV-6857 ISSUED->PAID ok
+[2026-11-02T08:47:26Z] [recon] INFO  replaying INV-2782 DRAFT->VOID ok
+[2026-11-02T08:47:26Z] [recon] INFO  replaying INV-5112 ISSUED->PAID ok
+[2026-11-02T08:47:27Z] [recon] INFO  replaying INV-4977 ISSUED->VOID ok
+[2026-11-02T08:47:27Z] [recon] INFO  replaying INV-1703 DRAFT->VOID ok
+[2026-11-02T08:47:27Z] [recon] INFO  replaying INV-1639 ISSUED->VOID ok
+[2026-11-02T08:47:27Z] [recon] INFO  replaying INV-6656 DRAFT->VOID ok
+[2026-11-02T08:47:27Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:47:28Z] [recon] INFO  replaying INV-1601 DRAFT->VOID ok
+[2026-11-02T08:47:28Z] [recon] INFO  replaying INV-6461 ISSUED->PAID ok
+[2026-11-02T08:47:28Z] [recon] INFO  replaying INV-1232 ISSUED->PAID ok
+[2026-11-02T08:47:28Z] [recon] INFO  replaying INV-7737 DRAFT->ISSUED ok
+[2026-11-02T08:47:28Z] [recon] INFO  replaying INV-7730 ISSUED->PAID ok
+[2026-11-02T08:47:29Z] [recon] INFO  replaying INV-1655 ISSUED->VOID ok
+[2026-11-02T08:47:29Z] [recon] INFO  replaying INV-1466 ISSUED->VOID ok
+[2026-11-02T08:47:29Z] [recon] INFO  replaying INV-1257 ISSUED->VOID ok
+[2026-11-02T08:47:29Z] [recon] INFO  replaying INV-3740 DRAFT->VOID ok
+[2026-11-02T08:47:29Z] [recon] INFO  replaying INV-4308 ISSUED->PAID ok
+[2026-11-02T08:47:30Z] [recon] INFO  replaying INV-8931 DRAFT->ISSUED ok
+[2026-11-02T08:47:30Z] [recon] INFO  replaying INV-3463 DRAFT->VOID ok
+[2026-11-02T08:47:30Z] [recon] WARN  retrying ledger write (attempt 3) (non-fatal)
+[2026-11-02T08:47:30Z] [recon] INFO  replaying INV-1277 DRAFT->VOID ok
+[2026-11-02T08:47:30Z] [recon] INFO  replaying INV-3886 DRAFT->ISSUED ok
+[2026-11-02T08:47:31Z] [recon] INFO  replaying INV-7456 ISSUED->PAID ok
+[2026-11-02T08:47:31Z] [recon] INFO  replaying INV-5944 DRAFT->VOID ok
+[2026-11-02T08:47:31Z] [recon] summary: 2,411 ok, 1 failed
+[2026-11-02T08:47:31Z] step 5/6 contract:reconciliation .................. FAILED (41.2s)
+[2026-11-02T08:47:31Z] step 6/6 publish release notes ................... skipped
+[2026-11-02T08:47:32Z] pipeline ledgerlab-release #418 FAILED: release v0.8.0 blocked
