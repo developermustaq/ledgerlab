@@ -1,6 +1,6 @@
 # 08 · Parallel investigation ("One problem, three investigators")
 
-**Time:** 01:13–01:26 · **Lead:** Mustaq · **Branch:** `main` · **Fallback:** `workshop/checkpoint-01-investigated` (`reports/triage.md`)
+**Time:** 01:13–01:26 · **Lead:** Mustaq (three agents) → James (exercise, parallelism) · **Branch:** `main` · **Fallback:** `workshop/checkpoint-01-investigated` (`reports/triage.md`)
 
 ## Goal
 

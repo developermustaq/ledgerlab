@@ -1,0 +1,52 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;700;800&display=block" rel="stylesheet">
+<style>html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:#F8F3F0;}
+svg{font-family:'Plus Jakarta Sans',sans-serif;}</style></head>
+<body><svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="head" markerWidth="4" markerHeight="4" refX="3.2" refY="2" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L4,2 L0,4 Z" fill="#A8620F"/></marker></defs>
+<rect width="1920" height="1080" fill="#F8F3F0"/>
+<rect x="90" y="70" width="270" height="7" fill="#3CC6D8"/>
+<text x="90" y="122" font-size="24" font-weight="800" fill="#5B6B85" text-anchor="start">TRUST BOUNDARIES</text>
+<text x="90" y="232" font-size="76" font-weight="800" fill="#014BAA" text-anchor="start">HOW A TOOL CALL GETS PERMISSION</text>
+<rect x="90" y="430" width="300" height="200" rx="18" fill="#014BAA" stroke="none" stroke-width="3"/>
+<text x="118" y="482" font-size="30" font-weight="800" fill="#FFFFFF">TOOL CALL</text>
+<text x="118" y="524" font-size="24" fill="#FFFFFF">Edit, Bash,</text>
+<text x="118" y="558" font-size="24" fill="#FFFFFF">MCP write…</text>
+<polyline points="390,530 455,530" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<polygon points="560,450.0 665.0,530 560,610.0 455.0,530" fill="#E6EEF8" stroke="#014BAA" stroke-width="3"/><text x="560" y="539" font-size="26" font-weight="800" fill="#014BAA" text-anchor="middle">Deny rule?</text>
+<polyline points="560,450 560,370" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<text x="595" y="420" font-size="22" font-weight="700" fill="#A8620F" text-anchor="middle">yes</text>
+<rect x="410" y="280" width="300" height="90" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="438" y="332" font-size="28" font-weight="800" fill="#C0394B">BLOCKED</text>
+<polyline points="665,530 785,530" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<text x="700" y="515" font-size="22" font-weight="700" fill="#A8620F" text-anchor="middle">no</text>
+<polygon points="900,450.0 1005.0,530 900,610.0 795.0,530" fill="#E6EEF8" stroke="#014BAA" stroke-width="3"/><text x="900" y="539" font-size="26" font-weight="800" fill="#014BAA" text-anchor="middle">Ask rule?</text>
+<polyline points="900,450 900,370" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<text x="935" y="420" font-size="22" font-weight="700" fill="#A8620F" text-anchor="middle">yes</text>
+<rect x="750" y="280" width="300" height="90" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="778" y="332" font-size="28" font-weight="800" fill="#A8620F">ASK A HUMAN</text>
+<polyline points="1005,530 1125,530" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<text x="1040" y="515" font-size="22" font-weight="700" fill="#A8620F" text-anchor="middle">no</text>
+<polygon points="1240,450.0 1345.0,530 1240,610.0 1135.0,530" fill="#E6EEF8" stroke="#014BAA" stroke-width="3"/><text x="1240" y="539" font-size="26" font-weight="800" fill="#014BAA" text-anchor="middle">Allow rule?</text>
+<polyline points="1240,450 1240,370" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<text x="1275" y="420" font-size="22" font-weight="700" fill="#A8620F" text-anchor="middle">yes</text>
+<rect x="1090" y="280" width="300" height="90" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="1118" y="332" font-size="28" font-weight="800" fill="#2E7D4F">RUNS</text>
+<polyline points="1345,530 1430,530" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<text x="1380" y="515" font-size="22" font-weight="700" fill="#A8620F" text-anchor="middle">no</text>
+<rect x="1440" y="400" width="400" height="300" rx="18" fill="#E6EEF8" stroke="none" stroke-width="3"/>
+<text x="1468" y="452" font-size="28" font-weight="800" fill="#014BAA">MODE DECIDES</text>
+<text x="1468" y="494" font-size="24" fill="#14284B">Manual: asks you</text>
+<text x="1468" y="528" font-size="24" fill="#14284B">Auto: classifier reviews</text>
+<text x="1468" y="562" font-size="24" fill="#14284B">Plan: no source edits</text>
+<text x="1468" y="596" font-size="24" fill="#14284B">acceptEdits: edits ok</text>
+<text x="1468" y="630" font-size="24" fill="#14284B">dontAsk: denies prompts</text>
+<rect x="90" y="830" width="1300" height="130" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="118" y="882" font-size="26" font-weight="800" fill="#014BAA">LEDGERLAB .claude/settings.json</text>
+<text x="118" y="924" font-size="22" fill="#14284B">deny: Edit(/tests/fixtures.ts), Read(/.env), Bash(curl *)  ·  allow: npm test, get_incident</text>
+<text x="90" y="1010" font-size="30" font-weight="700" fill="#A8620F" text-anchor="start">First match wins: deny → ask → allow.</text>
+<text x="90" y="1050" font-size="18" font-weight="700" fill="#5B6B85" text-anchor="start">AI ENGINEERING MASTERCLASS · LEDGERLAB</text>
+<text x="1830" y="1050" font-size="18" font-weight="700" fill="#5B6B85" text-anchor="end">31b</text>
+</svg></body></html>

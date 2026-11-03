@@ -1,0 +1,55 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;700;800&display=block" rel="stylesheet">
+<style>html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:#F8F3F0;}
+svg{font-family:'Plus Jakarta Sans',sans-serif;}</style></head>
+<body><svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="head" markerWidth="4" markerHeight="4" refX="3.2" refY="2" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L4,2 L0,4 Z" fill="#A8620F"/></marker></defs>
+<rect width="1920" height="1080" fill="#F8F3F0"/>
+<rect x="90" y="70" width="270" height="7" fill="#3CC6D8"/>
+<text x="90" y="122" font-size="24" font-weight="800" fill="#5B6B85" text-anchor="start">SKILLS</text>
+<text x="90" y="232" font-size="76" font-weight="800" fill="#014BAA" text-anchor="start">HOW A SKILL LOADS AND RUNS</text>
+<rect x="90" y="300" width="520" height="200" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="118" y="352" font-size="28" font-weight="800" fill="#014BAA">SESSION START</text>
+<text x="118" y="394" font-size="22" fill="#14284B">only the description is loaded:</text>
+<text x="118" y="426" font-size="22" fill="#14284B">“release-triage: investigate a</text>
+<text x="118" y="458" font-size="22" fill="#14284B">release-blocking defect…”</text>
+<polyline points="610,400 690,400" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<rect x="700" y="300" width="480" height="200" rx="18" fill="#E6EEF8" stroke="none" stroke-width="3"/>
+<text x="728" y="352" font-size="28" font-weight="800" fill="#014BAA">TRIGGER</text>
+<text x="728" y="394" font-size="24" fill="#14284B">/release-triage</text>
+<text x="728" y="428" font-size="24" fill="#14284B">or a matching task</text>
+<polyline points="1180,400 1260,400" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<rect x="1270" y="300" width="560" height="200" rx="18" fill="#014BAA" stroke="none" stroke-width="3"/>
+<text x="1298" y="352" font-size="28" font-weight="800" fill="#FFFFFF">BODY LOADS</text>
+<text x="1298" y="394" font-size="22" fill="#FFFFFF">.claude/skills/release-triage/</text>
+<text x="1298" y="426" font-size="22" fill="#FFFFFF">SKILL.md, stays for later turns</text>
+<polyline points="1550,500 1550,560 330,560 330,610" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<rect x="90" y="615" width="480" height="230" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="118" y="667" font-size="28" font-weight="800" fill="#014BAA">A · EVIDENCE</text>
+<text x="118" y="709" font-size="22" fill="#14284B">symptom, implementation,</text>
+<text x="118" y="741" font-size="22" fill="#14284B">tests, logs</text>
+<text x="118" y="773" font-size="22" fill="#14284B">facts / hypotheses / gaps</text>
+<text x="118" y="805" font-size="22" fill="#14284B">NO EDITS</text>
+<polyline points="570,730 640,730" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<rect x="650" y="615" width="420" height="230" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="678" y="667" font-size="28" font-weight="800" fill="#014BAA">B · SMALLEST FIX</text>
+<text x="678" y="709" font-size="22" fill="#14284B">violated invariant</text>
+<text x="678" y="741" font-size="22" fill="#14284B">minimal change</text>
+<text x="678" y="773" font-size="22" fill="#14284B">test that should fail</text>
+<polyline points="1070,730 1140,730" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<polygon points="1250,655.0 1350.0,730 1250,805.0 1150.0,730" fill="#E6EEF8" stroke="#014BAA" stroke-width="3"/><text x="1250" y="739" font-size="26" font-weight="800" fill="#014BAA" text-anchor="middle">Approved?</text>
+<polyline points="1350,730 1410,730" fill="none" stroke="#A8620F" stroke-width="5" stroke-linejoin="round" marker-end="url(#head)"/>
+<text x="1380" y="715" font-size="22" font-weight="700" fill="#A8620F" text-anchor="middle">yes</text>
+<rect x="1420" y="615" width="410" height="230" rx="18" fill="#FFFFFF" stroke="none" stroke-width="3"/>
+<text x="1448" y="667" font-size="28" font-weight="800" fill="#2E7D4F">C · VERIFY</text>
+<text x="1448" y="709" font-size="22" fill="#14284B">narrow test first</text>
+<text x="1448" y="741" font-size="22" fill="#14284B">minimal fix</text>
+<text x="1448" y="773" font-size="22" fill="#14284B">focused test → suite</text>
+<text x="1448" y="805" font-size="22" fill="#14284B">report + uncertainty</text>
+<text x="1250" y="850" font-size="22" font-weight="700" fill="#C0394B" text-anchor="middle">no: stop, report</text>
+<text x="90" y="1010" font-size="30" font-weight="700" fill="#A8620F" text-anchor="start">A reusable procedure: not fine-tuning, not guaranteed compliance.</text>
+<text x="90" y="1050" font-size="18" font-weight="700" fill="#5B6B85" text-anchor="start">AI ENGINEERING MASTERCLASS · LEDGERLAB</text>
+<text x="1830" y="1050" font-size="18" font-weight="700" fill="#5B6B85" text-anchor="end">19b</text>
+</svg></body></html>
