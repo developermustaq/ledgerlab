@@ -9,10 +9,15 @@
       "Bash(git show *)",
       "mcp__incidents__get_incident"
     ],
+    "ask": [
+      "mcp__incidents__update_incident_status"
+    ],
     "deny": [
-      "Read(./.env)",
-      "Read(./.env.*)",
-      "Edit(./tests/fixtures.ts)"
+      "Read(/.env)",
+      "Read(/.env.*)",
+      "Edit(/tests/fixtures.ts)",
+      "Bash(curl *)",
+      "Bash(wget *)"
     ]
   }
 }

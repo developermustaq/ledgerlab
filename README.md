@@ -41,11 +41,22 @@ Create a branch for your own work: `git switch -c my-work`.
 | `mcp/incident-server/` | A fake incident system with an MCP server and a web UI |
 | `expected/checklist.md` | How to judge a triage run by behaviour, not wording |
 | `bench/` | How to measure MCP vs browser (no results until measured) |
+| `prompts/` | Every prompt used in the session, in running order |
+| `fallbacks/` | Prepared artefacts for when a live demo stalls |
+
+## Prompt library
+
+Every prompt in the session, in running order, with who runs it, the expected
+result and the fallback, is in **[`prompts/`](prompts/README.md)**:
+
+- `prompts/core/`: the 120-minute session, segment by segment
+- `prompts/extensions/`: optional 15–30 minute modules
+- `prompts/presenter/`: recovery rules, waiting questions, rehearsal checklist
 
 ## Exercises
 
-Each exercise gives you a **task**, a **prompt**, a **success checkpoint** and
-a **recovery route**.
+The hands-on parts at a glance. Each gives you a **task**, a **prompt**, a
+**success checkpoint** and a **recovery route**.
 
 ### 1. First investigation (5 min)
 

@@ -5,8 +5,9 @@ and `git diff` before doing anything else.
 
 ## Constraints that must survive any compaction
 1. Do not alter the public API (`createInvoice`, `changeStatus`, `canTransition`, `assertTransition`).
-2. Preserve the downstream reconciliation contract: invoice status is monotonic
-   (DRAFT -> ISSUED -> PAID, or -> VOID). No status may move backwards.
+2. Preserve the existing migration contract with the reconciliation service:
+   invoice status is monotonic (DRAFT -> ISSUED -> PAID, or -> VOID).
+   No status may move backwards.
 3. Do not edit `tests/fixtures.ts` (generated).
 
 ## Symptom
