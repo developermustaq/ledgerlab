@@ -44,6 +44,8 @@ Create a branch for your own work: `git switch -c my-work`.
 | `prompts/` | Every prompt used in the session, in running order |
 | `fallbacks/` | Prepared artefacts for when a live demo stalls |
 | `slides/diagrams/` | Slide-ready diagrams for each concept |
+| `slides/recorded-runs/` | Real captured runs, with commands to reproduce them |
+| `contract/` | `npm run ci:contract`: the downstream reconciliation check that fails on `main` |
 
 ## Prompt library
 
