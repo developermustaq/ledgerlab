@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { changeStatus, createInvoice } from "../src/invoice.js";
 import { InvalidTransitionError } from "../src/transitions.js";
-import { draftInvoice, issuedInvoice, voidInvoice } from "./fixtures.js";
+import { draftInvoice, issuedInvoice, paidInvoice, voidInvoice } from "./fixtures.js";
 
 describe("createInvoice", () => {
   it("starts in DRAFT with no history", () => {
@@ -39,5 +39,10 @@ describe("changeStatus", () => {
 
   it("rejects VOID -> ISSUED", () => {
     expect(() => changeStatus(voidInvoice, "ISSUED")).toThrow(InvalidTransitionError);
+  });
+
+  // Regression: reconciliation requires monotonic status (logs/ci-failure.log, INV-1007).
+  it("rejects PAID -> DRAFT", () => {
+    expect(() => changeStatus(paidInvoice, "DRAFT")).toThrow(InvalidTransitionError);
   });
 });
