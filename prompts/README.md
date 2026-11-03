@@ -17,17 +17,21 @@ spinner. See [`presenter/recovery-rules.md`](presenter/recovery-rules.md).
 | before | Participant preflight | Participants | [core/00-preflight.md](core/00-preflight.md) |
 | 00:00–00:07 | Cold open: release is blocked | James | [core/01-cold-open.md](core/01-cold-open.md) |
 | 00:07–00:16 | What Claude Code actually is | James → Mustaq | [core/02-model-vs-harness.md](core/02-model-vs-harness.md) |
-| 00:16–00:27 | Context, state and compaction | Mustaq | [core/03-context-and-compaction.md](core/03-context-and-compaction.md) |
+| 00:16–00:27 | Context, state and compaction | Mustaq (James: tokens, budget, compaction) | [core/03-context-and-compaction.md](core/03-context-and-compaction.md) |
 | 00:27–00:34 | Hands-on checkpoint | Both | [core/04-first-investigation.md](core/04-first-investigation.md) |
 | 00:34–00:42 | `CLAUDE.md` vs Skill vs agent | James | [core/05-claude-md-skill-agent.md](core/05-claude-md-skill-agent.md) |
 | 00:42–00:57 | Demo + exercise: Skill-driven triage | Mustaq | [core/06-skill-triage.md](core/06-skill-triage.md) |
 | 00:57–01:02 | Reset / questions | Both | [presenter/reset-break.md](presenter/reset-break.md) |
-| 01:02–01:13 | Agent delegation | James → Mustaq | [core/07-agent-delegation.md](core/07-agent-delegation.md) |
-| 01:13–01:26 | Parallel investigation | Mustaq | [core/08-parallel-investigation.md](core/08-parallel-investigation.md) |
+| 01:02–01:13 | Agent delegation | Mustaq | [core/07-agent-delegation.md](core/07-agent-delegation.md) |
+| 01:13–01:26 | Parallel investigation | Mustaq (three agents) → James (exercise, parallelism) | [core/08-parallel-investigation.md](core/08-parallel-investigation.md) |
 | 01:26–01:36 | Result synthesis + verification | James | [core/09-synthesis-and-verification.md](core/09-synthesis-and-verification.md) |
-| 01:36–01:48 | MCP vs browser experiment | Mustaq | [core/10-mcp-vs-browser.md](core/10-mcp-vs-browser.md) |
+| 01:36–01:48 | MCP vs browser experiment | James (MCP intro) → both (Mustaq: MCP route, James: browser route) | [core/10-mcp-vs-browser.md](core/10-mcp-vs-browser.md) |
 | 01:48–01:55 | Permissions / security | James | [core/11-permissions-and-security.md](core/11-permissions-and-security.md) |
 | 01:55–02:00 | Final retrieval challenge | Both | [core/12-final-retrieval.md](core/12-final-retrieval.md) |
+
+## Diagrams
+
+Slide-ready diagrams for these segments are in [`../slides/diagrams/`](../slides/diagrams/README.md).
 
 ## Optional extensions (15–30 min each)
 

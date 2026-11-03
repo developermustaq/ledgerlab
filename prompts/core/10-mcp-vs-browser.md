@@ -1,6 +1,6 @@
 # 10 · MCP vs browser experiment ("Structured tool vs browser")
 
-**Time:** 01:36–01:48 · **Lead:** Mustaq · **Branch:** `workshop/checkpoint-03-fixed` · **Fallback:** a recording of each route, plus the rehearsal results in `bench/runs.csv`
+**Time:** 01:36–01:48 · **Lead:** James (MCP intro) → both: Mustaq runs the MCP route, James the browser route · **Branch:** `workshop/checkpoint-03-fixed` · **Fallback:** a recording of each route, plus the rehearsal results in `bench/runs.csv`
 
 ## Goal
 
