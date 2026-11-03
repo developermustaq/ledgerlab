@@ -19,6 +19,14 @@ human_interventions`, plus the model and Claude Code version.
 Run each route several times (at least 5) and report medians and failure counts.
 A single run proves very little. Leave the scoreboard blank until you have data.
 
+## Before any trial
+
+- Be on `workshop/checkpoint-03-fixed`. INC-104's note claims the fix landed,
+  and Claude may check that against the code. On `main` it will (correctly)
+  refuse to resolve the incident.
+- Open `claude` interactively in this folder once and accept the trust dialog.
+  Until you do, headless runs ignore the allow rules in `.claude/settings.json`.
+
 ## MCP route
 
 ```bash

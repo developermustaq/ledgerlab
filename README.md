@@ -131,9 +131,11 @@ The hands-on parts at a glance. Each gives you a **task**, a **prompt**, a
 
 ### 6. MCP vs browser (presenter-led, optional for you)
 
-Same task, two interfaces, one fake incident system:
+Same task, two interfaces, one fake incident system. Run it on the fixed
+checkpoint, because the incident note claims the fix has landed:
 
 ```bash
+git switch workshop/checkpoint-03-fixed
 npm run incidents:reset
 npm run incidents:web     # web UI at http://localhost:4173/incidents/INC-104
 ```

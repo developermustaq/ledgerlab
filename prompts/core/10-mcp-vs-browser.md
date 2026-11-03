@@ -1,6 +1,6 @@
 # 10 · MCP vs browser experiment ("Structured tool vs browser")
 
-**Time:** 01:36–01:48 · **Lead:** Mustaq · **Branch:** `main` · **Fallback:** a recording of each route, plus the rehearsal results in `bench/runs.csv`
+**Time:** 01:36–01:48 · **Lead:** Mustaq · **Branch:** `workshop/checkpoint-03-fixed` · **Fallback:** a recording of each route, plus the rehearsal results in `bench/runs.csv`
 
 ## Goal
 
@@ -11,7 +11,14 @@ a winner before you have the numbers.
 
 ## Setup (before the segment)
 
+By this point in the story the fix has landed. Run the demo on the fixed
+checkpoint: INC-104's note says the regression test passed, and Claude can
+(and often does) check that claim against the repo. On `main` the fix is
+missing, so Claude correctly refuses to resolve the incident, which makes a good
+slide-24 moment but an unfair comparison between the two routes.
+
 ```bash
+git switch workshop/checkpoint-03-fixed
 npm run incidents:reset
 npm run incidents:web          # leave running: http://localhost:4173/incidents/INC-104
 ```
@@ -82,6 +89,12 @@ Do the same for INC-105.
 ```
 
 INC-105's note says "not yet tested", so the correct behaviour is **no** status change.
+
+## Bonus: the claim that doesn't match the repo (use in 11 · security)
+
+Run Route A again on `main`, where the fix is missing. A careful run reads the
+note, checks `src/transitions.ts` and `tests/`, finds the claim unsupported and
+does **not** resolve the incident. A tool result is a claim, not proof.
 
 ## Recording results
 
